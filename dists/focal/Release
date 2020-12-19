@@ -1,0 +1,29 @@
+Origin: Orkidea System
+Label: Orkidea System (Winunix OS)
+Suite: stable
+Codename: focal
+Date: Sat, 19 Dec 2020 18:29:30 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian x86-64 packages hosted on ailtonbsj github repository
+MD5Sum:
+ 86e075fad8c3a6a41978a1f874fb3781 31291 main/binary-i386/Packages
+ a8c8da6cf54241e20df824ac2032fa68 11581 main/binary-i386/Packages.gz
+ 55f39bd3268e4d7fadf3006bb1de991e 183 main/binary-i386/Release
+ 28c857e27519eb37e34f42ee06a1059b 93828 main/binary-amd64/Packages
+ 1d8c4bd4d582fa8c7240da535b599f04 27981 main/binary-amd64/Packages.gz
+ a08e334ec7f6c8165b8c9592b5e73f40 184 main/binary-amd64/Release
+SHA1:
+ 5f88a828772d293df4d749d0df58a13ed2b73607 31291 main/binary-i386/Packages
+ 60f3e0bf3098a0048ca47a84c689d9d3fbe1363d 11581 main/binary-i386/Packages.gz
+ 7b8f6108728f0717bd43ead490573df83ed90908 183 main/binary-i386/Release
+ e2e97383a02b4af1a996aaa224a1050985ab765f 93828 main/binary-amd64/Packages
+ d580884a396bdd6114eb0aaf51dbe295b4acc517 27981 main/binary-amd64/Packages.gz
+ 7ddded4de6448cb7c3561c249acfb66a2b003ad4 184 main/binary-amd64/Release
+SHA256:
+ 95d89f3bc5d39e745140d2bb89d41dd9453f8919b7f7604b0385c6a0a5e903f8 31291 main/binary-i386/Packages
+ 9e92dbd83f04539156ec7e88c7055870968c81cb5622125c3db082b06eabfb6a 11581 main/binary-i386/Packages.gz
+ 030c1920aada2bb553857f1e0e35f42cf897f23edae0108d2becbca027172d8e 183 main/binary-i386/Release
+ e8dabddd22d16a9f712e3c749c57f932b8a25af0979080edceafd3463c2a8203 93828 main/binary-amd64/Packages
+ 57011b310f545075f004cd99a1bc40d3ab0f3ae7e508100e3992655fc647f3fe 27981 main/binary-amd64/Packages.gz
+ 0404b1bae05944138f8e714273d96ed481b935fa19f8d8448a253eef403fe421 184 main/binary-amd64/Release

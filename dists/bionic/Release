@@ -1,0 +1,29 @@
+Origin: Orkidea System
+Label: Orkidea System (Winunix OS)
+Suite: stable
+Codename: bionic
+Date: Sat, 19 Dec 2020 18:29:48 UTC
+Architectures: i386 amd64
+Components: main
+Description: Debian x86-64 packages hosted on ailtonbsj github repository
+MD5Sum:
+ 1b95476efeef7541f39adec6e9594f02 22756 main/binary-i386/Packages
+ c0431fdc6326634a2036dac033c19d35 8603 main/binary-i386/Packages.gz
+ 55f39bd3268e4d7fadf3006bb1de991e 183 main/binary-i386/Release
+ 6daffabdf5824789b4ba922d58eba80c 32224 main/binary-amd64/Packages
+ c89c9116b2a05c7e7c46dfaeda01d19b 12332 main/binary-amd64/Packages.gz
+ a08e334ec7f6c8165b8c9592b5e73f40 184 main/binary-amd64/Release
+SHA1:
+ 076d61b515c80c33cee0d7d0b27cfde1732941a8 22756 main/binary-i386/Packages
+ 8005199439e69461d38330707506d01502aeaefd 8603 main/binary-i386/Packages.gz
+ 7b8f6108728f0717bd43ead490573df83ed90908 183 main/binary-i386/Release
+ db78d70d9d6eec3881cc0ddb6669102a6a81f74d 32224 main/binary-amd64/Packages
+ 38a93fd28c5402da2d897eba9f4565d139465af2 12332 main/binary-amd64/Packages.gz
+ 7ddded4de6448cb7c3561c249acfb66a2b003ad4 184 main/binary-amd64/Release
+SHA256:
+ beecc955890efa4af20959828f916f05b43b5269503937e5b98023eab9afabfd 22756 main/binary-i386/Packages
+ 93102bde3078b435521db31f00c98d856b426ece0de822702f799dc18c0e5655 8603 main/binary-i386/Packages.gz
+ 030c1920aada2bb553857f1e0e35f42cf897f23edae0108d2becbca027172d8e 183 main/binary-i386/Release
+ 42609426c3dfc295b64048e26a6b70bdff0e29f719ec3bd993483dc32bfafa85 32224 main/binary-amd64/Packages
+ 1853db805c1f3d931541998d1c59c5067623aa24fae6d020c94a5df359891c96 12332 main/binary-amd64/Packages.gz
+ 0404b1bae05944138f8e714273d96ed481b935fa19f8d8448a253eef403fe421 184 main/binary-amd64/Release

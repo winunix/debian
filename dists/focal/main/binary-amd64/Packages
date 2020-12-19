@@ -1,0 +1,2190 @@
+Package: aafm
+Version: 0.0.6
+Installed-Size: 220
+Maintainer: sole <crash.eddie123@gmail.com>
+Architecture: all
+Depends: python, adb, fastboot
+Homepage: https://github.com/sole/aafm/
+Priority: optional
+Section: utils
+Filename: pool/main/a/aafm/aafm_0.0.6_all.deb
+Size: 52264
+SHA256: 8d0f8ace04b345743c223825ab6f6b5311fd794e9b033bc66537cda9f0600842
+SHA1: cfb793b30b6cf1078607ca928f4d2ba5bd6a2775
+MD5sum: 4840c49835f1b3800e4bf4e819968189
+Description: Gerenciador de arquivos do Android ADB
+ Gerenciador de arquivos do Android ADB
+ .
+ File manager of Android ADB
+
+Package: algodoo-wine
+Version: 2.1.3
+Installed-Size: 42162
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: wine32, p7zip
+Priority: optional
+Section: science
+Filename: pool/main/a/algodoo-wine/algodoo-wine_2.1.3_all.deb
+Size: 43178148
+SHA256: f42c542513ed21fb8d97bc0bcc8f90066154b24839b30a6b20425091a7529164
+SHA1: de1475621fd2232ce40ffd7500fab29b53b6bc15
+MD5sum: 312a7a46e74ee245b07e1d61470f1ca6
+Description: Versão do Algodoo via Wine.
+ Algodoo gives you the opportunity to play with physics. Use your own hands and simple drawing tools to design, construct and explore the world of physics.
+
+Package: appsedu
+Version: 0.5.7
+Installed-Size: 220
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: xdotool, mesa-utils, celestia, google-earth-pro-stable, kstars, openuniverse, planets, stellarium, virtual-lab-microscope, freecad, librecad, solvespace, sweethome3d, logisim-evolution, digital-simulator, gresistor-extras-pt, arduino-ide, circuit-simulator, simulide, algodoo-wine, optgeo-i18n, physion-wine, step, kgeography, marble-qt, marble-maps, ktouch, klavaro, scratch, anki, goldendict-extras-pt, gconjugue, parley, geogebra-classic, wxmaxima, kbruch, jfractionlab, kalgebra, chemsketch-acd-wine, avogadro, gcu-bin, gchempaint, irydium-chemistry-lab, gelemental, kalzium, code, xampp
+Priority: optional
+Section: science
+Filename: pool/main/a/appsedu/appsedu_0.5.7_all.deb
+Size: 196668
+SHA256: db2a4df6914569ea99278318b4b07a738eafc923c466a1c3cef56aed6f096cd5
+SHA1: 5ec2d0409aaf0f125771ab729e123f83e82cbf77
+MD5sum: 475ed48d08d3b8f6d568181cb189280e
+Description: Submenus para Aplicativos educationais.
+ Os aplicativos educacionais ficaram divididos em submenus na categoria Educacional.
+
+Package: appsedu-menus
+Version: 0.5.7
+Installed-Size: 220
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: xdotool, mesa-utils
+Recommends: celestia, google-earth-pro-stable, kstars, openuniverse, planets, stellarium, gpredict, virtual-lab-microscope, freecad, librecad, solvespace, sweethome3d, gcad3d, arduino-ide, circuit-simulator, logisim, simulide, gresistor-extras-pt, digital-simulator, logisim-evolution, oregano, qelectrotech, algodoo-wine, optgeo-i18n, physion-wine, step, opticalraytracer, energy2d, openmeca, kgeography, marble-qt, marble-maps, ktouch, klavaro, scratch, kturtle, anki, gconjugue, goldendict-extras-pt, parley, kwordquiz, osdlyrics, geogebra-classic, wxmaxima, kbruch, jfractionlab, kalgebra, graphmonkey, qalculate-gtk, kig, kmplot, carmetal, chemsketch-acd-wine, avogadro, gcu-bin, gchempaint, irydium-chemistry-lab, gelemental, kalzium, gperiodic, chemtool, easychem, gdis, code, codeblocks, xampp, coppelia-sim-edu, gazebo11, hopsan, webots, free-cnc-simulator-wine, camotics, gcompris, khangman, klettres, sugarizer, tuxmath, tuxpaint, minetest, minetest-mod-basic-materials, pysycache, tuxtype, omnitux, eduactiv8
+Priority: optional
+Section: science
+Filename: pool/main/a/appsedu-menus/appsedu-menus_0.5.7_all.deb
+Size: 196916
+SHA256: bde31baeccd3df2fdc1dec4891e0f0be1aedf5d3ea5a9b7f31eac57a0df81f02
+SHA1: 9b7fec9232f58d48bc51dda8116cf9a33802e2e6
+MD5sum: 141f9639261264220faf0feb7135ce6f
+Description: Submenus para Aplicativos educationais.
+ Os aplicativos educacionais ficaram divididos em submenus na categoria Educacional.
+
+Package: arduino-ide
+Version: 1.8.14
+Installed-Size: 369164
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: amd64
+Depends: default-jre
+Homepage: https://www.arduino.cc
+Priority: optional
+Section: science
+Filename: pool/main/a/arduino-ide/arduino-ide_1.8.14_amd64.deb
+Size: 70362728
+SHA256: be175e06cc3bd19e705a7348d2e04fc450089903fe0e64c6fbc8b9fcfcd96f35
+SHA1: 093fdb63f276fcb26809c8b7129a9ac724d8c2f4
+MD5sum: 95dff8efa2bd1939e57d222084115f35
+Description: IDE e bibliotecas embutidas para placa de desenvolvimento AVR.
+ Arduino é uma plataforma de código fonte aberto de prototipagem eletrônica
+ baseada em software e hardware flexíveis e fáceis de usar. Ela é voltada
+ para artistas, designers, pessoas dedicadas a um hobby e qualquer um
+ interessado em criar ambientes ou objetos interativos.
+
+Package: astah-community
+Version: 7.1.0
+Installed-Size: 15058
+Maintainer: ChangeVision <astah-packager@change-vision.com>
+Architecture: all
+Pre-Depends: openjdk-8-jre (>=8u252)
+Priority: optional
+Section: science
+Filename: pool/main/a/astah-community/astah-community_7.1.0_all.deb
+Size: 13177432
+SHA256: 947a4bb220fc62c2fe9614636883a79eaa83de6ab9fdea9824afbd09b93ad651
+SHA1: e7f020d7fb88617ad78c606037e7e5a2641c205c
+MD5sum: 6ff11732cf90257096f73c468e73161b
+Description: FREE UML Modeling Tool for study of UML.
+ Lightweight, easy-to-use, and free UML2.x modeler.
+ Based on the concept of "Usable from the moment of installation",
+ the modeling features of astah* community have been designed to be
+ simple and user friendly.
+
+Package: brmodelo
+Version: 3.2.0
+Installed-Size: 1238
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: default-jre
+Homepage: https://github.com/ailtonbsj/brModelo
+Priority: optional
+Section: devel
+Filename: pool/main/b/brmodelo/brmodelo_3.2.0_all.deb
+Size: 1151732
+SHA256: e4d3d372618aaf83e1e1df661a2be91d4107f8442885fe5f9462ee68416b0179
+SHA1: f83c605994a95a1a67c0069798c3dcded477c4a9
+MD5sum: 6f4cc81b779b24a6e0f563364c2b9be3
+Description: A tool for database modelling.
+ This tool is used for learning in database modelling based on book Carlos A Heuser.
+
+Package: bsnes-nightly
+Version: 115.0.1
+Installed-Size: 16434
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: amd64
+Depends: libgtksourceview2.0-0, libao4, libgtk2.0-0, libpulse0, libcairo2, libsdl2-2.0-0, libxv1, libopenal1, libudev1
+Homepage: https://byuu.org/bsnes
+Priority: optional
+Section: misc
+Filename: pool/main/b/bsnes-nightly/bsnes-nightly_115.0.1_amd64.deb
+Size: 2790520
+SHA256: dd13997c7fe12b27ce8ab143880a0f38142e0c6bfcf9a05ae642edd5492ae8c9
+SHA1: 07243e8e4eba209bb2cfdeaf3a3d2ea4f487154a
+MD5sum: 8d1f1fa9731983b14feae08c874a13c0
+Description: Super Nintendo (SNES) emulator focused on performance.
+ Bsnes is a Super Nintendo / Super Famicom emulator that began development on October 14th, 2004. It focuses on performance, features, and ease of use.
+
+Package: camotics
+Version: 1.2.0
+Maintainer: Joseph Coffland <joseph@cauldrondevelopment.com>
+Bugs: https://github.com/CauldronDevelopmentLLC/CAMotics/issues/
+Homepage: https://camotics.org/
+Depends: debconf | debconf-2.0, libc6, libglu1, libv8-3.14.5 | libv8-dev, libglu1-mesa , libqt5core5a, libqt5gui5, libqt5opengl5
+Replaces: openscam
+Architecture: amd64
+Installed-Size: 45081
+Priority: optional
+Section: miscellaneous
+Filename: pool/main/c/camotics/camotics_1.2.0_amd64.deb
+Size: 7265658
+SHA256: 5dc5ba0c53a8eb8ce6b3bd2c3bd903465fde860742a7764f2511b188a507c2c0
+SHA1: dae592842fcbd4a67176b8ff3b256873e8682823
+MD5sum: 6a0e402837c6ac65ae205e445f8f451b
+Description: Open-Source Simulation & Computer Aided Machining
+ CAMotics is an Open-Source software which can simulate
+ 3-axis NC machining. It is a fast, flexible and user friendly simulation
+ software for the DIY and Open-Source community.
+ .
+ At home manufacturing is one of the next big technology revolutions. Much like
+ the PC was 30 years ago. There have been major advances in desktop 3D printing
+ (e.g.  Maker Bot) yet uptake of desktop CNCs has lagged despite the
+ availability of cheap CNC machines. One of the major reasons for this is a
+ lack of Open-Source simulation and CAM (model to tool path conversion)
+ software. CAM and NC machine simulation present some very difficult
+ programming problems as evidenced by 30+ years of academic papers on these
+ topics. Whereas 3D printing simulation and tool path generation is much
+ easier. However, such software is essential to using a CNC.
+ .
+ Being able to simulate is a critical part of creating usable CNC tool paths.
+ Programming a CNC with out a simulator is cutting with out measuring; it's
+ both dangerous and expensive. With CAMotics you can preview the results of
+ your cutting operations before you fire up your machine. This will
+ save you time and money and open up a world of creative possibilities by
+ allowing you to rapidly visualize and improve upon designs with out wasting
+ material or breaking tools.
+
+Package: celestia
+Version: 1.6.1+dfsg-3.2ubuntu20.04
+Architecture: all
+Maintainer: Guus Sliepen <guus@debian.org>
+Installed-Size: 47
+Depends: celestia-gtk | celestia-glut
+Homepage: http://www.shatters.net/celestia/
+Priority: optional
+Section: science
+Filename: pool/main/c/celestia/celestia_1.6.1+dfsg-3.2ubuntu20.04_all.deb
+Size: 40088
+SHA256: a22183fedcaaecc63c5242d5a865da3b788c0deb1452b119cf77908b2d37b4f0
+SHA1: 1307e6fdeb7c4372bdca56b143f49355209446a8
+MD5sum: 0bbfdb6f97431a5234e62b47663e2771
+Description: real-time visual space simulation
+ Celestia is a free 3D astronomy program. Based on the Hipparcos
+ Catalogue, it allows users to display objects ranging in scale from
+ artificial satellites to entire galaxies in three dimensions using
+ OpenGL. Unlike most planetarium software, the user is free to travel
+ about the Universe.
+ .
+ This is a dummy package that selects at least one frontend for Celestia.
+
+Package: celestia-common
+Source: celestia
+Version: 1.6.1+dfsg-3.2ubuntu20.04
+Architecture: all
+Maintainer: Guus Sliepen <guus@debian.org>
+Installed-Size: 55908
+Suggests: celestia-common-nonfree
+Conflicts: celestia (<< 1.4.1)
+Replaces: celestia (<< 1.4.1)
+Homepage: http://www.shatters.net/celestia/
+Priority: optional
+Section: science
+Filename: pool/main/c/celestia/celestia-common_1.6.1+dfsg-3.2ubuntu20.04_all.deb
+Size: 23634336
+SHA256: a06be1539ef23283ed3d5f4f5af376445ab2f210b882b85e7400e82d06b66d95
+SHA1: eacb02b7b0089bcfa83194c8feacdcc9fbf4c585
+MD5sum: 7ccb76737456e48d95bea96cdcc514fa
+Description: datafiles for Celestia, a real-time visual space simulation
+ Celestia is a free 3D astronomy program. Based on the Hipparcos
+ Catalogue, it allows users to display objects ranging in scale from
+ artificial satellites to entire galaxies in three dimensions using
+ OpenGL. Unlike most planetarium software, the user is free to travel
+ about the Universe.
+ .
+ This package contains the data files for Celestia.
+
+Package: celestia-gtk
+Source: celestia
+Version: 1.6.1+dfsg-3.2ubuntu20.04
+Architecture: amd64
+Maintainer: Guus Sliepen <guus@debian.org>
+Installed-Size: 2487
+Depends: celestia-common (>= 1.4.1), libc6 (>= 2.29), libcairo2 (>= 1.2.4), libgdk-pixbuf2.0-0 (>= 2.22.0), libgl1, libglib2.0-0 (>= 2.35.9), libglu1-mesa | libglu1, libgtk2.0-0 (>= 2.8.0), libgtkglext1, libjpeg8 (>= 8c), liblua5.1-0, libogg0 (>= 1.0rc3), libpango-1.0-0 (>= 1.14.0), libpng16-16 (>= 1.6.2-1), libstdc++6 (>= 5.2), libtheora0 (>= 0.0.0.alpha7.dfsg)
+Suggests: stellarium
+Conflicts: celestia (<< 1.4.1)
+Replaces: celestia (<< 1.4.1)
+Homepage: http://www.shatters.net/celestia/
+Priority: optional
+Section: gnome
+Filename: pool/main/c/celestia/celestia-gtk_1.6.1+dfsg-3.2ubuntu20.04_amd64.deb
+Size: 933132
+SHA256: 7d96c41513509ff90044b2f856ab08387ea7cfd5d54a9757742abc2d4327e3c2
+SHA1: a9fe814e516089a36732c489b6b7d816ede768ce
+MD5sum: 4ec787322cc7414361dd65e4c0c48cb2
+Description: real-time visual space simulation (GNOME frontend)
+ Celestia is a free 3D astronomy program. Based on the Hipparcos
+ Catalogue, it allows users to display objects ranging in scale from
+ artificial satellites to entire galaxies in three dimensions using
+ OpenGL. Unlike most planetarium software, the user is free to travel
+ about the Universe.
+ .
+ This package contains the GTK+ frontend for Celestia, and integrates
+ with GNOME.
+
+Package: chemsketch-acd-wine
+Version: 18.2.6
+Installed-Size: 37032
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: wine-stable, wine32, p7zip
+Priority: optional
+Section: science
+Filename: pool/main/c/chemsketch-acd-wine/chemsketch-acd-wine_18.2.6_all.deb
+Size: 37901972
+SHA256: a5c4ac654388473d7c56963dd964ca18cc80b33875a4ff50ecdfdbc23e72a636
+SHA1: 56d438dd651783ba38b1ecfd413fc4ace25eb21c
+MD5sum: 5deeb9a1ad79c17fe690edc3abc69e9b
+Description: Versão Gratuita do ACD/ChemSketch via Wine.
+ ChemSketch é um programa de modelagem molecular usado para criar e modificar imagens de estruturas químicas. Também tem um software que permite visualizar moléculas e modelos em duas e três dimensões.
+
+Package: circuit-simulator
+Version: 2.7.4
+Installed-Size: 1699
+Maintainer: Paul Falstad <falstad.com>
+Architecture: all
+Depends: xdg-utils, curl, default-jre
+Homepage: http://www.falstad.com/circuit
+Priority: optional
+Section: science
+Filename: pool/main/c/circuit-simulator/circuit-simulator_2.7.4_all.deb
+Size: 801320
+SHA256: dcbacb7f478a11f619b881e9e299ee4ebf67e491890fd6fe0e9070b4c07b87bb
+SHA1: 7abc574ebad58f740ff1e499fd1ac109c9b1b4c7
+MD5sum: 7e66211317934848d254c088e3cae861
+Description: Electronic Circuit Simulator.
+ This app is an electronic circuit simulator that runs in the browser. It was originally written by Paul Falstad as a Java Applet. It was adapted by Iain Sharp to run in the browser using GWT.
+ .
+ This program require Oracle Java or open Java.
+
+Package: coppelia-sim-edu
+Version: 4.0.0
+Installed-Size: 475922
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: amd64
+Depends: libavcodec-dev, libavformat-dev, libswscale-dev
+Homepage: https://www.coppeliarobotics.com
+Priority: optional
+Section: science
+Filename: pool/main/c/coppelia-sim-edu/coppelia-sim-edu_4.0.0_amd64.deb
+Size: 20132
+SHA256: 64b6980b50f5b5ab3e81d527554764999660d139c58830f0affbe79fb850d7b6
+SHA1: 29897b8c8a0a91831b6db1278539bcd503e99a40
+MD5sum: 91650d3ea55042629effa509ff15ff68
+Description: The robot simulator CoppeliaSim.
+ CoppeliaSim is used for fast algorithm development, factory automation simulations, fast prototyping and verification, robotics related education, remote monitoring, safety double-checking, as digital twin, and much more.
+
+Package: crede-reservation
+Version: 0.0.2
+Installed-Size: 3
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: xdg-utils
+Homepage: http://ailtonbsj.herokuapp.com/crede-reservation
+Priority: optional
+Section: utils
+Filename: pool/main/c/crede-reservation/crede-reservation_0.0.2_all.deb
+Size: 2580
+SHA256: 680800fb881b9abec3aa0e51739aea7a8889897f9a6cb70a60645bd6b856677a
+SHA1: 7323eaa9ea0827aa52cd683f448e13a9534f1464
+MD5sum: bd9d712829878bc8f57da7c5df097830
+Description: Atalho para o sistemas de reservas da CREDE17.
+ Um lançador utilizando o browser para abrir o sistema de reservas da CREDE17.
+
+Package: credenews
+Version: 0.0.4
+Installed-Size: 8
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: xdg-utils
+Homepage: https://github.com/ailtonbsj/credenews/
+Priority: optional
+Section: utils
+Filename: pool/main/c/credenews/credenews_0.0.4_all.deb
+Size: 4712
+SHA256: 29e5782c840f8336277fa1c989e5ea6f3fdf1009f47d62f364557b19298edcea
+SHA1: 6703c342823d9d7c3c56b003725cbbbb420200c2
+MD5sum: 8f5f54cb921827ef22996845545e9c41
+Description: Noticias dos portais CREDE da SEDUC Ceará
+ O aplicativo CredeNews ajuda os professores desempregados do Ceará a ficarem de olho nas notícias e editais temporários das coordenadorias de educação.
+ .
+ The CredeNews application helps unemployed teachers in Ceará to keep an eye on the news and temporary notices from the education coordinators.
+
+Package: digital-simulator
+Version: 0.24
+Installed-Size: 11269
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: default-jre
+Homepage: https://github.com/hneemann/Digital
+Priority: optional
+Section: science
+Filename: pool/main/d/digital-simulator/digital-simulator_0.24_all.deb
+Size: 3104300
+SHA256: 7919c53789ad0bb44edaad2ee8f749dc5de7063b377f4b332158f5db6545a382
+SHA1: 357ea2fc31852553d87e4d86050881f7e49bd50c
+MD5sum: b7ab34cc4f5dc98f69ac1c9005f6d03a
+Description: A digital logic designer and circuit simulator.
+ Digital is a easy-to-use digital logic designer and circuit simulator designed for educational purposes.
+
+Package: elements
+Version: 1.1.6
+License: CC-0
+Vendor: Florian Fechner <f_fech03@uni-muenster.de>
+Architecture: amd64
+Maintainer: Florian Fechner <f_fech03@uni-muenster.de>
+Installed-Size: 229898
+Depends: gconf2, gconf-service, libnotify4, libappindicator1, libxtst6, libnss3, libxss1
+Homepage: https://github.com/FlorianFe/Elements#readme
+Priority: extra
+Section: default
+Filename: pool/main/e/elements/elements_1.1.6_amd64.deb
+Size: 57823140
+SHA256: f84c7d6d8383ef2b3032a8eeab32c327b982f2eeb5ed3f3c060a5470ca1e8254
+SHA1: 90965c1a16cb4d4756cbd3a7da97157935a74a15
+MD5sum: ede4404a6953862f7d17c6939d45330e
+Description: 
+  A periodic table viewer desktop app
+
+Package: energy2d
+Version: 3.0.0
+Installed-Size: 2896
+Maintainer: charxie <charxie@gmail.com>
+Architecture: all
+Depends: default-jre | openjdk-8-jre
+Homepage: https://energy.concord.org/energy2d
+Priority: optional
+Section: utils
+Filename: pool/main/e/energy2d/energy2d_3.0.0_all.deb
+Size: 1521544
+SHA256: db35372a6a8376eaf98831772243394dc46806925dd0321dcdd8f7f697a021c9
+SHA1: 2ae9aa7bf539c8f3d5e7b24b95dff64e90896756
+MD5sum: 4cd99782a3d1b8a55e43e910db772a01
+Description: Simulações interativas de transferência de calor
+ O Energy2D é um programa interativo de simulação multifísica que modela os três modos de transferência de calor - condução, convecção e radiação e seu acoplamento com a dinâmica das partículas.
+ .
+ Energy2D is an interactive multiphysics simulation program that models all three modes of heat transfer—conduction, convection, and radiation, and their coupling with particle dynamics.
+
+Package: flashplayer-sa-projector
+Version: 32.0.0.387
+Installed-Size: 17612
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: amd64
+Homepage: https://www.adobe.com/support/flashplayer/debug_downloads.html
+Priority: optional
+Section: utils
+Filename: pool/main/f/flashplayer-sa-projector/flashplayer-sa-projector_32.0.0.387_amd64.deb
+Size: 7196868
+SHA256: 92ad73d66d5805362eea2792b27525ea284b152aaf7dd4839fe2652225a359b6
+SHA1: 2cd8fdddcf259629bc522dc7831241e1ac23564e
+MD5sum: a440a8ec269abe704c687fcf3b01adaa
+Description: Flash Player Standalone Projector.
+ App para executar arquivos swf.
+
+Package: fonts-3rd-party
+Version: 0.0.2
+Installed-Size: 42398
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://fonts.google.com
+Priority: optional
+Section: fonts
+Filename: pool/main/f/fonts-3rd-party/fonts-3rd-party_0.0.2_all.deb
+Size: 19352132
+SHA256: 16b5bf4dd71fbbb649be761e03bf856da47f4e53c7105a781fce27732c36735a
+SHA1: 6b9b83d223aa4cccdea28a09879548045ccd6ad9
+MD5sum: 6f896969b2b6a62830a3215bdb853d3b
+Description: Some generics fonts.
+ A list of fonts compatible with documents of office.
+
+Package: free-cnc-simulator-wine
+Version: 4.53
+Installed-Size: 5564
+Maintainer: bulldog <crash.eddie123@gmail.com>
+Architecture: all
+Depends: wine | wine64
+Homepage: http://cncsimulator.info
+Priority: optional
+Section: utils
+Filename: pool/main/f/free-cnc-simulator-wine/free-cnc-simulator-wine_4.53_all.deb
+Size: 2465604
+SHA256: 15e8b647ed5e86d4b21f070cb3064d97ac262f7d4c0ab6c589f2a32ea446b54a
+SHA1: b37cf0fc41b822b10274379cb4f3aa8563aa88c6
+MD5sum: 93bbf209526e89fd4d38b058a00a14c5
+Description: Simulador de máquinas de comando numérico computadorizado
+ Simulador de máquinas fresadoras e tornos CNC em ambiente 3D com editor de códigos G.
+ .
+ Simulator of milling machines and CNC lathes in 3D environment with G code editor.
+
+Package: gcad3d
+Version: 2.46.16
+Architecture: amd64
+Depends: libc6 (>= 2.4), libgl1, libglu1, libgtk2.0-0 | libgtk-3-0, libjpeg-progs, tar
+Installed-Size: 4506
+Maintainer: Franz Reiter <support@gcad3d.org>
+Homepage: http://www.gcad3d.org
+Priority: optional
+Section: graphics
+Filename: pool/main/g/gcad3d/gcad3d_2.46.16_amd64.deb
+Size: 1616128
+SHA256: 9821aed24040951d7bcbba2ee8fd7943dbd1f7d94c94991cd462453663129e88
+SHA1: dbfd198ae92fadd67103052b422ce3b5ba1f8ef5
+MD5sum: 8ff2c6b903c5624c96b4435eccd839cb
+Description: 3D CAD-CAM Application
+  with
+    * import and export-programs (Step, Iges, VRML, DXF, SVG ..),
+    * integrated 3D-OpenGL viewer,
+    * program interpreter for geometry and NC commands in 3D,
+    * integrated NC processor.
+    * programming interface for userprograms (plugins).
+  Start gCAD3D in Graphics-menu or "gcad3d" from console.
+
+Package: geogebra-classic
+Version: 6.0.590.0-202006170925
+Architecture: amd64
+Maintainer: International GeoGebra Institute <office@geogebra.org>
+Installed-Size: 150000
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: libgtk2.0-0, libxtst6, libgconf-2-4, libnss3, libgmp10, libstdc++6 (>= 4.9), libxss1, libcanberra-gtk-module
+Homepage: http://www.geogebra.org/
+Priority: extra
+Section: education
+Filename: pool/main/g/geogebra-classic/geogebra-classic_6.0.590.0-202006170925_amd64.deb
+Size: 60353136
+SHA256: 9e535b44f24e924fc153bfd66a96f47be6f596c0ed1cffb6dfe05709a79cc86a
+SHA1: b74d24634096c241367ba13d9cff461120dbe4c9
+MD5sum: 4ca44ae43eebf32e6f24e60a04982885
+Description: Free mathematics software for learning and teaching
+ GeoGebra is free dynamic mathematics software for all levels of education
+ that joins geometry, algebra, graphing, and calculus in one
+ easy-to-use package.
+ .
+ Quick Facts:
+ Graphics, algebra and spreadsheet are connected and fully dynamic.
+ Easy-to-use interface, yet many powerful features.
+ Authoring tool to create and share interactive online learning materials.
+ Available in many languages for our millions of users around the world.
+ Free and open source math/maths software.
+
+Package: goldendict-extras-pt
+Version: 0.4.2
+Installed-Size: 73044
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: goldendict
+Priority: optional
+Section: science
+Filename: pool/main/g/goldendict-extras-pt/goldendict-extras-pt_0.4.2_all.deb
+Size: 70936488
+SHA256: 74b18f8a47a67144d20d06ae36154a228409c4b07d6d8f2aaa798349ca18df85
+SHA1: ac7b5c30002935e99dc53472e5af4c7cbf561e23
+MD5sum: 3b9cd51dbbc087fc11bc04fa4b52518f
+Description: Dicionários em Português para o GoldenDict.
+ Dicionário Aurélio, Houaiss e Michaelis em português. Babylon em Inglês e Michaelis em Espanhol.
+
+Package: google-cow
+Version: 0.0.1
+Installed-Size: 85148
+Maintainer: google <crash.eddie123@gmail.com>
+Architecture: all
+Depends: xampp (>=7.4.8)
+Homepage: https://code.google.com/archive/p/open-3d-viewer/
+Priority: optional
+Section: utils
+Filename: pool/main/g/google-cow/google-cow_0.0.1_all.deb
+Size: 19706596
+SHA256: 2e557dc67b5655cd98dce35dcdc7d764d2c9748c0908d802bf48c53d72caf36e
+SHA1: f0398dd19cc9046b9ec975abd2d44e75fbd81f43
+MD5sum: 06b1bd8e22ecbd03ee55a55961fdf00e
+Description: Antigo projeto do Google Cow
+ Mostra a anatomia de uma vaca, podendo ver cada sistema como ossos, musculos e outros
+ .
+ Shows the anatomy of a cow, being able to see each system as bones, muscles and others
+
+Package: google-earth-pro-stable
+Version: 7.3.3.7721-r0
+Architecture: amd64
+Maintainer: Google Earth Team <google-earth-support@google.com>
+Installed-Size: 243613
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: libasound2, libc6, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libgcc1, libglib2.0-0, libglu1-mesa, libgstreamer1.0-0, libgstreamer-plugins-base1.0-0, libproxy1 | libproxy1v5, libsm6, libstdc++6, libx11-6, libx11-xcb1, libxcb1, libxext6, libxml2, libxrender1, libxtst6
+Priority: optional
+Section: net
+Filename: pool/main/g/google-earth-pro-stable/google-earth-pro-stable_7.3.3.7721-r0_amd64.deb
+Size: 56036136
+SHA256: db3f4b224426789ffb8d76a5f64126f8a2822bc42d30da162ac05d039047a152
+SHA1: 48cc440de255d01bb62336cdf454e6210307cc66
+MD5sum: 715158aa83ea397f0b15a2ef21ec08ee
+Description: Explore, search and discover the planet
+ Google Earth lets you fly anywhere to see satellite imagery, 3D buildings, 3D trees, terrain, Street View, planets and much more.
+
+Package: gresistor
+Version: 0.0.1-0ubuntu3
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 152
+Depends: python-gtk2, python (>= 2.7.1-0ubuntu2)
+Homepage: http://www.gnomefiles.org/app.php/gResistor
+Priority: optional
+Section: electronics
+Filename: pool/main/g/gresistor/gresistor_0.0.1-0ubuntu3_all.deb
+Size: 14550
+SHA256: b38747c6b4684c6484247ddcb7adfdb7dc0c83f0721a21606e890102c31a8dc6
+SHA1: 1ab984a64bee9673e31ff427aa64900ebd5923a6
+MD5sum: 864d1846acbd3b070ed2cdc4453d49d7
+Description: resistor color code calculator
+ To allow for identification, resistors are usually marked
+ with colored bands. Often refered to as color codes, these
+ markings are indicative of their resistance, tolerance and
+ temperature coefficient. gResistor helps you translate
+ resistor color codes into a readable value. All you have to
+ do is watch the colors on the resistor and then enter them
+ in the program. As you enter colours you'll see that the
+ resistor value is changing accordingly.
+Original-Maintainer: Aanjhan Ranganathan <aanjhan@tuxmaniac.com>
+
+Package: gresistor-extras-pt
+Version: 0.4
+Installed-Size: 19
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: gresistor, python-glade2
+Priority: optional
+Section: science
+Filename: pool/main/g/gresistor-extras-pt/gresistor-extras-pt_0.4_all.deb
+Size: 2840
+SHA256: 18e2c38135a8f97afda1db271d450bc3bc0df1a3d1da185affe33023f5ea714b
+SHA1: 5b507e0f4fe682867f5580637bc06a845cd089cb
+MD5sum: 0206c75fae0e244fb83b156d5c8ea5e6
+Description: Tradução para português do Aplicativo GResistor.
+ Calculadora de código de cores de resistores. Para permitir a identificação, os resistores são geralmente marcados com bandas coloridas. Muitas vezes referenciados como códigos de cores, essas marcações são indicativas de sua resistência, tolerância e coeficiente de temperatura. O gResistor ajuda você a traduzir os códigos de cores do resistor em um valor legível. Tudo o que você precisa fazer é observar as cores no resistor e depois inseri-las no programa. Ao entrar nas cores, você verá que o valor do resistor está mudando de acordo.
+
+Package: hopsan
+Version: 2.14.2.20200522.1852-1
+Architecture: amd64
+Maintainer: Peter Nordin <jpn.peter@gmail.com>
+Installed-Size: 51940
+Depends: python3, libc6 (>= 2.29), libgcc-s1 (>= 4.0), libhdf5-103, libhdf5-cpp-103 (>= 1.10.3), libmarkdown2 (>= 2.0.6), libqt5core5a (>= 5.12.2), libqt5gui5 (>= 5.8.0) | libqt5gui5-gles (>= 5.8.0), libqt5network5 (>= 5.0.2), libqt5printsupport5 (>= 5.0.2), libqt5svg5 (>= 5.6.0~beta), libqt5test5 (>= 5.5.0), libqt5webkit5 (>= 5.212.0~alpha3), libqt5widgets5 (>= 5.12.2), libqt5xml5 (>= 5.0.2), libqwt-qt5-6 (>= 6.1.2), libstdc++6 (>= 9), libzmq5 (>= 3.2.3+dfsg)
+Homepage: https://github.com/Hopsan/hopsan
+Priority: optional
+Section: contrib/science
+Filename: pool/main/h/hopsan/hopsan_2.14.2.20200522.1852-1_amd64.deb
+Size: 9076072
+SHA256: ccc7d67b9c00ba978f49fa9580e83cd526b49da2cbb967b932f7e88fce1ef0ee
+SHA1: 52720585e7c94d37bed47cf93120a453903e34ac
+MD5sum: ef9f99157001896a320b6d43367ce181
+Description: This is a free simulation environment for fluid and mechatronic systems.
+ Hopsan is developed at Linköping University. Although originally
+ developed for simulation of fluid power systems, it has also been adopted
+ for other domains such as electric power, flight dynamics and vehicle
+ dynamics. It uses bi-directional delay lines (or transmission line elements,
+ TLM) to connect different components.
+
+Package: irydium-chemistry-lab
+Version: 2.1.2
+Installed-Size: 33796
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Homepage: http://chemcollective.org/vlab_download
+Priority: optional
+Section: science
+Filename: pool/main/i/irydium-chemistry-lab/irydium-chemistry-lab_2.1.2_all.deb
+Size: 14568364
+SHA256: 6023ae46d9f8e5f458333c1b180ed9c0dacc7390a77f07a2c1ec52e90df76f72
+SHA1: a9ae90b9eae3ea62e1419c3c447911a57d0496c6
+MD5sum: 12b14063768e841d57f81d4881dff526
+Description: Virtual Chemistry Laboratory.
+ An Virtual Chemistry Laboratory from The irYdium Project's.
+ You need Java installed to run correctly.
+
+Package: libboost-serialization1.65.1
+Source: boost1.65.1
+Version: 1.65.1+dfsg-0ubuntu5
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 463
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5.2)
+Multi-Arch: same
+Homepage: http://www.boost.org/libs/serialization/
+Priority: optional
+Section: libs
+Filename: pool/main/b/boost1.65.1/libboost-serialization1.65.1_1.65.1+dfsg-0ubuntu5_amd64.deb
+Size: 99320
+SHA256: f1a5ad80550539e8f081e3e9f1aa437e5fcf287ab9221549c8c5a42a04f9549f
+SHA1: 4cb71992234a8c7e48c4dd5b8a29083d6abaa9d5
+MD5sum: b4f76dda876c0ec0d144c024ef37b031
+Description: serialization library for C++
+ This package forms part of the Boost C++ Libraries collection,
+ containing the following functionalities:
+ .
+  * proper restoration of pointers to shared data
+  * serialization of STL containers and other commonly used templates
+  * data portability - streams of bytes created on one platform should
+    be readable on any other
+  * archive interface must be rich enough to permit the creation of an
+    archive that presents serialized data as XML in a useful manner
+ .
+ Here, "serialization" means the reversible deconstruction of an
+ arbitrary set of C++ data structures to a sequence of bytes.
+ archive: to refer to a specific rendering of this stream of bytes.
+Original-Maintainer: Debian Boost Team <pkg-boost-devel@lists.alioth.debian.org>
+
+Package: libdouble-conversion1
+Source: double-conversion
+Version: 2.0.1-4ubuntu1
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Science Team <debian-science-maintainers@lists.alioth.debian.org>
+Installed-Size: 87
+Depends: libc6 (>= 2.4), libstdc++6 (>= 4.1.1)
+Breaks: libdouble-conversion1v5
+Replaces: libdouble-conversion1v5
+Multi-Arch: same
+Homepage: https://github.com/floitsch/double-conversion
+Priority: extra
+Section: libs
+Filename: pool/main/d/double-conversion/libdouble-conversion1_2.0.1-4ubuntu1_amd64.deb
+Size: 33016
+SHA256: c79317458834053bff59c99450f5689170c1ef5946af8f6665f15d9c08669b18
+SHA1: 2b5317d8f6d6b1eb5a6ea49573b7072bcb1b0ae4
+MD5sum: 68a0ef9f1f40d622e5ca1baad4708d99
+Description: routines to convert IEEE floats to and from strings
+ This library provides routines to convert IEEE single and double floats to and
+ from string representations. It offers at lot of flexibility with respect to
+ the conversion format: shortest, fixed, precision or exponential
+ representation; decimal, octal or hexadecimal basis; control over number of
+ digits, leading/trailing zeros and spaces.
+ .
+ The library consists of efficient conversion routines that have been
+ extracted from the V8 JavaScript engine. The code has been refactored
+ and improved so that it can be used more easily in other projects.
+ .
+ This package contains a shared version of the library.
+
+Package: libmgba
+Architecture: amd64
+Depends: libc6,libedit2,libavcodec58|libavcodec-extra-58|libavcodec-ffmpeg58|libavcodec-ffmpeg-extra58,libavfilter7|libavfilter-ffmpeg7,libavformat58|libavformat-ffmpeg58,libswresample3|libswresample-ffmpeg3,libavutil56|libavutil-ffmpeg56,libswscale5|libswscale-ffmpeg5,zlib1g,libpng16-16,libzip4|libzip5,libgl1|libgles2,libsqlite3-0,libelf1
+Priority: optional
+Section: games
+Filename: pool/main/libm/libmgba/libmgba_0.8.3_amd64.deb
+Size: 680652
+SHA256: 60d409fa259bb45118b73c355113e428da08c8be90f609880c49e1b1b7a2db7d
+SHA1: a146124919a4ec414d959a4547654a582c1f12fe
+MD5sum: b42fa4de7897cd92ac759714041b8977
+Description: mGBA Game Boy Advance Emulator
+ mGBA
+ ====
+ .
+ mGBA is an emulator for running Game Boy Advance games. It aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack. It also supports Game Boy and Game Boy Color games.
+ .
+ Up-to-date news and downloads can be found at [mgba.io](https://mgba.io/).
+ .
+ [![Build status](https://travis-ci.org/mgba-emu/mgba.svg?branch=master)](https://travis-ci.org/mgba-emu/mgba)
+ .
+ Features
+ --------
+ .
+ - Highly accurate Game Boy Advance hardware support[<sup>[1]</sup>](#missing).
+ - Game Boy/Game Boy Color hardware support.
+ - Fast emulation. Known to run at full speed even on low end hardware, such as netbooks.
+ - Qt and SDL ports for a heavy-weight and a light-weight frontend.
+ - Local (same computer) link cable support.
+ - Save type detection, even for flash memory size[<sup>[2]</sup>](#flashdetect).
+ - Support for cartridges with motion sensors and rumble (only usable with game controllers).
+ - Real-time clock support, even without configuration.
+ - Solar sensor support for Boktai games.
+ - Game Boy Camera and Game Boy Printer support.
+ - A built-in BIOS implementation, and ability to load external BIOS files.
+ - Turbo/fast-forward support by holding Tab.
+ - Rewind by holding Backquote.
+ - Frameskip, configurable up to 10.
+ - Screenshot support.
+ - Cheat code support.
+ - 9 savestate slots. Savestates are also viewable as screenshots.
+ - Video and GIF recording.
+ - Remappable controls for both keyboards and gamepads.
+ - Loading from ZIP and 7z files.
+ - IPS, UPS and BPS patch support.
+ - Game debugging via a command-line interface and GDB remote support, compatible with IDA Pro.
+ - Configurable emulation rewinding.
+ - Support for loading and exporting GameShark and Action Replay snapshots.
+ - Cores available for RetroArch/Libretro and OpenEmu.
+ - Many, many smaller things.
+ .
+ #### Game Boy mappers
+ .
+ The following mappers are fully supported:
+ .
+ - MBC1
+ - MBC1M
+ - MBC2
+ - MBC3
+ - MBC3+RTC
+ - MBC5
+ - MBC5+Rumble
+ - MBC7
+ - Wisdom Tree (unlicensed)
+ .
+ The following mappers are partially supported:
+ .
+ - MBC6
+ - MMM01
+ - Pocket Cam
+ - TAMA5
+ - HuC-1
+ - HuC-3
+ .
+ ### Planned features
+ .
+ - Networked multiplayer link cable support.
+ - Dolphin/JOY bus link cable support.
+ - M4A audio mixing, for higher quality sound than hardware.
+ - Re-recording support for tool-assist runs.
+ - Lua support for scripting.
+ - A comprehensive debug suite.
+ - e-Reader support.
+ - Wireless adapter support.
+ .
+ Supported Platforms
+ -------------------
+ .
+ - Windows Vista or newer
+ - OS X 10.8 (Mountain Lion)[<sup>[3]</sup>](#osxver) or newer
+ - Linux
+ - FreeBSD
+ - Nintendo 3DS
+ - Nintendo Switch
+ - Wii
+ - PlayStation Vita
+ .
+ Other Unix-like platforms, such as OpenBSD, are known to work as well, but are untested and not fully supported.
+ .
+ ### System requirements
+ .
+ Requirements are minimal. Any computer that can run Windows Vista or newer should be able to handle emulation. Support for OpenGL 1.1 or newer is also required, with OpenGL 3.2 or newer for shaders and advanced features.
+ .
+ Downloads
+ ---------
+ .
+ Downloads can be found on the official website, in the [Downloads][downloads] section. The source code can be found on [GitHub][source].
+ .
+ Controls
+ --------
+ .
+ Controls are configurable in the settings menu. Many game controllers should be automatically mapped by default. The default keyboard controls are as follows:
+ .
+ - **A**: X
+ - **B**: Z
+ - **L**: A
+ - **R**: S
+ - **Start**: Enter
+ - **Select**: Backspace
+ .
+ Compiling
+ ---------
+ .
+ Compiling requires using CMake 3.1 or newer. GCC and Clang are both known to work to compile mGBA, but Visual Studio 2013 and older are known not to work. Support for Visual Studio 2015 and newer is coming soon.
+ .
+ #### Docker building
+ .
+ The recommended way to build for most platforms is to use Docker. Several Docker images are provided that contain the requisite toolchain and dependencies for building mGBA across several platforms.
+ .
+ To use a Docker image to build mGBA, simply run the following command while in the root of an mGBA checkout:
+ .
+ 	docker run --rm -t -v $PWD:/home/mgba/src mgba/windows:w32
+ .
+ This will produce a `build-win32` directory with the build products. Replace `mgba/windows:w32` with another Docker image for other platforms, which will produce a corresponding other directory. The following Docker images available on Docker Hub:
+ .
+ - mgba/3ds
+ - mgba/switch
+ - mgba/ubuntu:xenial
+ - mgba/ubuntu:bionic
+ - mgba/ubuntu:cosmic
+ - mgba/ubuntu:disco
+ - mgba/ubuntu:eoan
+ - mgba/ubuntu:focal
+ - mgba/vita
+ - mgba/wii
+ - mgba/windows:w32
+ - mgba/windows:w64
+ .
+ #### *nix building
+ .
+ To use CMake to build on a Unix-based system, the recommended commands are as follows:
+ .
+ 	mkdir build
+ 	cd build
+ 	cmake -DCMAKE_INSTALL_PREFIX:PATH=/usr ..
+ 	make
+ 	sudo make install
+ .
+ This will build and install mGBA into `/usr/bin` and `/usr/lib`. Dependencies that are installed will be automatically detected, and features that are disabled if the dependencies are not found will be shown after running the `cmake` command after warnings about being unable to find them.
+ .
+ If you are on macOS, the steps are a little different. Assuming you are using the homebrew package manager, the recommended commands to obtain the dependencies and build are:
+ .
+ 	brew install cmake ffmpeg libzip 
+ 	mkdir build
+ 	cd build
+ 	cmake -DCMAKE_PREFIX_PATH=`brew --prefix 
+ 	make
+ .
+ Note that you should not do a `make install` on macOS, as it will not work properly.
+ .
+ #### Windows developer building
+ .
+ To build on Windows for development, using MSYS2 is recommended. Follow the installation steps found on their [website](https://msys2.github.io). Make sure you're running the 32-bit version ("MSYS2 MinGW 32-bit") (or the 64-bit version "MSYS2 MinGW 64-bit" if you want to build for x86_64) and run this additional command (including the braces) to install the needed dependencies (please note that this involves downloading over 1100MiB of packages, so it will take a long time):
+ .
+ For x86 (32 bit) builds:
+ .
+ 	pacman -Sy --needed base-devel git mingw-w64-i686-{cmake,ffmpeg,gcc,gdb,libelf,libepoxy,libzip,pkg-config,SDL2,ntldd-git}
+ .
+ For x86_64 (64 bit) builds:
+ .
+ 	pacman -Sy --needed base-devel git mingw-w64-x86_64-{cmake,ffmpeg,gcc,gdb,libelf,libepoxy,libzip,pkg-config,SDL2,ntldd-git}
+ .
+ Check out the source code by running this command:
+ .
+ 	git clone https://github.com/mgba-emu/mgba.git
+ .
+ Then finally build it by running these commands:
+ .
+ 	cd mgba
+ 	mkdir build
+ 	cd build
+ 	cmake .. -G "MSYS Makefiles"
+ 	make
+ .
+ Please note that this build of mGBA for Windows is not suitable for distribution, due to the scattering of DLLs it needs to run, but is perfect for development. However, if distributing such a build is desired (e.g. for testing on machines that don't have the MSYS2 environment installed), running `cpack -G ZIP` will prepare a zip file with all of the necessary DLLs.
+ .
+ #### Toolchain building
+ .
+ If you have devkitARM (for 3DS), devkitPPC (for Wii), devkitA64 (for Switch), or vitasdk (for PS Vita), you can use the following commands for building:
+ .
+ 	mkdir build
+ 	cd build
+ 	cmake -DCMAKE_TOOLCHAIN_FILE=../src/platform/3ds/CMakeToolchain.txt ..
+ 	make
+ .
+ Replace the `-DCMAKE_TOOLCHAIN_FILE` parameter for the following platforms:
+ .
+ - 3DS: `../src/platform/3ds/CMakeToolchain.txt`
+ - Switch: `../src/platform/switch/CMakeToolchain.txt`
+ - Vita: `../src/platform/psp2/CMakeToolchain.vitasdk`
+ - Wii: `../src/platform/wii/CMakeToolchain.txt`
+ .
+ ### Dependencies
+ .
+ mGBA has no hard dependencies, however, the following optional dependencies are required for specific features. The features will be disabled if the dependencies can't be found.
+ .
+ - Qt 5: for the GUI frontend. Qt Multimedia or SDL are required for audio.
+ - SDL: for a more basic frontend and gamepad support in the Qt frontend. SDL 2 is recommended, but 1.2 is supported.
+ - zlib and libpng: for screenshot support and savestate-in-PNG support.
+ - libedit: for command-line debugger support.
+ - ffmpeg or libav: for video and GIF recording.
+ - libzip or zlib: for loading ROMs stored in zip files.
+ - SQLite3: for game databases.
+ - libelf: for ELF loading.
+ .
+ SQLite3, libpng, and zlib are included with the emulator, so they do not need to be externally compiled first.
+ .
+ Footnotes
+ ---------
+ .
+ <a name="missing">[1]</a> Currently missing features are
+ .
+ - OBJ window for modes 3, 4 and 5 ([Bug #5](http://mgba.io/b/5))
+ .
+ <a name="flashdetect">[2]</a> Flash memory size detection does not work in some cases. These can be configured at runtime, but filing a bug is recommended if such a case is encountered.
+ .
+ <a name="osxver">[3]</a> 10.8 is only needed for the Qt port. It may be possible to build or running the Qt port on 10.7 or older, but this is not officially supported. The SDL port is known to work on 10.5, and may work on older.
+ .
+ [downloads]: http://mgba.io/downloads.html
+ [source]: https://github.com/mgba-emu/mgba/
+ .
+ Copyright
+ ---------
+ .
+ mGBA is Copyright © 2013 – 2020 Jeffrey Pfau. It is distributed under the [Mozilla Public License version 2.0](https://www.mozilla.org/MPL/2.0/). A copy of the license is available in the distributed LICENSE file.
+ .
+ mGBA contains the following third-party libraries:
+ .
+ - [inih](https://github.com/benhoyt/inih), which is copyright © 2009 Ben Hoyt and used under a BSD 3-clause license.
+ - [blip-buf](https://code.google.com/archive/p/blip-buf), which is copyright © 2003 – 2009 Shay Green and used under a Lesser GNU Public License.
+ - [LZMA SDK](http://www.7-zip.org/sdk.html), which is public domain.
+ - [MurmurHash3](https://github.com/aappleby/smhasher) implementation by Austin Appleby, which is public domain.
+ - [getopt for MSVC](https://github.com/skandhurkat/Getopt-for-Visual-Studio/), which is public domain.
+ - [SQLite3](https://www.sqlite.org), which is public domain.
+ .
+ If you are a game publisher and wish to license mGBA for commercial usage, please email [licensing@mgba.io](mailto:licensing@mgba.io) for more information.
+ .
+Maintainer: Jeffrey Pfau <jeffrey@endrift.com>
+Recommends: libavcodec-extra|libavcodec-ffmpeg-extra58
+Version: 0.8.3
+Installed-Size: 3800
+
+Package: libv8-3.14.5
+Source: libv8-3.14
+Version: 3.14.5.8-11
+Architecture: amd64
+Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Installed-Size: 4142
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.4), libstdc++6 (>= 4.1.1)
+Homepage: http://code.google.com/p/v8/
+Priority: optional
+Section: libs
+Filename: pool/main/libv/libv8-3.14/libv8-3.14.5_3.14.5.8-11_amd64.deb
+Size: 1262936
+SHA256: 4cca90def64fc006ade585be120df8dae887084556548907da6762cf52a14676
+SHA1: af23b09c238aa58c3898793ab187d9cb13fb2c87
+MD5sum: a6da484fc0fb82c170bcae3e85945a42
+Description: V8 JavaScript engine - runtime library
+ V8 is a high performance JavaScript engine written in C++.  It is used
+ in the web browser Chromium.
+ .
+ This package provides the dynamic library for V8.
+
+Package: libwxgtk3.0-0v5
+Source: wxwidgets3.0
+Version: 3.0.4+dfsg-3
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: wxWidgets Maintainers <freewx-maint@lists.alioth.debian.org>
+Installed-Size: 16463
+Depends: libc6 (>= 2.15), libcairo2 (>= 1.6.0), libgcc1 (>= 1:3.0), libgdk-pixbuf2.0-0 (>= 2.22.0), libgl1, libglib2.0-0 (>= 2.24.0), libgtk2.0-0 (>= 2.24.0), libjpeg8 (>= 8c), libnotify4 (>= 0.7.0), libpango-1.0-0 (>= 1.18.0), libpangocairo-1.0-0 (>= 1.14.0), libpng16-16 (>= 1.6.2-1), libsm6, libstdc++6 (>= 5.2), libtiff5 (>= 4.0.3), libwxbase3.0-0v5 (>= 3.0.4+dfsg), libx11-6, libxxf86vm1
+Breaks: libwxgtk3.0-0
+Replaces: libwxgtk3.0-0
+Multi-Arch: same
+Homepage: https://www.wxwidgets.org/
+Priority: optional
+Section: libs
+Filename: pool/main/w/wxwidgets3.0/libwxgtk3.0-0v5_3.0.4+dfsg-3_amd64.deb
+Size: 4182296
+SHA256: 054b7ba4d81e3f5f42a825d0e0c5b33c21f003d154f9176abc823adca3ee2f91
+SHA1: fd5adc965b24339a8180df26de5cd7a1969094a4
+MD5sum: 641da237cffeac50365dc97dfbe2bd83
+Description: wxWidgets Cross-platform C++ GUI toolkit (GTK+ runtime)
+ wxWidgets (formerly known as wxWindows) is a class library for C++ providing
+ GUI components and other facilities on several popular platforms (and some
+ unpopular ones as well).
+ .
+ This package provides the shared libraries needed to run programs linked
+ against wxWidgets.  To use the (optional) glcanvas library you will need
+ to have Mesa or OpenGL installed.
+
+Package: logisim-evolution
+Version: 3.3.4
+Installed-Size: 22099
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: default-jre
+Homepage: https://github.com/reds-heig/logisim-evolution
+Priority: optional
+Section: science
+Filename: pool/main/l/logisim-evolution/logisim-evolution_3.3.4_all.deb
+Size: 20191356
+SHA256: a6142810de04c82b47dbb0d298972115fefd78726e81ff437b3f012d138d482e
+SHA1: 7510d75361310ea8d825f5a81d0bfdbc514af767
+MD5sum: a4327d073e247fe720148d2daf92c3be
+Description: Logisim is an educational tool for designing and simulating digital logic circuits.
+ People from a group of swiss institutes (Haute École Spécialisée Bernoise, Haute École du paysage, d'ingénierie et d'architecture de Genève, and Haute École d'Ingénierie et de Gestion du Canton de Vaud) started developing a version of Logisim that fitted their courses, integrating several tools -- for instance a chronogram, the possibility to test the schematics directly on an electronic board, TCL/TK consoles.
+
+Package: lubuntu-win-theme-apply
+Version: 0.0.9
+Installed-Size: 49
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: qt5-style-plugin-gtk2
+Homepage: https://github.com/winunix/lubuntu-win-theme-apply
+Priority: optional
+Section: utils
+Filename: pool/main/l/lubuntu-win-theme-apply/lubuntu-win-theme-apply_0.0.9_all.deb
+Size: 21976
+SHA256: 560e096ae1bf0fdbc5b2a50ac3181d4848ff420e036d38aec6758f493ba77d00
+SHA1: 9a786aaddb48fa5253d7a3a93daf853182e4ac48
+MD5sum: e207a159f27b7a1038aac00028439e15
+Description: apply windows-like theme on lubuntu focal.
+ Apply windows-like theme to Lubuntu Focal Fossa.
+
+Package: lubuntu-win10-icon-theme
+Version: 0.0.6
+Installed-Size: 20405
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://b00merang.weebly.com
+Priority: optional
+Section: utils
+Filename: pool/main/l/lubuntu-win10-icon-theme/lubuntu-win10-icon-theme_0.0.6_all.deb
+Size: 14873028
+SHA256: 55f06fc6fb88a6af3b5664efe0dccc29bd89215894bb9a62320020a6dfb81e01
+SHA1: 9926da0e8ee3a00ec8fa1e8c2e45e240b5fd484e
+MD5sum: 1a9453dda5a41ac8872b4c0d808f8233
+Description: Windows 10 Icon Theme for Lubuntu 18.04 LTS.
+ This is a fork of B00merang Project.
+
+Package: lubuntu-win10-qt-theme
+Version: 0.0.1
+Installed-Size: 51
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://store.kde.org/p/1319223/
+Priority: optional
+Section: utils
+Filename: pool/main/l/lubuntu-win10-qt-theme/lubuntu-win10-qt-theme_0.0.1_all.deb
+Size: 11708
+SHA256: 6f5c598e079f0951a26fe275e1d55c93cf242a8a21aa932c1a408786e5a08486
+SHA1: 0ac7affc5dd74edfa269e44fa0f5c1da49621172
+MD5sum: 5b88276e535ad0b7c739d6def35c1271
+Description: Windows 10 LXQt Theme.
+ This is an fork of Win10 LXQt Theme created by Hendra.
+
+Package: lubuntu-win10-theme
+Version: 1.0.3
+Installed-Size: 8533
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://b00merang.weebly.com
+Priority: optional
+Section: utils
+Filename: pool/main/l/lubuntu-win10-theme/lubuntu-win10-theme_1.0.3_all.deb
+Size: 13400764
+SHA256: ee3cb735fad68871731ab507497874467b74c7f0877ee6bd729fcc7eecc986f1
+SHA1: 68ba24521ac83baed55855e4465f8e2023b30ea9
+MD5sum: 70a721c80d6d24b8be72553b1401a228
+Description: Windows 10 Theme for Lubuntu 18.04 LTS.
+ This is an fork of B00merang Project with modifications to Lubuntu 18.04.
+
+Package: lubuntu-win8-cursor-theme
+Version: 0.0.2
+Installed-Size: 210
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://www.pling.com/p/999870
+Priority: optional
+Section: utils
+Filename: pool/main/l/lubuntu-win8-cursor-theme/lubuntu-win8-cursor-theme_0.0.2_all.deb
+Size: 7144
+SHA256: c4e99075a8710834efcddd21cde396ca504b5bd5207c4095b9c3b9a6cc634c3b
+SHA1: a6520fecba5bbd5ec49052c9473f6c51cdc0ef28
+MD5sum: afc05e1d3367bd64db0575f09d832b0f
+Description: Windows 8 Cursor Theme for Lubuntu 18.04 LTS.
+ This is an fork from David Farkas (SRZW).
+
+Package: mgba-qt
+Architecture: amd64
+Depends: libmgba,libc6,libsdl2-2.0-0,libqt5widgets5,libqt5opengl5,libqt5multimedia5
+Priority: optional
+Section: games
+Filename: pool/main/m/mgba-qt/mgba-qt_0.8.31_amd64.deb
+Size: 1427876
+SHA256: 13633e6b98787445c1503f7b81b392e6890890ae58122dc79668547736abafdc
+SHA1: 9001f58955ca0455309d1272e326ec99ad94e158
+MD5sum: 73ce8170582ea42a61387ceecf22b4a2
+Description: mGBA Game Boy Advance Emulator
+ mGBA
+ ====
+ .
+ mGBA is an emulator for running Game Boy Advance games. It aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack. It also supports Game Boy and Game Boy Color games.
+ .
+ Up-to-date news and downloads can be found at [mgba.io](https://mgba.io/).
+ .
+ [![Build status](https://travis-ci.org/mgba-emu/mgba.svg?branch=master)](https://travis-ci.org/mgba-emu/mgba)
+ .
+ Features
+ --------
+ .
+ - Highly accurate Game Boy Advance hardware support[<sup>[1]</sup>](#missing).
+ - Game Boy/Game Boy Color hardware support.
+ - Fast emulation. Known to run at full speed even on low end hardware, such as netbooks.
+ - Qt and SDL ports for a heavy-weight and a light-weight frontend.
+ - Local (same computer) link cable support.
+ - Save type detection, even for flash memory size[<sup>[2]</sup>](#flashdetect).
+ - Support for cartridges with motion sensors and rumble (only usable with game controllers).
+ - Real-time clock support, even without configuration.
+ - Solar sensor support for Boktai games.
+ - Game Boy Camera and Game Boy Printer support.
+ - A built-in BIOS implementation, and ability to load external BIOS files.
+ - Turbo/fast-forward support by holding Tab.
+ - Rewind by holding Backquote.
+ - Frameskip, configurable up to 10.
+ - Screenshot support.
+ - Cheat code support.
+ - 9 savestate slots. Savestates are also viewable as screenshots.
+ - Video and GIF recording.
+ - Remappable controls for both keyboards and gamepads.
+ - Loading from ZIP and 7z files.
+ - IPS, UPS and BPS patch support.
+ - Game debugging via a command-line interface and GDB remote support, compatible with IDA Pro.
+ - Configurable emulation rewinding.
+ - Support for loading and exporting GameShark and Action Replay snapshots.
+ - Cores available for RetroArch/Libretro and OpenEmu.
+ - Many, many smaller things.
+ .
+ #### Game Boy mappers
+ .
+ The following mappers are fully supported:
+ .
+ - MBC1
+ - MBC1M
+ - MBC2
+ - MBC3
+ - MBC3+RTC
+ - MBC5
+ - MBC5+Rumble
+ - MBC7
+ - Wisdom Tree (unlicensed)
+ .
+ The following mappers are partially supported:
+ .
+ - MBC6
+ - MMM01
+ - Pocket Cam
+ - TAMA5
+ - HuC-1
+ - HuC-3
+ .
+ ### Planned features
+ .
+ - Networked multiplayer link cable support.
+ - Dolphin/JOY bus link cable support.
+ - M4A audio mixing, for higher quality sound than hardware.
+ - Re-recording support for tool-assist runs.
+ - Lua support for scripting.
+ - A comprehensive debug suite.
+ - e-Reader support.
+ - Wireless adapter support.
+ .
+ Supported Platforms
+ -------------------
+ .
+ - Windows Vista or newer
+ - OS X 10.8 (Mountain Lion)[<sup>[3]</sup>](#osxver) or newer
+ - Linux
+ - FreeBSD
+ - Nintendo 3DS
+ - Nintendo Switch
+ - Wii
+ - PlayStation Vita
+ .
+ Other Unix-like platforms, such as OpenBSD, are known to work as well, but are untested and not fully supported.
+ .
+ ### System requirements
+ .
+ Requirements are minimal. Any computer that can run Windows Vista or newer should be able to handle emulation. Support for OpenGL 1.1 or newer is also required, with OpenGL 3.2 or newer for shaders and advanced features.
+ .
+ Downloads
+ ---------
+ .
+ Downloads can be found on the official website, in the [Downloads][downloads] section. The source code can be found on [GitHub][source].
+ .
+ Controls
+ --------
+ .
+ Controls are configurable in the settings menu. Many game controllers should be automatically mapped by default. The default keyboard controls are as follows:
+ .
+ - **A**: X
+ - **B**: Z
+ - **L**: A
+ - **R**: S
+ - **Start**: Enter
+ - **Select**: Backspace
+ .
+ Compiling
+ ---------
+ .
+ Compiling requires using CMake 3.1 or newer. GCC and Clang are both known to work to compile mGBA, but Visual Studio 2013 and older are known not to work. Support for Visual Studio 2015 and newer is coming soon.
+ .
+ #### Docker building
+ .
+ The recommended way to build for most platforms is to use Docker. Several Docker images are provided that contain the requisite toolchain and dependencies for building mGBA across several platforms.
+ .
+ To use a Docker image to build mGBA, simply run the following command while in the root of an mGBA checkout:
+ .
+ 	docker run --rm -t -v $PWD:/home/mgba/src mgba/windows:w32
+ .
+ This will produce a `build-win32` directory with the build products. Replace `mgba/windows:w32` with another Docker image for other platforms, which will produce a corresponding other directory. The following Docker images available on Docker Hub:
+ .
+ - mgba/3ds
+ - mgba/switch
+ - mgba/ubuntu:xenial
+ - mgba/ubuntu:bionic
+ - mgba/ubuntu:cosmic
+ - mgba/ubuntu:disco
+ - mgba/ubuntu:eoan
+ - mgba/ubuntu:focal
+ - mgba/vita
+ - mgba/wii
+ - mgba/windows:w32
+ - mgba/windows:w64
+ .
+ #### *nix building
+ .
+ To use CMake to build on a Unix-based system, the recommended commands are as follows:
+ .
+ 	mkdir build
+ 	cd build
+ 	cmake -DCMAKE_INSTALL_PREFIX:PATH=/usr ..
+ 	make
+ 	sudo make install
+ .
+ This will build and install mGBA into `/usr/bin` and `/usr/lib`. Dependencies that are installed will be automatically detected, and features that are disabled if the dependencies are not found will be shown after running the `cmake` command after warnings about being unable to find them.
+ .
+ If you are on macOS, the steps are a little different. Assuming you are using the homebrew package manager, the recommended commands to obtain the dependencies and build are:
+ .
+ 	brew install cmake ffmpeg 
+ 	mkdir build
+ 	cd build
+ 	cmake -DCMAKE_PREFIX_PATH=`brew --prefix qt5` ..
+ 	make
+ .
+ Note that you should not do a `make install` on macOS, as it will not work properly.
+ .
+ #### Windows developer building
+ .
+ To build on Windows for development, using MSYS2 is recommended. Follow the installation steps found on their [website](https://msys2.github.io). Make sure you're running the 32-bit version ("MSYS2 MinGW 32-bit") (or the 64-bit version "MSYS2 MinGW 64-bit" if you want to build for x86_64) and run this additional command (including the braces) to install the needed dependencies (please note that this involves downloading over 1100MiB of packages, so it will take a long time):
+ .
+ For x86 (32 bit) builds:
+ .
+ 	pacman -Sy --needed base-devel git mingw-w64-i686-{cmake,ffmpeg,gcc,gdb,libepoxy,pkg-config,qt5,SDL2,ntldd-git}
+ .
+ For x86_64 (64 bit) builds:
+ .
+ 	pacman -Sy --needed base-devel git mingw-w64-x86_64-{cmake,ffmpeg,gcc,gdb,libepoxy,pkg-config,qt5,SDL2,ntldd-git}
+ .
+ Check out the source code by running this command:
+ .
+ 	git clone https://github.com/mgba-emu/mgba.git
+ .
+ Then finally build it by running these commands:
+ .
+ 	cd mgba
+ 	mkdir build
+ 	cd build
+ 	cmake .. -G "MSYS Makefiles"
+ 	make
+ .
+ Please note that this build of mGBA for Windows is not suitable for distribution, due to the scattering of DLLs it needs to run, but is perfect for development. However, if distributing such a build is desired (e.g. for testing on machines that don't have the MSYS2 environment installed), running `cpack -G ZIP` will prepare a zip file with all of the necessary DLLs.
+ .
+ #### Toolchain building
+ .
+ If you have devkitARM (for 3DS), devkitPPC (for Wii), devkitA64 (for Switch), or vitasdk (for PS Vita), you can use the following commands for building:
+ .
+ 	mkdir build
+ 	cd build
+ 	cmake -DCMAKE_TOOLCHAIN_FILE=../src/platform/3ds/CMakeToolchain.txt ..
+ 	make
+ .
+ Replace the `-DCMAKE_TOOLCHAIN_FILE` parameter for the following platforms:
+ .
+ - 3DS: `../src/platform/3ds/CMakeToolchain.txt`
+ - Switch: `../src/platform/switch/CMakeToolchain.txt`
+ - Vita: `../src/platform/psp2/CMakeToolchain.vitasdk`
+ - Wii: `../src/platform/wii/CMakeToolchain.txt`
+ .
+ ### Dependencies
+ .
+ mGBA has no hard dependencies, however, the following optional dependencies are required for specific features. The features will be disabled if the dependencies can't be found.
+ .
+ - Qt 5: for the GUI frontend. Qt Multimedia or SDL are required for audio.
+ - SDL: for a more basic frontend and gamepad support in the Qt frontend. SDL 2 is recommended, but 1.2 is supported.
+ - 
+ - 
+ - ffmpeg or 
+ - 
+ - SQLite3: for game databases.
+ - 
+ .
+ SQLite3, , and , so they do not need to be externally compiled first.
+ .
+ Footnotes
+ ---------
+ .
+ <a name="missing">[1]</a> Currently missing features are
+ .
+ - OBJ window for modes 3, 4 and 5 ([Bug #5](http://mgba.io/b/5))
+ .
+ <a name="flashdetect">[2]</a> Flash memory size detection does not work in some cases. These can be configured at runtime, but filing a bug is recommended if such a case is encountered.
+ .
+ <a name="osxver">[3]</a> 10.8 is only needed for the Qt port. It may be possible to build or running the Qt port on 10.7 or older, but this is not officially supported. The SDL port is known to work on 10.5, and may work on older.
+ .
+ [downloads]: http://mgba.io/downloads.html
+ [source]: https://github.com/mgba-emu/mgba/
+ .
+ Copyright
+ ---------
+ .
+ mGBA is Copyright © 2013 – 2020 Jeffrey Pfau. It is distributed under the [Mozilla Public License version 2.0](https://www.mozilla.org/MPL/2.0/). A copy of the license is available in the distributed LICENSE file.
+ .
+ mGBA contains the following third-party libraries:
+ .
+ - [inih](https://github.com/benhoyt/inih), which is copyright © 2009 Ben Hoyt and used under a BSD 3-clause license.
+ - [blip-buf](https://code.google.com/archive/p/blip-buf), which is copyright © 2003 – 2009 Shay Green and used under a Lesser GNU Public License.
+ - [LZMA SDK](http://www.7-zip.org/sdk.html), which is public domain.
+ - [MurmurHash3](https://github.com/aappleby/smhasher) implementation by Austin Appleby, which is public domain.
+ - [getopt for MSVC](https://github.com/skandhurkat/Getopt-for-Visual-Studio/), which is public domain.
+ - [SQLite3](https://www.sqlite.org), which is public domain.
+ .
+ If you are a game publisher and wish to license mGBA for commercial usage, please email [licensing@mgba.io](mailto:licensing@mgba.io) for more information.
+ .
+Maintainer: Jeffrey Pfau <jeffrey@endrift.com>
+Version: 0.8.31
+Installed-Size: 4687
+
+Package: mgba-sdl
+Architecture: amd64
+Depends: libmgba,libc6,libsdl2-2.0-0
+Priority: optional
+Section: games
+Filename: pool/main/m/mgba-sdl/mgba-sdl_0.8.3_amd64.deb
+Size: 19824
+SHA256: 2b3b27bbb9f364b8e851192a5b87ba87c517397d579fc7dd449a8aee255060b9
+SHA1: a673ef2bcb901b8bb325a74ab66134512aa13a1e
+MD5sum: 6002ffdc2277d97f2ed8baf28a2d2463
+Description: mGBA Game Boy Advance Emulator
+ mGBA
+ ====
+ .
+ mGBA is an emulator for running Game Boy Advance games. It aims to be faster and more accurate than many existing Game Boy Advance emulators, as well as adding features that other emulators lack. It also supports Game Boy and Game Boy Color games.
+ .
+ Up-to-date news and downloads can be found at [mgba.io](https://mgba.io/).
+ .
+ [![Build status](https://travis-ci.org/mgba-emu/mgba.svg?branch=master)](https://travis-ci.org/mgba-emu/mgba)
+ .
+ Features
+ --------
+ .
+ - Highly accurate Game Boy Advance hardware support[<sup>[1]</sup>](#missing).
+ - Game Boy/Game Boy Color hardware support.
+ - Fast emulation. Known to run at full speed even on low end hardware, such as netbooks.
+ - Qt and SDL ports for a heavy-weight and a light-weight frontend.
+ - Local (same computer) link cable support.
+ - Save type detection, even for flash memory size[<sup>[2]</sup>](#flashdetect).
+ - Support for cartridges with motion sensors and rumble (only usable with game controllers).
+ - Real-time clock support, even without configuration.
+ - Solar sensor support for Boktai games.
+ - Game Boy Camera and Game Boy Printer support.
+ - A built-in BIOS implementation, and ability to load external BIOS files.
+ - Turbo/fast-forward support by holding Tab.
+ - Rewind by holding Backquote.
+ - Frameskip, configurable up to 10.
+ - Screenshot support.
+ - Cheat code support.
+ - 9 savestate slots. Savestates are also viewable as screenshots.
+ - Video and GIF recording.
+ - Remappable controls for both keyboards and gamepads.
+ - Loading from ZIP and 7z files.
+ - IPS, UPS and BPS patch support.
+ - Game debugging via a command-line interface and GDB remote support, compatible with IDA Pro.
+ - Configurable emulation rewinding.
+ - Support for loading and exporting GameShark and Action Replay snapshots.
+ - Cores available for RetroArch/Libretro and OpenEmu.
+ - Many, many smaller things.
+ .
+ #### Game Boy mappers
+ .
+ The following mappers are fully supported:
+ .
+ - MBC1
+ - MBC1M
+ - MBC2
+ - MBC3
+ - MBC3+RTC
+ - MBC5
+ - MBC5+Rumble
+ - MBC7
+ - Wisdom Tree (unlicensed)
+ .
+ The following mappers are partially supported:
+ .
+ - MBC6
+ - MMM01
+ - Pocket Cam
+ - TAMA5
+ - HuC-1
+ - HuC-3
+ .
+ ### Planned features
+ .
+ - Networked multiplayer link cable support.
+ - Dolphin/JOY bus link cable support.
+ - M4A audio mixing, for higher quality sound than hardware.
+ - Re-recording support for tool-assist runs.
+ - Lua support for scripting.
+ - A comprehensive debug suite.
+ - e-Reader support.
+ - Wireless adapter support.
+ .
+ Supported Platforms
+ -------------------
+ .
+ - Windows Vista or newer
+ - OS X 10.8 (Mountain Lion)[<sup>[3]</sup>](#osxver) or newer
+ - Linux
+ - FreeBSD
+ - Nintendo 3DS
+ - Nintendo Switch
+ - Wii
+ - PlayStation Vita
+ .
+ Other Unix-like platforms, such as OpenBSD, are known to work as well, but are untested and not fully supported.
+ .
+ ### System requirements
+ .
+ Requirements are minimal. Any computer that can run Windows Vista or newer should be able to handle emulation. Support for OpenGL 1.1 or newer is also required, with OpenGL 3.2 or newer for shaders and advanced features.
+ .
+ Downloads
+ ---------
+ .
+ Downloads can be found on the official website, in the [Downloads][downloads] section. The source code can be found on [GitHub][source].
+ .
+ Controls
+ --------
+ .
+ Controls are configurable in the settings menu. Many game controllers should be automatically mapped by default. The default keyboard controls are as follows:
+ .
+ - **A**: X
+ - **B**: Z
+ - **L**: A
+ - **R**: S
+ - **Start**: Enter
+ - **Select**: Backspace
+ .
+ Compiling
+ ---------
+ .
+ Compiling requires using CMake 3.1 or newer. GCC and Clang are both known to work to compile mGBA, but Visual Studio 2013 and older are known not to work. Support for Visual Studio 2015 and newer is coming soon.
+ .
+ #### Docker building
+ .
+ The recommended way to build for most platforms is to use Docker. Several Docker images are provided that contain the requisite toolchain and dependencies for building mGBA across several platforms.
+ .
+ To use a Docker image to build mGBA, simply run the following command while in the root of an mGBA checkout:
+ .
+ 	docker run --rm -t -v $PWD:/home/mgba/src mgba/windows:w32
+ .
+ This will produce a `build-win32` directory with the build products. Replace `mgba/windows:w32` with another Docker image for other platforms, which will produce a corresponding other directory. The following Docker images available on Docker Hub:
+ .
+ - mgba/3ds
+ - mgba/switch
+ - mgba/ubuntu:xenial
+ - mgba/ubuntu:bionic
+ - mgba/ubuntu:cosmic
+ - mgba/ubuntu:disco
+ - mgba/ubuntu:eoan
+ - mgba/ubuntu:focal
+ - mgba/vita
+ - mgba/wii
+ - mgba/windows:w32
+ - mgba/windows:w64
+ .
+ #### *nix building
+ .
+ To use CMake to build on a Unix-based system, the recommended commands are as follows:
+ .
+ 	mkdir build
+ 	cd build
+ 	cmake -DCMAKE_INSTALL_PREFIX:PATH=/usr ..
+ 	make
+ 	sudo make install
+ .
+ This will build and install mGBA into `/usr/bin` and `/usr/lib`. Dependencies that are installed will be automatically detected, and features that are disabled if the dependencies are not found will be shown after running the `cmake` command after warnings about being unable to find them.
+ .
+ If you are on macOS, the steps are a little different. Assuming you are using the homebrew package manager, the recommended commands to obtain the dependencies and build are:
+ .
+ 	brew install cmake ffmpeg 
+ 	mkdir build
+ 	cd build
+ 	cmake -DCMAKE_PREFIX_PATH=`brew --prefix 
+ 	make
+ .
+ Note that you should not do a `make install` on macOS, as it will not work properly.
+ .
+ #### Windows developer building
+ .
+ To build on Windows for development, using MSYS2 is recommended. Follow the installation steps found on their [website](https://msys2.github.io). Make sure you're running the 32-bit version ("MSYS2 MinGW 32-bit") (or the 64-bit version "MSYS2 MinGW 64-bit" if you want to build for x86_64) and run this additional command (including the braces) to install the needed dependencies (please note that this involves downloading over 1100MiB of packages, so it will take a long time):
+ .
+ For x86 (32 bit) builds:
+ .
+ 	pacman -Sy --needed base-devel git mingw-w64-i686-{cmake,ffmpeg,gcc,gdb,libepoxy,pkg-config,SDL2,ntldd-git}
+ .
+ For x86_64 (64 bit) builds:
+ .
+ 	pacman -Sy --needed base-devel git mingw-w64-x86_64-{cmake,ffmpeg,gcc,gdb,libepoxy,pkg-config,SDL2,ntldd-git}
+ .
+ Check out the source code by running this command:
+ .
+ 	git clone https://github.com/mgba-emu/mgba.git
+ .
+ Then finally build it by running these commands:
+ .
+ 	cd mgba
+ 	mkdir build
+ 	cd build
+ 	cmake .. -G "MSYS Makefiles"
+ 	make
+ .
+ Please note that this build of mGBA for Windows is not suitable for distribution, due to the scattering of DLLs it needs to run, but is perfect for development. However, if distributing such a build is desired (e.g. for testing on machines that don't have the MSYS2 environment installed), running `cpack -G ZIP` will prepare a zip file with all of the necessary DLLs.
+ .
+ #### Toolchain building
+ .
+ If you have devkitARM (for 3DS), devkitPPC (for Wii), devkitA64 (for Switch), or vitasdk (for PS Vita), you can use the following commands for building:
+ .
+ 	mkdir build
+ 	cd build
+ 	cmake -DCMAKE_TOOLCHAIN_FILE=../src/platform/3ds/CMakeToolchain.txt ..
+ 	make
+ .
+ Replace the `-DCMAKE_TOOLCHAIN_FILE` parameter for the following platforms:
+ .
+ - 3DS: `../src/platform/3ds/CMakeToolchain.txt`
+ - Switch: `../src/platform/switch/CMakeToolchain.txt`
+ - Vita: `../src/platform/psp2/CMakeToolchain.vitasdk`
+ - Wii: `../src/platform/wii/CMakeToolchain.txt`
+ .
+ ### Dependencies
+ .
+ mGBA has no hard dependencies, however, the following optional dependencies are required for specific features. The features will be disabled if the dependencies can't be found.
+ .
+ - Qt 5: for the GUI frontend. Qt Multimedia or SDL are required for audio.
+ - SDL: for a more basic frontend and gamepad support in the Qt frontend. SDL 2 is recommended, but 1.2 is supported.
+ - 
+ - 
+ - ffmpeg or 
+ - 
+ - SQLite3: for game databases.
+ - 
+ .
+ SQLite3, , and , so they do not need to be externally compiled first.
+ .
+ Footnotes
+ ---------
+ .
+ <a name="missing">[1]</a> Currently missing features are
+ .
+ - OBJ window for modes 3, 4 and 5 ([Bug #5](http://mgba.io/b/5))
+ .
+ <a name="flashdetect">[2]</a> Flash memory size detection does not work in some cases. These can be configured at runtime, but filing a bug is recommended if such a case is encountered.
+ .
+ <a name="osxver">[3]</a> 10.8 is only needed for the Qt port. It may be possible to build or running the Qt port on 10.7 or older, but this is not officially supported. The SDL port is known to work on 10.5, and may work on older.
+ .
+ [downloads]: http://mgba.io/downloads.html
+ [source]: https://github.com/mgba-emu/mgba/
+ .
+ Copyright
+ ---------
+ .
+ mGBA is Copyright © 2013 – 2020 Jeffrey Pfau. It is distributed under the [Mozilla Public License version 2.0](https://www.mozilla.org/MPL/2.0/). A copy of the license is available in the distributed LICENSE file.
+ .
+ mGBA contains the following third-party libraries:
+ .
+ - [inih](https://github.com/benhoyt/inih), which is copyright © 2009 Ben Hoyt and used under a BSD 3-clause license.
+ - [blip-buf](https://code.google.com/archive/p/blip-buf), which is copyright © 2003 – 2009 Shay Green and used under a Lesser GNU Public License.
+ - [LZMA SDK](http://www.7-zip.org/sdk.html), which is public domain.
+ - [MurmurHash3](https://github.com/aappleby/smhasher) implementation by Austin Appleby, which is public domain.
+ - [getopt for MSVC](https://github.com/skandhurkat/Getopt-for-Visual-Studio/), which is public domain.
+ - [SQLite3](https://www.sqlite.org), which is public domain.
+ .
+ If you are a game publisher and wish to license mGBA for commercial usage, please email [licensing@mgba.io](mailto:licensing@mgba.io) for more information.
+ .
+Maintainer: Jeffrey Pfau <jeffrey@endrift.com>
+Version: 0.8.3
+Installed-Size: 72
+
+Package: openmeca
+Version: 2.2.0-1
+Architecture: amd64
+Maintainer: Damien Andre <openmeca@yakuru.fr>
+Installed-Size: 16347
+Depends: libqt5help5 (>= 5.6.0~beta), libqt5svg5 (>= 5.6.0~beta), libqt5opengl5 (>= 5.0.2), libqt5widgets5 (>= 5.2.0), libqt5gui5 (>= 5.8.0), libqt5xml5 (>= 5.0.2), libqt5core5a (>= 5.9.0~beta), libboost-serialization1.65.1, libc6 (>= 2.14), libgcc1 (>= 1:3.0), libgl1, libglu1-mesa | libglu1, libqwt-qt5-6 (>= 6.1.2), libstdc++6 (>= 5.2)
+Priority: optional
+Section: misc
+Filename: pool/main/o/openmeca/openmeca_2.2.0-1_amd64.deb
+Size: 2735516
+SHA256: 26e872d40b5f6ebf90e0d92839ee791af6d4275b07a4e78bfadab8317ad4b40e
+SHA1: e2455f3dc3fb6ea3ff3fb1b91135c0676ad7b649
+MD5sum: 7563b4e9319643ab559a877999c7e820
+Description: Multibody mechanical simulator
+ The aim of openmeca is to provide a software for simulating mechanical
+ systems easily. It provides a graphical application that build a
+ 3D scheme, where the bonds are represented by symbols and gives a simple
+ way to apply loadings, boundary conditions and manage contacts.
+
+Package: optgeo-i18n
+Version: 2.29
+Installed-Size: 11456
+Maintainer: Jean Marie <jeanmarie.biansan@free.fr>
+Architecture: all
+Conflicts: optgeo
+Homepage: http://jeanmarie.biansan.free.fr/optgeo.html
+Priority: optional
+Section: science
+Filename: pool/main/o/optgeo-i18n/optgeo-i18n_2.29_all.deb
+Size: 2177568
+SHA256: e54c08f03b5cfa1990266b6649be32b370d6fae68544827ac1e1ad538c44e441
+SHA1: 8de2a09834469fae37c91fc03b0464ea9282ea4e
+MD5sum: 43894e9cdb5b9e1ac8b666c31cb95433
+Description: Ferramenta interativa para estudar e simular montagens ópticas.
+ O optgeo é um programa para traçar o movimento dos raios através de um equipamento óptico. Muitas peças, como lentes, espelhos, espelhos curvos podem ser montadas.
+ English:
+ Interactive tool to study and simulate optic assemblies.
+ Optgeo is a program to plot the movement of rays through an optic equipment. Many pieces, like lenses, mirrors, curved mirrors can be assembled.
+
+Package: orkidea-stockcontrol
+Version: 1.0.0
+Installed-Size: 2879
+Maintainer: ailtonbsj <ailtonbsj@gmail.com>
+Architecture: all
+Depends: xampp (>=7.4.8)
+Homepage: https://github.com/ailtonbsj/stockcontrol/
+Priority: optional
+Section: utils
+Filename: pool/main/o/orkidea-stockcontrol/orkidea-stockcontrol_1.0.0_all.deb
+Size: 955820
+SHA256: 0683ea904db069cc929688c20c00d3df877a921554dc4740ea2d2fbda8d372c9
+SHA1: 9b78f240051b3f7c98bb1a412748ed3d375470cd
+MD5sum: 2efe005ae8b8cd7199f8e4e031305bc0
+Description: Sistema web para controle de estoque
+ Sistema de controle de estoque em PHP
+ .
+ System created in PHP for stock control
+
+Package: pcmanfm-thumbnailer
+Version: 0.0.1
+Architecture: all
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Installed-Size: 1
+Depends: poppler-utils, djvulibre-bin
+Homepage: https://winunix.github.io
+Priority: optional
+Section: utils
+Filename: pool/main/p/pcmanfm-thumbnailer/pcmanfm-thumbnailer_0.0.1_all.deb
+Size: 1188
+SHA256: e20434b7254f78dbd994b2bbc94f10a63a0a8c34fc17016facdf0c37383d719a
+SHA1: d961c87f05b977ec872f3c4a434247e836ce1f5b
+MD5sum: 4fe919acf5fc4ff6465c17ffdf24c19b
+Description: Thumbnails confs for pcmanfm
+ This package enable thumbnails of PDF and DjVu from PCManFM.
+
+Package: physion-wine
+Version: 1.05
+Installed-Size: 13309
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: wine-stable, wine32, p7zip
+Priority: optional
+Section: science
+Filename: pool/main/p/physion-wine/physion-wine_1.05_all.deb
+Size: 13631556
+SHA256: eb15bfc10815d81f567c18f303652edd543ef90bd41f7873dcc96fc14dec9941
+SHA1: 9acf8643a43cd307dbbfa2717a513f948a1d4cdf
+MD5sum: 9fcdb5156c51dd8f63a09efb07c62779
+Description: Simulador Physion 1.01 via Wine.
+ Physion é um divertido aplicativo, não exatamente um jogo, que oferece a você uma forma divertida de aprender como funciona a física. Você tem mais de 25 cenários predefinidos e você pode interagir com eles em diferentes formas para ver o que acontece.
+
+Package: proxy-linux
+Version: 1.1.5
+Installed-Size: 20
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: zenity
+Homepage: https://github.com/ailtonbsj/proxy-linux
+Priority: optional
+Section: utils
+Filename: pool/main/p/proxy-linux/proxy-linux_1.1.5_all.deb
+Size: 16504
+SHA256: d003498f2da3c3f33213d8dd799092cbf4c7e5dba530753db56758e0440eb7e2
+SHA1: b97704d3e344a5a4c6a2e6b592023a51f250569e
+MD5sum: b20684442438f16bb07ce93fb6efe95b
+Description: Easy proxy service switching for browsers and others.
+ Essa ferramenta facilita o chaveamento rápido das configurações de proxy no ambiente linux. Modifica as configurações de proxy dos seguintes apps: Firefox, Chrome, Chromium, Apt, Wget e .profile.
+
+Package: python-glade2
+Source: pygtk
+Version: 2.24.0-5.1ubuntu2
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 71
+Depends: python (<< 2.8), python (>= 2.7), libc6 (>= 2.4), libglade2-0 (>= 1:2.6.4-2~), libglib2.0-0 (>= 2.12.0), libgtk2.0-0 (>= 2.18.0), python-gtk2 (= 2.24.0-5.1ubuntu2)
+Suggests: python-gtk2-doc
+Homepage: http://www.pygtk.org/
+Priority: optional
+Section: python
+Filename: pool/main/p/pygtk/python-glade2_2.24.0-5.1ubuntu2_amd64.deb
+Size: 8872
+SHA256: 08770619ea16aa0b68b4522cf5694d51d9fe08866de9d8f28d7c188bfd78345e
+SHA1: 1788dc87ea1c3b4eba03d7f7567a1a7d023f95a4
+MD5sum: 701151a765e1be4c70bb23f1bfd75ba0
+Description: GTK+ bindings: Glade support
+ Contains bindings for the glade library from use within Python. Glade
+ makes it very easy to create a user interface. In the target
+ application you just need to load the interface description from
+ the .glade file instead of constructing the GUI at runtime.
+ .
+ This package is deprecated, you should migrate to using
+ gobject-introspection (GIR) based python bindings instead (PyGObject).
+ https://wiki.gnome.org/Projects/PyGObject/IntrospectionPorting
+Original-Maintainer: Sebastien Bacher <seb128@debian.org>
+
+Package: python-gtk2
+Source: pygtk
+Version: 2.24.0-5.1ubuntu2
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 3349
+Depends: python (<< 2.8), python (>= 2.7), python:any (>= 2.6.6-7~), libatk1.0-0 (>= 1.12.4), libc6 (>= 2.14), libcairo2 (>= 1.2.4), libgdk-pixbuf2.0-0 (>= 2.22.0), libglib2.0-0 (>= 2.24.0), libgtk2.0-0 (>= 2.24.0), libpango-1.0-0 (>= 1.22.0), libpangocairo-1.0-0 (>= 1.21.4), python-cairo (>= 1.0.2-1.1), python-gobject-2 (>= 2.21.3)
+Suggests: python-gtk2-doc
+Breaks: python-gtkglext1 (<< 1.1.0-7~)
+Homepage: http://www.pygtk.org/
+Priority: optional
+Section: python
+Filename: pool/main/p/pygtk/python-gtk2_2.24.0-5.1ubuntu2_amd64.deb
+Size: 619344
+SHA256: 255d1b10fa52e4551eb330375e1a3324b9b9220d3242281e9cb3a60dc8b13b50
+SHA1: 773fa14d42cd35e26fa7cca9445eb7961d6b7ea5
+MD5sum: 16e6a0a48b9c66671ed59013ada6cd6e
+Description: Python bindings for the GTK+ widget set
+ This archive contains modules that allow you to use GTK+ in Python
+ programs.
+ .
+ This package is deprecated, you should migrate to using
+ gobject-introspection (GIR) based python bindings instead (PyGObject).
+ https://wiki.gnome.org/Projects/PyGObject/IntrospectionPorting
+Original-Maintainer: Sebastien Bacher <seb128@debian.org>
+
+Package: python-libuser
+Source: libuser
+Version: 1:0.62~dfsg-0.1ubuntu2
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 67
+Depends: python (<< 2.8), python (>= 2.7~), python:any (<< 2.8), python:any (>= 2.7~), libc6 (>= 2.4), libglib2.0-0 (>= 2.24.0), libuser1 (>= 1:0.60~dfsg)
+Homepage: https://fedorahosted.org/libuser/
+Priority: optional
+Section: python
+Filename: pool/main/libu/libuser/python-libuser_0.62~dfsg-0.1ubuntu2_amd64.deb
+Size: 16138
+SHA256: bd3ecca23fa389d2eb1a21d18408a4ce4f2e80aee4613534c96b8b7a987e37f8
+SHA1: e5e437bf331caf993f46d38b2edab95658da5514
+MD5sum: f1e41a6b97ea95b4f6e2154515baf063
+Description: user and group account administration library - Python 2.7 bindings
+ The libuser library implements a standardized interface for manipulating
+ and administering user and group accounts.  The library uses pluggable
+ back-ends to interface to its data sources.
+ .
+ This package contains the Python 2.7 bindings for the library.
+Original-Maintainer: Ghe Rivero <ghe@debian.org>
+
+Package: qt-at-spi
+Version: 0.4.0-8
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Accessibility Team <pkg-a11y-devel@lists.alioth.debian.org>
+Installed-Size: 273
+Depends: libc6 (>= 2.14), libstdc++6 (>= 5), libx11-6
+Multi-Arch: same
+Priority: optional
+Section: misc
+Filename: pool/main/q/qt-at-spi/qt-at-spi_0.4.0-8_amd64.deb
+Size: 58404
+SHA256: f45aec4ac1622f3c7e03e2ad3fb873203a5252bfc78a471d67d97d877499d955
+SHA1: 2694f47883f643d69ffc84030cf2003058fb93ae
+MD5sum: 5ddf655e14899ba5a934b3751c1a55ce
+Description: at-spi accessibility plugin for Qt
+ A plugin to export Qt widgets over AT-SPI2.  This allows them
+ to be read by accessibility tools such as the Orca screen reader.
+
+Package: screen-tearing-intel-fix
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Priority: optional
+Section: utils
+Filename: pool/main/s/screen-tearing-intel-fix/screen-tearing-intel-fix_0.0.1_all.deb
+Size: 984
+SHA256: 6eecf42deee3624ecb9c735718e7094c84685a39626d2c259ae144c925fca805
+SHA1: b34de9e1dee498d6b8e5946953280bf17de7af07
+MD5sum: 7bb84b4912ef6cbeff472d21af3eca0d
+Description: Fix Screen Tearing on Intel GPU Machines.
+ Add Confs files to fix screen tearing of Intel graphics cards.
+
+Package: sddm-theme-win10
+Source: sddm
+Version: 0.0.3
+Architecture: all
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Installed-Size: 2525
+Recommends: sddm
+Breaks: sddm (<< 0.18.1-1)
+Provides: sddm-theme
+Homepage: https://github.com/sddm/sddm
+Priority: optional
+Section: kde
+Filename: pool/main/s/sddm/sddm-theme-win10_0.0.3_all.deb
+Size: 2579260
+SHA256: a038f9640437b2bdd9a630aac565ddf27b81887a608c8d97b97c8b7820b51b6e
+SHA1: 18390de42bec62b9334d568c05ca23fbae1bebcc
+MD5sum: 58ea1b33564c73995d2922523c44214f
+Description: 'Win10' theme for SDDM X11 display manager
+ Win10 theme for SDDM
+
+Package: seplag-guardiao-legado
+Version: 0.0.3
+Installed-Size: 115315
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: amd64
+Depends: libgtk2.0-0:i386, libxft2:i386, libxt6:i386, gtk2-engines-murrine:i386, gtk2-engines-pixbuf:i386, libstdc++6:i386, firefox (>= 65.0), zenity
+Homepage: https://web3.seplag.ce.gov.br
+Priority: optional
+Section: tool
+Filename: pool/main/s/seplag-guardiao-legado/seplag-guardiao-legado_0.0.3_amd64.deb
+Size: 27190476
+SHA256: aa9a146aca860fa9eebefc0e441b48d66a549806a03840dc16eb9f285977c557
+SHA1: 4348d5e29fb20ca1b9194ca35c5edd30855be7ec
+MD5sum: 307ec9da923aa5a5de903b276cb2e184
+Description: Sistema SIGE-RH Legado da Secretaria do Planejamento e Gestão.
+ Navegador Firefox 3.0 com JRE 1.5 para SIGE-RH Legado da Seplag Ceará.
+
+Package: simulide
+Version: 0.3.12
+Installed-Size: 14674
+Maintainer: Arcachofo <simulide.blogspot.com>
+Architecture: amd64
+Conflicts: simulide
+Depends: libqt5serialport5, libqt5script5, libqt5multimedia5, libqt5xml5
+Homepage: https://simulide.blogspot.com
+Priority: optional
+Section: science
+Filename: pool/main/s/simulide/simulide_0.3.12_amd64.deb
+Size: 1967064
+SHA256: 5ad3b16da0be9dd7bd24dc47b211a8a965c68abdefbaf9c70c58cc3c10b622f0
+SHA1: e01c4fc95dc4a710d7293420563cfa568bba678b
+MD5sum: 6954633853d3beb8a75d8c2e4d8f4f4d
+Description: Real Time Electronic Circuit Simulator.
+ Include PIC, AVR and Arduino simulation. Code Editor & Debugger for Arduino, GcBasic, PIC asm, AVR asm.
+ .
+ Features: Analog and Digital components. Microcontrollers. Editor / Debugger. Subcircuits. Oscilloscope. Signal Plotter. Serial Port Connection. Serial Monitor.
+
+Package: system-config-samba-focal
+Version: 1.2.63-0ubuntu6
+Architecture: all
+Maintainer: Ubuntu MOTU Developers <ubuntu-motu@lists.ubuntu.com>
+Installed-Size: 7292
+Depends: python, python:any (>= 2.7.5-5~), samba, python-libuser, python-glade2
+Provides: system-config-samba (= 1.2.63-0ubuntu6)
+Conflicts: system-config-samba (= 1.2.63-0ubuntu6)
+Replaces: system-config-samba (= 1.2.63-0ubuntu6)
+Priority: optional
+Section: admin
+Filename: pool/main/s/system-config-samba-focal/system-config-samba-focal_1.2.63-0ubuntu6_all.deb
+Size: 261956
+SHA256: 23102a16a0cb2e7a11bd89470f4035eaa42ba7657c1e1a18ce8103b30a66cf44
+SHA1: 75754af1f34b95b1f8961356233b5ab5156f5b80
+MD5sum: 08ee0578a78eda6c5c31defcd7eada0a
+Description: GUI for managing samba shares and users
+ system-config-samba is a graphical user interface for creating,
+ modifying, and deleting samba shares and users.
+
+Package: unetbootin-focal
+Version: 677-1~focal1
+Architecture: amd64
+Maintainer: Laszlo Boszormenyi (GCS) <gcs@debian.org>
+Installed-Size: 23301
+Depends: libc6 (>= 2.14), libgcc1 (>= 1:3.0), libstdc++6 (>= 5), mtools, p7zip-full, syslinux, syslinux-common, udev, extlinux, libaudio2
+Provides: unetbootin (= 677-1~focal1)
+Conflicts: unetbootin (= 677-1~focal1), libqtgui4 (= 4:4.8.7+dfsg-7ubuntu3), libqt4-network (= 4:4.8.7+dfsg-7ubuntu3), libqtcore4 (= 4:4.8.7+dfsg-7ubuntu3), unetbootin-translations (= 677-1~focal1)
+Replaces: unetbootin (= 677-1~focal1), libqtgui4 (= 4:4.8.7+dfsg-7ubuntu3), libqt4-network (= 4:4.8.7+dfsg-7ubuntu3), libqtcore4 (= 4:4.8.7+dfsg-7ubuntu3), unetbootin-translations (= 677-1~focal1)
+Homepage: http://unetbootin.sourceforge.net
+Priority: optional
+Section: utils
+Filename: pool/main/u/unetbootin-focal/unetbootin-focal_677-1~focal1_amd64.deb
+Size: 6644244
+SHA256: d2824d10f75cfb5dacf1218cf67b5ada659fb47c3ccf24b4f7729c1f3566d15a
+SHA1: f46ac8884c332838350b1de09538595660884f50
+MD5sum: 6b5cf33bc8733d76360f338935e1412f
+Description: installer of Linux/BSD distributions to a partition or USB drive
+ UNetbootin allows for the installation of various Linux/BSD distributions to a
+ partition or USB drive, so it's no different from a standard install, only it
+ doesn't need a CD. It can create a dual-boot install, or replace the existing
+ OS entirely.
+
+Package: virtual-lab-microscope
+Version: 6.2.2
+Installed-Size: 7094
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: default-jre
+Homepage: http://virtual.itg.uiuc.edu
+Priority: optional
+Section: science
+Filename: pool/main/v/virtual-lab-microscope/virtual-lab-microscope_6.2.2_all.deb
+Size: 3366460
+SHA256: ec06620f1d6b0ff03b3d277e049c5fd6c69b5acc29ed5a9b08fd5d1ab67f4cd8
+SHA1: 8235955ee0e98cb14810a93f885b795e48783736
+MD5sum: 2f7af234cc64901a3729c248caa740be
+Description: The Virtual Microscope
+ is a NASA-funded project that provides simulated scientific instrumentation for students and researchers worldwide as part of NASA's Virtual Laboratory initiative. This site serves as home base for the Imaging Technology Group's contributions to that project—namely virtual microscopes and the multi-dimensional, high-resolution image datasets they view. Currently we provide 90 samples totaling over 62 gigapixels of image data. The Virtual Microscope, which is available for free download supports functionality from electron, light, and scanning probe microscopes, datasets for these instruments, training materials to learn more about microscopy, and other related tools.
+
+Package: wine-themes
+Version: 0.0.1
+Installed-Size: 25301
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: wine32 | wine64
+Priority: optional
+Section: utils
+Filename: pool/main/w/wine-themes/wine-themes_0.0.1_all.deb
+Size: 1903264
+SHA256: 93cf04b6f9fda688cd0e6707132db6d1b79f2541317aa3096ed4ee562afc4edc
+SHA1: 4b9d9f545a45f50811c08dad0b97796b339f14f7
+MD5sum: 0263001a8d39ad6253cf6238e567ae38
+Description: Themes for wine.
+ Some themes for wine.
+
+Package: winunix-anbox-installer
+Version: 0.0.5
+Installed-Size: 22
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: dkms, linux-headers-generic, aapt, adb, wmctrl, aafm
+Priority: optional
+Section: utils
+Filename: pool/main/w/winunix-anbox-installer/winunix-anbox-installer_0.0.5_all.deb
+Size: 12872
+SHA256: 370ab668a33ceb0c393d9bf00d0f4d7d638212571adf40726bb8150e384c2a81
+SHA1: 0da846578e2103246d1ec78cee0ca1a9f40af8ca
+MD5sum: a300cd621474600572c4c265fb25ca5b
+Description: Anbox Installer maintained by WinuniX.
+ This install Anbox using snap.
+
+Package: woeusb
+Version: 3.3.1-1~webupd8~focal0
+Architecture: amd64
+Maintainer: 林博仁 (Buo-Ren, Lin) <Buo.Ren.Lin@gmail.com>
+Installed-Size: 606
+Depends: bash (>= 4.3), dosfstools, gettext, grub2-common, grub-pc-bin, ntfsprogs | ntfs-3g, p7zip-full, parted, policykit-1, realpath | coreutils (>= 8.23), wget, libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2), libwxbase3.0-0v5 (>= 3.0.4+dfsg), libwxgtk3.0-0v5 (>= 3.0.4+dfsg)
+Homepage: https://github.com/slacka/WoeUSB
+Priority: optional
+Section: utils
+Filename: pool/main/w/woeusb/woeusb_3.3.1-1~webupd8~focal0_amd64.deb
+Size: 249724
+SHA256: 5479d21bd97e3e99b2218fd3313df80dfb0f30bca100474bbcf576ee426e1602
+SHA1: f94f9e4bc1e7039aad83c8ab02d4684b4227adf5
+MD5sum: ab77742b5c8b2bf24db8731c7f377fd7
+Description: Bootable Windows installation/PE USB storage creator
+ This package contains two programs:
+ .
+  - woeusb: An command-line utility that enables you to create your own bootable
+  Windows installation USB storage device from an existing Windows Installation
+  DVD or its ISO image.
+  - woeusbgui: A woeusb's GUI wrapper program based on WxWidgets GUI library.
+ .
+ Supported images: Windows Vista~10+ installation media for any language and
+ edition(Home/Professional...) and Windows PE-based media.
+ .
+ WoeUSB is a fork of Colin GILLE / congelli501's WinUSB software.
+ http://en.congelli.eu/prog_info_winusb.html
+
+Package: wps-office-addons
+Version: 11.1.0.9505.XA-2
+Architecture: amd64
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Installed-Size: 249284
+Priority: extra
+Section: editors
+Filename: pool/main/w/wps-office-addons/wps-office-addons_11.1.0.9505.XA-2_amd64.deb
+Size: 68474788
+SHA256: 0a53c0dfd961f18c88a7d9553a35a4603a6f87579599118c59a24565af08aa06
+SHA1: 8d347d2d46ce5034a718575834143085141fd6cb
+MD5sum: 7959579baf75b77209ca8e4c20b57d34
+Description: Addons from WPS Office
+ This package contains a bunch of files from WPS Office. This is required for the suite work correctly.
+
+Package: wps-office-core
+Version: 11.1.0.9505.XA-2
+Architecture: amd64
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Installed-Size: 231669
+Priority: extra
+Section: editors
+Filename: pool/main/w/wps-office-core/wps-office-core_11.1.0.9505.XA-2_amd64.deb
+Size: 66073064
+SHA256: 24907d4429aa4c13a8e62ab08a8940693a32edc7620e0970c43dec3ed580a2d1
+SHA1: ba703bbdf87e2274728b3e53b6a265103cf45b7b
+MD5sum: bed1215b328313ebab1d0b96566cd059
+Description: Core files of WPS Office
+ This package contains a bunch of files from WPS Office. This is required for the suite work correctly.
+ 
+
+Package: wps-office-dicts-pt
+Version: 0.0.2
+Installed-Size: 1531
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://github.com/winunix
+Priority: optional
+Section: localization
+Filename: pool/main/w/wps-office-dicts-pt/wps-office-dicts-pt_0.0.2_all.deb
+Size: 192308
+SHA256: e266f1df467126e1f909fcd835852cf559b0b8444f5f882502e796aa29ed3368
+SHA1: d787c742af272c1f7d6ebc3736aa381a4adc67a5
+MD5sum: 31d296f0e1d475fe790f0eb6ecbcb413
+Description: Dicionario em Portugues para WPS Office.
+ Este pacote é um fork do projeto de HenriqueAD:
+ Apoie seu projeto, SISTEMATICAMENTE!, em "www.youtube.com/OSistematico".
+
+Package: wps-office-fonts
+Version: 0.0.1
+Installed-Size: 395
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://github.com/wps-community
+Priority: optional
+Section: fonts
+Filename: pool/main/w/wps-office-fonts/wps-office-fonts_0.0.1_all.deb
+Size: 210816
+SHA256: 8402ae429afeb36e27e9172105cd6894156a78ef9b00c0d4d5b601eb72cbba67
+SHA1: 81b7a0b9ccb8d4db4b4126c508dab673ea4732e7
+MD5sum: b18dee4b29fa6027527524218b283a63
+Description: TTF Fonts to WPS Office.
+ This package provides fonts mtextra, symbol, WEBDINGS and wingding.
+
+Package: wps-office-full
+Version: 11.1.0.9508
+Architecture: amd64
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Installed-Size: 457856
+Depends: wps-office-core, wps-office-addons, wps-office-fonts, wps-office-mui-pt, wps-office-dicts-pt, wps-office-templates
+Provides: wps-office (= 11.1.0.9505.XA-2)
+Conflicts: wps-office
+Replaces: wps-office
+Priority: extra
+Section: editors
+Filename: pool/main/w/wps-office-full/wps-office-full_11.1.0.9508_amd64.deb
+Size: 90388256
+SHA256: a6ea60526dcc694c3a450f4b6e91b75282477096a682b9dd68c97986278e53ea
+SHA1: aedd07e36dbe4c44e42003f231788169295ae75f
+MD5sum: 2f2bb25ab86d1b3a4d14b592fb920f5d
+Description: WPS Office Suite
+ WPS Office including Writer, Presentation
+ and Spreadsheets, is a powerful office suite, which is able to process
+ word file, produce wonderful slides, and analyze data as well. It is
+ deeply compatible with all of the latest Microsoft Office file formats.
+ It can easily open and read the documents created with Microsoft Office.
+ This is the Linux version, and it's now an BETA package.
+ Welcome to our website: http://wps-community.org
+ .
+
+Package: wps-office-mui-pt
+Version: 0.0.1
+Installed-Size: 12618
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://github.com/winunix
+Priority: optional
+Section: localization
+Filename: pool/main/w/wps-office-mui-pt/wps-office-mui-pt_0.0.1_all.deb
+Size: 1575340
+SHA256: c5f903bfc97e2f2454951b7da49e2c7142f19c4747e4da6fba5d83f11ebffb17
+SHA1: 5c9e1b8e1af8405ed75724cabbc0ddba0807230e
+MD5sum: 43fa9d12f936451e866d4021dbc5e823
+Description: Interface em pt e pt_BR para WPS Office.
+ Este pacote é um fork do projeto de HenriqueAD:
+ Apoie seu projeto, SISTEMATICAMENTE!, em "www.youtube.com/OSistematico".
+
+Package: wps-office-templates
+Version: 0.0.1
+Installed-Size: 59951
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://github.com/winunix
+Priority: optional
+Section: localization
+Filename: pool/main/w/wps-office-templates/wps-office-templates_0.0.1_all.deb
+Size: 20193048
+SHA256: 242777efaf3a7e0e86510e0f98c30868f6a9e6f35a00f59ab04455b014c0b68f
+SHA1: 0ee47b629514c743aa2ccc216ac091fbd54af337
+MD5sum: d6003ea1b0ad33227b9463f224e9b3d7
+Description: Modelos para WPS Office.
+ Este pacote é um fork do projeto de HenriqueAD:
+ Apoie seu projeto, SISTEMATICAMENTE!, em "www.youtube.com/OSistematico".
+
+Package: xampp
+Version: 7.4.8
+Installed-Size: 78779
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: amd64
+Depends: xampp-core (>=7.4.8)
+Homepage: https://www.apachefriends.org
+Priority: optional
+Section: science
+Filename: pool/main/x/xampp/xampp_7.4.8_amd64.deb
+Size: 80579172
+SHA256: b95c9fb45706c9eb1e8637199575705b58f62cd57f423ab83621c3b140338cdb
+SHA1: 9952c1ad7153d061b1dd53d8137c840b5cfe368e
+MD5sum: 1ac9a9824070c9c02e693e997f3182ea
+Description: XAMPP is the most popular PHP development environment
+ XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use
+
+Package: xampp-core
+Version: 7.4.8
+Installed-Size: 78848
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: amd64
+Homepage: https://www.apachefriends.org
+Priority: optional
+Section: science
+Filename: pool/main/x/xampp-core/xampp-core_7.4.8_amd64.deb
+Size: 78815132
+SHA256: bbfe82626b43b2dec4f8f8efd8678c7800f19d6d01990da8a17961a1c9360087
+SHA1: 9831a16bd876fdc2e4d5a49deb17e6dce2512168
+MD5sum: bba2d99a65fa28e2ef23ea7c47e15add
+Description: XAMPP is the most popular PHP development environment
+ XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use
+
+Package: zotero
+Architecture: amd64
+Depends: libatk1.0-0, libc6, libcairo-gobject2, libcairo2, libdbus-1-3, libdbus-glib-1-2, libfontconfig1, libfreetype6, libgcc1, libgdk-pixbuf2.0-0, libglib2.0-0, libgtk-3-0, libnss3-dev, libpango-1.0-0, libpangocairo-1.0-0, libpangoft2-1.0-0, libstartup-notification0, libstdc++6, libx11-6, libx11-xcb1, libxcb-shm0, libxcb1, libxcomposite1, libxcursor1, libxdamage1, libxext6, libxfixes3, libxi6, libxrender1, libxt6
+Maintainer: emiliano.heyns@iris-advies.com
+Version: 5.0.85
+Priority: optional
+Section: Science
+Filename: pool/main/z/zotero/zotero_5.0.85_amd64.deb
+Size: 63057786
+SHA256: b64122c68b1ef599eacf719b3e6e59d6851e4b1e7bb8c156f2fc1f43b1ae7261
+SHA1: 1c54cb93831f1b47a4bb5005264ee135206f6a0d
+MD5sum: 8497e2bebcb1a47a880705f1af3a0826
+Description: Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research
+

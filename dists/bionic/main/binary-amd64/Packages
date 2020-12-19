@@ -1,0 +1,717 @@
+Package: algodoo-wine
+Version: 2.1.3
+Installed-Size: 42162
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: wine32, p7zip
+Priority: optional
+Section: science
+Filename: pool/main/a/algodoo-wine/algodoo-wine_2.1.3_all.deb
+Size: 43178148
+SHA256: f42c542513ed21fb8d97bc0bcc8f90066154b24839b30a6b20425091a7529164
+SHA1: de1475621fd2232ce40ffd7500fab29b53b6bc15
+MD5sum: 312a7a46e74ee245b07e1d61470f1ca6
+Description: Versão do Algodoo via Wine.
+ Algodoo gives you the opportunity to play with physics. Use your own hands and simple drawing tools to design, construct and explore the world of physics.
+
+Package: appsedu
+Version: 0.5.5
+Installed-Size: 176
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: xdotool, mesa-utils, celestia, google-earth-pro-stable, kstars, openuniverse, planets, stellarium, virtual-lab-microscope, freecad, librecad, solvespace, sweethome3d, logisim-evolution, digital-simulator, gresistor-extras-pt, arduino-ide, circuit-simulator, simulide, algodoo-wine, optgeo-i18n, physion-wine, step, kgeography, marble-qt, marble-maps, ktouch, klavaro, scratch, anki, goldendict-extras-pt, gconjugue, parley, geogebra-classic, wxmaxima, kbruch, jfractionlab, kalgebra, chemsketch-acd-wine, avogadro, gcu-bin, gchempaint, irydium-chemistry-lab, gelemental, kalzium, code, xampp
+Priority: optional
+Section: science
+Filename: pool/main/a/appsedu/appsedu_0.5.5_all.deb
+Size: 191636
+SHA256: 4d560c0e6e42811200a386f5516a2679869a35cfbf9c6d87dc836c5165094ae0
+SHA1: 03c96c8a46186d0b50f46c48fe78fbeefaf38fee
+MD5sum: c110fa7514d364213ddc7f4385afb39e
+Description: Submenus para Aplicativos educationais.
+ Os aplicativos educacionais ficaram divididos em submenus na categoria Educacional.
+
+Package: appsedu-menus
+Version: 0.5.5
+Installed-Size: 176
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: xdotool, mesa-utils
+Recommends: celestia, google-earth-pro-stable, kstars, openuniverse, planets, stellarium, gpredict, virtual-lab-microscope, freecad, librecad, solvespace, sweethome3d, gcad3d, arduino-ide, circuit-simulator, logisim, simulide, gresistor-extras-pt, digital-simulator, logisim-evolution, oregano, qelectrotech, algodoo-wine, optgeo-i18n, physion-wine, step, opticalraytracer, energy2d, kgeography, marble-qt, marble-maps, ktouch, klavaro, scratch, kturtle, anki, gconjugue, goldendict-extras-pt, parley, kwordquiz, osdlyrics, geogebra-classic, wxmaxima, kbruch, jfractionlab, kalgebra, graphmonkey, qalculate-gtk, kig, kmplot, carmetal, chemsketch-acd-wine, avogadro, gcu-bin, gchempaint, irydium-chemistry-lab, gelemental, kalzium, gperiodic, chemtool, easychem, gdis, code, codeblocks, xampp, coppelia-sim-edu, gazebo11, hopsan, webots, free-cnc-simulator-wine, camotics, gcompris, khangman, klettres, sugarizer, tuxmath, tuxpaint, minetest, minetest-mod-basic-materials, pysycache, tuxtype, omnitux, eduactiv8
+Priority: optional
+Section: science
+Filename: pool/main/a/appsedu-menus/appsedu-menus_0.5.5_all.deb
+Size: 191880
+SHA256: 3e4c112b64f7fe7b1c7c4c652f9b6dd1eb7c32acb93b7b20e4c6e3bae637c4b6
+SHA1: 0d770a945abf3df43e58e2ac2404dbbc4270e9fd
+MD5sum: 139f1f592185c9a123f5de551a0d5a3a
+Description: Submenus para Aplicativos educationais.
+ Os aplicativos educacionais ficaram divididos em submenus na categoria Educacional.
+
+Package: arduino-ide
+Version: 1.8.14
+Installed-Size: 369164
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: amd64
+Depends: default-jre
+Homepage: https://www.arduino.cc
+Priority: optional
+Section: science
+Filename: pool/main/a/arduino-ide/arduino-ide_1.8.14_amd64.deb
+Size: 70362728
+SHA256: be175e06cc3bd19e705a7348d2e04fc450089903fe0e64c6fbc8b9fcfcd96f35
+SHA1: 093fdb63f276fcb26809c8b7129a9ac724d8c2f4
+MD5sum: 95dff8efa2bd1939e57d222084115f35
+Description: IDE e bibliotecas embutidas para placa de desenvolvimento AVR.
+ Arduino é uma plataforma de código fonte aberto de prototipagem eletrônica
+ baseada em software e hardware flexíveis e fáceis de usar. Ela é voltada
+ para artistas, designers, pessoas dedicadas a um hobby e qualquer um
+ interessado em criar ambientes ou objetos interativos.
+
+Package: brmodelo
+Version: 3.2.0
+Installed-Size: 1238
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: default-jre
+Homepage: https://github.com/ailtonbsj/brModelo
+Priority: optional
+Section: devel
+Filename: pool/main/b/brmodelo/brmodelo_3.2.0_all.deb
+Size: 1151732
+SHA256: e4d3d372618aaf83e1e1df661a2be91d4107f8442885fe5f9462ee68416b0179
+SHA1: f83c605994a95a1a67c0069798c3dcded477c4a9
+MD5sum: 6f4cc81b779b24a6e0f563364c2b9be3
+Description: A tool for database modelling.
+ This tool is used for learning in database modelling based on book Carlos A Heuser.
+
+Package: bsnes-nightly
+Version: 115.0.1
+Installed-Size: 16434
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: amd64
+Depends: libgtksourceview2.0-0, libao4, libgtk2.0-0, libpulse0, libcairo2, libsdl2-2.0-0, libxv1, libopenal1, libudev1
+Homepage: https://byuu.org/bsnes
+Priority: optional
+Section: misc
+Filename: pool/main/b/bsnes-nightly/bsnes-nightly_115.0.1_amd64.deb
+Size: 2790520
+SHA256: dd13997c7fe12b27ce8ab143880a0f38142e0c6bfcf9a05ae642edd5492ae8c9
+SHA1: 07243e8e4eba209bb2cfdeaf3a3d2ea4f487154a
+MD5sum: 8d1f1fa9731983b14feae08c874a13c0
+Description: Super Nintendo (SNES) emulator focused on performance.
+ Bsnes is a Super Nintendo / Super Famicom emulator that began development on October 14th, 2004. It focuses on performance, features, and ease of use.
+
+Package: camotics
+Version: 1.2.0
+Maintainer: Joseph Coffland <joseph@cauldrondevelopment.com>
+Bugs: https://github.com/CauldronDevelopmentLLC/CAMotics/issues/
+Homepage: https://camotics.org/
+Depends: debconf | debconf-2.0, libc6, libglu1, libv8-3.14.5 | libv8-dev, libglu1-mesa , libqt5core5a, libqt5gui5, libqt5opengl5
+Replaces: openscam
+Architecture: amd64
+Installed-Size: 45081
+Priority: optional
+Section: miscellaneous
+Filename: pool/main/c/camotics/camotics_1.2.0_amd64.deb
+Size: 7265658
+SHA256: 5dc5ba0c53a8eb8ce6b3bd2c3bd903465fde860742a7764f2511b188a507c2c0
+SHA1: dae592842fcbd4a67176b8ff3b256873e8682823
+MD5sum: 6a0e402837c6ac65ae205e445f8f451b
+Description: Open-Source Simulation & Computer Aided Machining
+ CAMotics is an Open-Source software which can simulate
+ 3-axis NC machining. It is a fast, flexible and user friendly simulation
+ software for the DIY and Open-Source community.
+ .
+ At home manufacturing is one of the next big technology revolutions. Much like
+ the PC was 30 years ago. There have been major advances in desktop 3D printing
+ (e.g.  Maker Bot) yet uptake of desktop CNCs has lagged despite the
+ availability of cheap CNC machines. One of the major reasons for this is a
+ lack of Open-Source simulation and CAM (model to tool path conversion)
+ software. CAM and NC machine simulation present some very difficult
+ programming problems as evidenced by 30+ years of academic papers on these
+ topics. Whereas 3D printing simulation and tool path generation is much
+ easier. However, such software is essential to using a CNC.
+ .
+ Being able to simulate is a critical part of creating usable CNC tool paths.
+ Programming a CNC with out a simulator is cutting with out measuring; it's
+ both dangerous and expensive. With CAMotics you can preview the results of
+ your cutting operations before you fire up your machine. This will
+ save you time and money and open up a world of creative possibilities by
+ allowing you to rapidly visualize and improve upon designs with out wasting
+ material or breaking tools.
+
+Package: chemsketch-acd-wine
+Version: 18.2.6
+Installed-Size: 37032
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: wine-stable, wine32, p7zip
+Priority: optional
+Section: science
+Filename: pool/main/c/chemsketch-acd-wine/chemsketch-acd-wine_18.2.6_all.deb
+Size: 37901972
+SHA256: a5c4ac654388473d7c56963dd964ca18cc80b33875a4ff50ecdfdbc23e72a636
+SHA1: 56d438dd651783ba38b1ecfd413fc4ace25eb21c
+MD5sum: 5deeb9a1ad79c17fe690edc3abc69e9b
+Description: Versão Gratuita do ACD/ChemSketch via Wine.
+ ChemSketch é um programa de modelagem molecular usado para criar e modificar imagens de estruturas químicas. Também tem um software que permite visualizar moléculas e modelos em duas e três dimensões.
+
+Package: circuit-simulator
+Version: 2.7.4
+Installed-Size: 1699
+Maintainer: Paul Falstad <falstad.com>
+Architecture: all
+Depends: xdg-utils, curl, default-jre
+Homepage: http://www.falstad.com/circuit
+Priority: optional
+Section: science
+Filename: pool/main/c/circuit-simulator/circuit-simulator_2.7.4_all.deb
+Size: 801320
+SHA256: dcbacb7f478a11f619b881e9e299ee4ebf67e491890fd6fe0e9070b4c07b87bb
+SHA1: 7abc574ebad58f740ff1e499fd1ac109c9b1b4c7
+MD5sum: 7e66211317934848d254c088e3cae861
+Description: Electronic Circuit Simulator.
+ This app is an electronic circuit simulator that runs in the browser. It was originally written by Paul Falstad as a Java Applet. It was adapted by Iain Sharp to run in the browser using GWT.
+ .
+ This program require Oracle Java or open Java.
+
+Package: crede-reservation
+Version: 0.0.2
+Installed-Size: 3
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: xdg-utils
+Homepage: http://ailtonbsj.herokuapp.com/crede-reservation
+Priority: optional
+Section: utils
+Filename: pool/main/c/crede-reservation/crede-reservation_0.0.2_all.deb
+Size: 2580
+SHA256: 680800fb881b9abec3aa0e51739aea7a8889897f9a6cb70a60645bd6b856677a
+SHA1: 7323eaa9ea0827aa52cd683f448e13a9534f1464
+MD5sum: bd9d712829878bc8f57da7c5df097830
+Description: Atalho para o sistemas de reservas da CREDE17.
+ Um lançador utilizando o browser para abrir o sistema de reservas da CREDE17.
+
+Package: credenews
+Version: 0.0.4
+Installed-Size: 8
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: xdg-utils
+Homepage: https://github.com/ailtonbsj/credenews/
+Priority: optional
+Section: utils
+Filename: pool/main/c/credenews/credenews_0.0.4_all.deb
+Size: 4712
+SHA256: 29e5782c840f8336277fa1c989e5ea6f3fdf1009f47d62f364557b19298edcea
+SHA1: 6703c342823d9d7c3c56b003725cbbbb420200c2
+MD5sum: 8f5f54cb921827ef22996845545e9c41
+Description: Noticias dos portais CREDE da SEDUC Ceará
+ O aplicativo CredeNews ajuda os professores desempregados do Ceará a ficarem de olho nas notícias e editais temporários das coordenadorias de educação.
+ .
+ The CredeNews application helps unemployed teachers in Ceará to keep an eye on the news and temporary notices from the education coordinators.
+
+Package: digital-simulator
+Version: 0.24
+Installed-Size: 11269
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: default-jre
+Homepage: https://github.com/hneemann/Digital
+Priority: optional
+Section: science
+Filename: pool/main/d/digital-simulator/digital-simulator_0.24_all.deb
+Size: 3104300
+SHA256: 7919c53789ad0bb44edaad2ee8f749dc5de7063b377f4b332158f5db6545a382
+SHA1: 357ea2fc31852553d87e4d86050881f7e49bd50c
+MD5sum: b7ab34cc4f5dc98f69ac1c9005f6d03a
+Description: A digital logic designer and circuit simulator.
+ Digital is a easy-to-use digital logic designer and circuit simulator designed for educational purposes.
+
+Package: flashplayer-sa-projector
+Version: 32.0.0.387
+Installed-Size: 17612
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: amd64
+Homepage: https://www.adobe.com/support/flashplayer/debug_downloads.html
+Priority: optional
+Section: utils
+Filename: pool/main/f/flashplayer-sa-projector/flashplayer-sa-projector_32.0.0.387_amd64.deb
+Size: 7196868
+SHA256: 92ad73d66d5805362eea2792b27525ea284b152aaf7dd4839fe2652225a359b6
+SHA1: 2cd8fdddcf259629bc522dc7831241e1ac23564e
+MD5sum: a440a8ec269abe704c687fcf3b01adaa
+Description: Flash Player Standalone Projector.
+ App para executar arquivos swf.
+
+Package: fonts-3rd-party
+Version: 0.0.2
+Installed-Size: 42398
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://fonts.google.com
+Priority: optional
+Section: fonts
+Filename: pool/main/f/fonts-3rd-party/fonts-3rd-party_0.0.2_all.deb
+Size: 19352132
+SHA256: 16b5bf4dd71fbbb649be761e03bf856da47f4e53c7105a781fce27732c36735a
+SHA1: 6b9b83d223aa4cccdea28a09879548045ccd6ad9
+MD5sum: 6f896969b2b6a62830a3215bdb853d3b
+Description: Some generics fonts.
+ A list of fonts compatible with documents of office.
+
+Package: geogebra-classic
+Version: 6.0.590.0-202006170925
+Architecture: amd64
+Maintainer: International GeoGebra Institute <office@geogebra.org>
+Installed-Size: 150000
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: libgtk2.0-0, libxtst6, libgconf-2-4, libnss3, libgmp10, libstdc++6 (>= 4.9), libxss1, libcanberra-gtk-module
+Homepage: http://www.geogebra.org/
+Priority: extra
+Section: education
+Filename: pool/main/g/geogebra-classic/geogebra-classic_6.0.590.0-202006170925_amd64.deb
+Size: 60353136
+SHA256: 9e535b44f24e924fc153bfd66a96f47be6f596c0ed1cffb6dfe05709a79cc86a
+SHA1: b74d24634096c241367ba13d9cff461120dbe4c9
+MD5sum: 4ca44ae43eebf32e6f24e60a04982885
+Description: Free mathematics software for learning and teaching
+ GeoGebra is free dynamic mathematics software for all levels of education
+ that joins geometry, algebra, graphing, and calculus in one
+ easy-to-use package.
+ .
+ Quick Facts:
+ Graphics, algebra and spreadsheet are connected and fully dynamic.
+ Easy-to-use interface, yet many powerful features.
+ Authoring tool to create and share interactive online learning materials.
+ Available in many languages for our millions of users around the world.
+ Free and open source math/maths software.
+
+Package: goldendict-extras-pt
+Version: 0.4.2
+Installed-Size: 73044
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: goldendict
+Priority: optional
+Section: science
+Filename: pool/main/g/goldendict-extras-pt/goldendict-extras-pt_0.4.2_all.deb
+Size: 70936488
+SHA256: 74b18f8a47a67144d20d06ae36154a228409c4b07d6d8f2aaa798349ca18df85
+SHA1: ac7b5c30002935e99dc53472e5af4c7cbf561e23
+MD5sum: 3b9cd51dbbc087fc11bc04fa4b52518f
+Description: Dicionários em Português para o GoldenDict.
+ Dicionário Aurélio, Houaiss e Michaelis em português. Babylon em Inglês e Michaelis em Espanhol.
+
+Package: google-earth-pro-stable
+Version: 7.3.3.7721-r0
+Architecture: amd64
+Maintainer: Google Earth Team <google-earth-support@google.com>
+Installed-Size: 243613
+Pre-Depends: dpkg (>= 1.14.0)
+Depends: libasound2, libc6, libcups2, libdbus-1-3, libfontconfig1, libfreetype6, libgcc1, libglib2.0-0, libglu1-mesa, libgstreamer1.0-0, libgstreamer-plugins-base1.0-0, libproxy1 | libproxy1v5, libsm6, libstdc++6, libx11-6, libx11-xcb1, libxcb1, libxext6, libxml2, libxrender1, libxtst6
+Priority: optional
+Section: net
+Filename: pool/main/g/google-earth-pro-stable/google-earth-pro-stable_7.3.3.7721-r0_amd64.deb
+Size: 56036136
+SHA256: db3f4b224426789ffb8d76a5f64126f8a2822bc42d30da162ac05d039047a152
+SHA1: 48cc440de255d01bb62336cdf454e6210307cc66
+MD5sum: 715158aa83ea397f0b15a2ef21ec08ee
+Description: Explore, search and discover the planet
+ Google Earth lets you fly anywhere to see satellite imagery, 3D buildings, 3D trees, terrain, Street View, planets and much more.
+
+Package: gresistor-extras-pt
+Version: 0.4
+Installed-Size: 19
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: gresistor, python-glade2
+Priority: optional
+Section: science
+Filename: pool/main/g/gresistor-extras-pt/gresistor-extras-pt_0.4_all.deb
+Size: 2840
+SHA256: 18e2c38135a8f97afda1db271d450bc3bc0df1a3d1da185affe33023f5ea714b
+SHA1: 5b507e0f4fe682867f5580637bc06a845cd089cb
+MD5sum: 0206c75fae0e244fb83b156d5c8ea5e6
+Description: Tradução para português do Aplicativo GResistor.
+ Calculadora de código de cores de resistores. Para permitir a identificação, os resistores são geralmente marcados com bandas coloridas. Muitas vezes referenciados como códigos de cores, essas marcações são indicativas de sua resistência, tolerância e coeficiente de temperatura. O gResistor ajuda você a traduzir os códigos de cores do resistor em um valor legível. Tudo o que você precisa fazer é observar as cores no resistor e depois inseri-las no programa. Ao entrar nas cores, você verá que o valor do resistor está mudando de acordo.
+
+Package: irydium-chemistry-lab
+Version: 2.1.2
+Installed-Size: 33796
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Homepage: http://chemcollective.org/vlab_download
+Priority: optional
+Section: science
+Filename: pool/main/i/irydium-chemistry-lab/irydium-chemistry-lab_2.1.2_all.deb
+Size: 14568364
+SHA256: 6023ae46d9f8e5f458333c1b180ed9c0dacc7390a77f07a2c1ec52e90df76f72
+SHA1: a9ae90b9eae3ea62e1419c3c447911a57d0496c6
+MD5sum: 12b14063768e841d57f81d4881dff526
+Description: Virtual Chemistry Laboratory.
+ An Virtual Chemistry Laboratory from The irYdium Project's.
+ You need Java installed to run correctly.
+
+Package: logisim-evolution
+Version: 3.3.4
+Installed-Size: 22099
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: default-jre
+Homepage: https://github.com/reds-heig/logisim-evolution
+Priority: optional
+Section: science
+Filename: pool/main/l/logisim-evolution/logisim-evolution_3.3.4_all.deb
+Size: 20191356
+SHA256: a6142810de04c82b47dbb0d298972115fefd78726e81ff437b3f012d138d482e
+SHA1: 7510d75361310ea8d825f5a81d0bfdbc514af767
+MD5sum: a4327d073e247fe720148d2daf92c3be
+Description: Logisim is an educational tool for designing and simulating digital logic circuits.
+ People from a group of swiss institutes (Haute École Spécialisée Bernoise, Haute École du paysage, d'ingénierie et d'architecture de Genève, and Haute École d'Ingénierie et de Gestion du Canton de Vaud) started developing a version of Logisim that fitted their courses, integrating several tools -- for instance a chronogram, the possibility to test the schematics directly on an electronic board, TCL/TK consoles.
+
+Package: lubuntu-win10-icon-theme
+Version: 0.0.1
+Installed-Size: 20353
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://b00merang.weebly.com
+Priority: optional
+Section: utils
+Filename: pool/main/l/lubuntu-win10-icon-theme/lubuntu-win10-icon-theme_0.0.1_all.deb
+Size: 14754128
+SHA256: 224e305f63d16592c3fb30791deaf7d5146ccb0b5580d6f84fb535447d7d6374
+SHA1: 6a9b863702d7e35bc5e6c12c49f53777bacaeeb9
+MD5sum: 4c9f2eed2b49185f5191c961705b86ce
+Description: Windows 10 Icon Theme for Lubuntu 18.04 LTS.
+ This is a fork of B00merang Project.
+
+Package: lubuntu-win10-taskbar
+Version: 0.0.1
+Installed-Size: 
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: lubuntu-win10-theme, lubuntu-win10-icon-theme
+Homepage: https://ailtonbsj.github.io
+Priority: optional
+Section: utils
+Filename: pool/main/l/lubuntu-win10-taskbar/lubuntu-win10-taskbar_0.0.1_all.deb
+Size: 2428
+SHA256: 511b580ca4a1e90e269a9f86b5408e242d2171bbf19ab3734a310ec02fc38f48
+SHA1: 8a55e4d51a72253c2072225e2fd00dbdc8103cc5
+MD5sum: 39465e488d430eab56bc6d171f7a8107
+Description: A taskbar with style of windows ten.
+ This is a taskbar with theme of win10 and function to
+ restore using hotkey.
+
+Package: lubuntu-win10-theme
+Version: 1.0.3
+Installed-Size: 8533
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://b00merang.weebly.com
+Priority: optional
+Section: utils
+Filename: pool/main/l/lubuntu-win10-theme/lubuntu-win10-theme_1.0.3_all.deb
+Size: 13400764
+SHA256: ee3cb735fad68871731ab507497874467b74c7f0877ee6bd729fcc7eecc986f1
+SHA1: 68ba24521ac83baed55855e4465f8e2023b30ea9
+MD5sum: 70a721c80d6d24b8be72553b1401a228
+Description: Windows 10 Theme for Lubuntu 18.04 LTS.
+ This is an fork of B00merang Project with modifications to Lubuntu 18.04.
+
+Package: lubuntu-win8-cursor-theme
+Version: 0.0.1
+Installed-Size: 210
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://www.pling.com/p/999870
+Priority: optional
+Section: utils
+Filename: pool/main/l/lubuntu-win8-cursor-theme/lubuntu-win8-cursor-theme_0.0.1_all.deb
+Size: 7148
+SHA256: 7bdf4cc06898b2a7cd6af65b137dba97237bf691b73ac54b3c64659c380fce2b
+SHA1: 6d5985728b6051383db387e28aa59ddf39ba59c5
+MD5sum: f4c26645c91970bb8833dba1a5160b61
+Description: Windows 8 Cursor Theme for Lubuntu 18.04 LTS.
+ This is an fork from David Farkas (SRZW).
+
+Package: optgeo-i18n
+Version: 2.29
+Installed-Size: 11456
+Maintainer: Jean Marie <jeanmarie.biansan@free.fr>
+Architecture: all
+Conflicts: optgeo
+Homepage: http://jeanmarie.biansan.free.fr/optgeo.html
+Priority: optional
+Section: science
+Filename: pool/main/o/optgeo-i18n/optgeo-i18n_2.29_all.deb
+Size: 2177568
+SHA256: e54c08f03b5cfa1990266b6649be32b370d6fae68544827ac1e1ad538c44e441
+SHA1: 8de2a09834469fae37c91fc03b0464ea9282ea4e
+MD5sum: 43894e9cdb5b9e1ac8b666c31cb95433
+Description: Ferramenta interativa para estudar e simular montagens ópticas.
+ O optgeo é um programa para traçar o movimento dos raios através de um equipamento óptico. Muitas peças, como lentes, espelhos, espelhos curvos podem ser montadas.
+ English:
+ Interactive tool to study and simulate optic assemblies.
+ Optgeo is a program to plot the movement of rays through an optic equipment. Many pieces, like lenses, mirrors, curved mirrors can be assembled.
+
+Package: pcmanfm-thumbnailer
+Version: 0.0.1
+Architecture: all
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Installed-Size: 1
+Depends: poppler-utils, djvulibre-bin
+Homepage: https://winunix.github.io
+Priority: optional
+Section: utils
+Filename: pool/main/p/pcmanfm-thumbnailer/pcmanfm-thumbnailer_0.0.1_all.deb
+Size: 1188
+SHA256: e20434b7254f78dbd994b2bbc94f10a63a0a8c34fc17016facdf0c37383d719a
+SHA1: d961c87f05b977ec872f3c4a434247e836ce1f5b
+MD5sum: 4fe919acf5fc4ff6465c17ffdf24c19b
+Description: Thumbnails confs for pcmanfm
+ This package enable thumbnails of PDF and DjVu from PCManFM.
+
+Package: physion-wine
+Version: 1.05
+Installed-Size: 13309
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: wine-stable, wine32, p7zip
+Priority: optional
+Section: science
+Filename: pool/main/p/physion-wine/physion-wine_1.05_all.deb
+Size: 13631556
+SHA256: eb15bfc10815d81f567c18f303652edd543ef90bd41f7873dcc96fc14dec9941
+SHA1: 9acf8643a43cd307dbbfa2717a513f948a1d4cdf
+MD5sum: 9fcdb5156c51dd8f63a09efb07c62779
+Description: Simulador Physion 1.01 via Wine.
+ Physion é um divertido aplicativo, não exatamente um jogo, que oferece a você uma forma divertida de aprender como funciona a física. Você tem mais de 25 cenários predefinidos e você pode interagir com eles em diferentes formas para ver o que acontece.
+
+Package: proxy-linux
+Version: 1.1.5
+Installed-Size: 20
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: zenity
+Homepage: https://github.com/ailtonbsj/proxy-linux
+Priority: optional
+Section: utils
+Filename: pool/main/p/proxy-linux/proxy-linux_1.1.5_all.deb
+Size: 16504
+SHA256: d003498f2da3c3f33213d8dd799092cbf4c7e5dba530753db56758e0440eb7e2
+SHA1: b97704d3e344a5a4c6a2e6b592023a51f250569e
+MD5sum: b20684442438f16bb07ce93fb6efe95b
+Description: Easy proxy service switching for browsers and others.
+ Essa ferramenta facilita o chaveamento rápido das configurações de proxy no ambiente linux. Modifica as configurações de proxy dos seguintes apps: Firefox, Chrome, Chromium, Apt, Wget e .profile.
+
+Package: seplag-guardiao-legado
+Version: 0.0.3
+Installed-Size: 115315
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: amd64
+Depends: libgtk2.0-0:i386, libxft2:i386, libxt6:i386, gtk2-engines-murrine:i386, gtk2-engines-pixbuf:i386, libstdc++6:i386, firefox (>= 65.0), zenity
+Homepage: https://web3.seplag.ce.gov.br
+Priority: optional
+Section: tool
+Filename: pool/main/s/seplag-guardiao-legado/seplag-guardiao-legado_0.0.3_amd64.deb
+Size: 27190476
+SHA256: aa9a146aca860fa9eebefc0e441b48d66a549806a03840dc16eb9f285977c557
+SHA1: 4348d5e29fb20ca1b9194ca35c5edd30855be7ec
+MD5sum: 307ec9da923aa5a5de903b276cb2e184
+Description: Sistema SIGE-RH Legado da Secretaria do Planejamento e Gestão.
+ Navegador Firefox 3.0 com JRE 1.5 para SIGE-RH Legado da Seplag Ceará.
+
+Package: simulide
+Version: 0.3.12
+Installed-Size: 14674
+Maintainer: Arcachofo <simulide.blogspot.com>
+Architecture: amd64
+Conflicts: simulide
+Depends: libqt5serialport5, libqt5script5, libqt5multimedia5, libqt5xml5
+Homepage: https://simulide.blogspot.com
+Priority: optional
+Section: science
+Filename: pool/main/s/simulide/simulide_0.3.12_amd64.deb
+Size: 1967064
+SHA256: 5ad3b16da0be9dd7bd24dc47b211a8a965c68abdefbaf9c70c58cc3c10b622f0
+SHA1: e01c4fc95dc4a710d7293420563cfa568bba678b
+MD5sum: 6954633853d3beb8a75d8c2e4d8f4f4d
+Description: Real Time Electronic Circuit Simulator.
+ Include PIC, AVR and Arduino simulation. Code Editor & Debugger for Arduino, GcBasic, PIC asm, AVR asm.
+ .
+ Features: Analog and Digital components. Microcontrollers. Editor / Debugger. Subcircuits. Oscilloscope. Signal Plotter. Serial Port Connection. Serial Monitor.
+
+Package: virtual-lab-microscope
+Version: 6.2.2
+Installed-Size: 7094
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: default-jre
+Homepage: http://virtual.itg.uiuc.edu
+Priority: optional
+Section: science
+Filename: pool/main/v/virtual-lab-microscope/virtual-lab-microscope_6.2.2_all.deb
+Size: 3366460
+SHA256: ec06620f1d6b0ff03b3d277e049c5fd6c69b5acc29ed5a9b08fd5d1ab67f4cd8
+SHA1: 8235955ee0e98cb14810a93f885b795e48783736
+MD5sum: 2f7af234cc64901a3729c248caa740be
+Description: The Virtual Microscope
+ is a NASA-funded project that provides simulated scientific instrumentation for students and researchers worldwide as part of NASA's Virtual Laboratory initiative. This site serves as home base for the Imaging Technology Group's contributions to that project—namely virtual microscopes and the multi-dimensional, high-resolution image datasets they view. Currently we provide 90 samples totaling over 62 gigapixels of image data. The Virtual Microscope, which is available for free download supports functionality from electron, light, and scanning probe microscopes, datasets for these instruments, training materials to learn more about microscopy, and other related tools.
+
+Package: winunix-randr
+Version: 0.0.1
+Installed-Size: 
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: nodejs, python-gi
+Homepage: https://github.com/ailtonbsj/winunix-randr
+Priority: optional
+Section: utils
+Filename: pool/main/w/winunix-randr/winunix-randr_0.0.1_all.deb
+Size: 3000
+SHA256: 8be3de37ef3e78328cee92714e06981113c6fb365991e0865363cb9286595548
+SHA1: 30dd3bee170fb9f936bf891069f19deb9aaf5a8b
+MD5sum: 7c0a18f3b9756621fc07f836747b358e
+Description: A tool for manipulating screens with projectors using xrandr.
+ You can run the application winunix-randr-gtk with hot key Super + P to choose which mode of screen you want.
+
+Package: wps-office-addons
+Version: 11.1.0.9505.XA-2
+Architecture: amd64
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Installed-Size: 249284
+Priority: extra
+Section: editors
+Filename: pool/main/w/wps-office-addons/wps-office-addons_11.1.0.9505.XA-2_amd64.deb
+Size: 68474788
+SHA256: 0a53c0dfd961f18c88a7d9553a35a4603a6f87579599118c59a24565af08aa06
+SHA1: 8d347d2d46ce5034a718575834143085141fd6cb
+MD5sum: 7959579baf75b77209ca8e4c20b57d34
+Description: Addons from WPS Office
+ This package contains a bunch of files from WPS Office. This is required for the suite work correctly.
+
+Package: wps-office-core
+Version: 11.1.0.9505.XA-2
+Architecture: amd64
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Installed-Size: 231669
+Priority: extra
+Section: editors
+Filename: pool/main/w/wps-office-core/wps-office-core_11.1.0.9505.XA-2_amd64.deb
+Size: 66073064
+SHA256: 24907d4429aa4c13a8e62ab08a8940693a32edc7620e0970c43dec3ed580a2d1
+SHA1: ba703bbdf87e2274728b3e53b6a265103cf45b7b
+MD5sum: bed1215b328313ebab1d0b96566cd059
+Description: Core files of WPS Office
+ This package contains a bunch of files from WPS Office. This is required for the suite work correctly.
+ 
+
+Package: wps-office-dicts-pt
+Version: 0.0.2
+Installed-Size: 1531
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://github.com/winunix
+Priority: optional
+Section: localization
+Filename: pool/main/w/wps-office-dicts-pt/wps-office-dicts-pt_0.0.2_all.deb
+Size: 192308
+SHA256: e266f1df467126e1f909fcd835852cf559b0b8444f5f882502e796aa29ed3368
+SHA1: d787c742af272c1f7d6ebc3736aa381a4adc67a5
+MD5sum: 31d296f0e1d475fe790f0eb6ecbcb413
+Description: Dicionario em Portugues para WPS Office.
+ Este pacote é um fork do projeto de HenriqueAD:
+ Apoie seu projeto, SISTEMATICAMENTE!, em "www.youtube.com/OSistematico".
+
+Package: wps-office-fonts
+Version: 0.0.1
+Installed-Size: 395
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://github.com/wps-community
+Priority: optional
+Section: fonts
+Filename: pool/main/w/wps-office-fonts/wps-office-fonts_0.0.1_all.deb
+Size: 210816
+SHA256: 8402ae429afeb36e27e9172105cd6894156a78ef9b00c0d4d5b601eb72cbba67
+SHA1: 81b7a0b9ccb8d4db4b4126c508dab673ea4732e7
+MD5sum: b18dee4b29fa6027527524218b283a63
+Description: TTF Fonts to WPS Office.
+ This package provides fonts mtextra, symbol, WEBDINGS and wingding.
+
+Package: wps-office-full
+Version: 11.1.0.9508
+Architecture: amd64
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Installed-Size: 457856
+Depends: wps-office-core, wps-office-addons, wps-office-fonts, wps-office-mui-pt, wps-office-dicts-pt, wps-office-templates
+Provides: wps-office (= 11.1.0.9505.XA-2)
+Conflicts: wps-office
+Replaces: wps-office
+Priority: extra
+Section: editors
+Filename: pool/main/w/wps-office-full/wps-office-full_11.1.0.9508_amd64.deb
+Size: 90388256
+SHA256: a6ea60526dcc694c3a450f4b6e91b75282477096a682b9dd68c97986278e53ea
+SHA1: aedd07e36dbe4c44e42003f231788169295ae75f
+MD5sum: 2f2bb25ab86d1b3a4d14b592fb920f5d
+Description: WPS Office Suite
+ WPS Office including Writer, Presentation
+ and Spreadsheets, is a powerful office suite, which is able to process
+ word file, produce wonderful slides, and analyze data as well. It is
+ deeply compatible with all of the latest Microsoft Office file formats.
+ It can easily open and read the documents created with Microsoft Office.
+ This is the Linux version, and it's now an BETA package.
+ Welcome to our website: http://wps-community.org
+ .
+
+Package: wps-office-mui-pt
+Version: 0.0.1
+Installed-Size: 12618
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://github.com/winunix
+Priority: optional
+Section: localization
+Filename: pool/main/w/wps-office-mui-pt/wps-office-mui-pt_0.0.1_all.deb
+Size: 1575340
+SHA256: c5f903bfc97e2f2454951b7da49e2c7142f19c4747e4da6fba5d83f11ebffb17
+SHA1: 5c9e1b8e1af8405ed75724cabbc0ddba0807230e
+MD5sum: 43fa9d12f936451e866d4021dbc5e823
+Description: Interface em pt e pt_BR para WPS Office.
+ Este pacote é um fork do projeto de HenriqueAD:
+ Apoie seu projeto, SISTEMATICAMENTE!, em "www.youtube.com/OSistematico".
+
+Package: wps-office-templates
+Version: 0.0.1
+Installed-Size: 59951
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Homepage: https://github.com/winunix
+Priority: optional
+Section: localization
+Filename: pool/main/w/wps-office-templates/wps-office-templates_0.0.1_all.deb
+Size: 20193048
+SHA256: 242777efaf3a7e0e86510e0f98c30868f6a9e6f35a00f59ab04455b014c0b68f
+SHA1: 0ee47b629514c743aa2ccc216ac091fbd54af337
+MD5sum: d6003ea1b0ad33227b9463f224e9b3d7
+Description: Modelos para WPS Office.
+ Este pacote é um fork do projeto de HenriqueAD:
+ Apoie seu projeto, SISTEMATICAMENTE!, em "www.youtube.com/OSistematico".
+
+Package: zotero
+Architecture: amd64
+Depends: libatk1.0-0, libc6, libcairo-gobject2, libcairo2, libdbus-1-3, libdbus-glib-1-2, libfontconfig1, libfreetype6, libgcc1, libgdk-pixbuf2.0-0, libglib2.0-0, libgtk-3-0, libnss3-dev, libpango-1.0-0, libpangocairo-1.0-0, libpangoft2-1.0-0, libstartup-notification0, libstdc++6, libx11-6, libx11-xcb1, libxcb-shm0, libxcb1, libxcomposite1, libxcursor1, libxdamage1, libxext6, libxfixes3, libxi6, libxrender1, libxt6
+Maintainer: emiliano.heyns@iris-advies.com
+Version: 5.0.85
+Priority: optional
+Section: Science
+Filename: pool/main/z/zotero/zotero_5.0.85_amd64.deb
+Size: 63057786
+SHA256: b64122c68b1ef599eacf719b3e6e59d6851e4b1e7bb8c156f2fc1f43b1ae7261
+SHA1: 1c54cb93831f1b47a4bb5005264ee135206f6a0d
+MD5sum: 8497e2bebcb1a47a880705f1af3a0826
+Description: Zotero is a free, easy-to-use tool to help you collect, organize, cite, and share research
+
