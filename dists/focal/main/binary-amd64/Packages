@@ -1095,10 +1095,10 @@ Homepage: https://www.pling.com/p/999870
 Priority: optional
 Section: utils
 Filename: pool/main/l/lubuntu-win8-cursor-theme/lubuntu-win8-cursor-theme_0.0.2_all.deb
-Size: 7144
-SHA256: c4e99075a8710834efcddd21cde396ca504b5bd5207c4095b9c3b9a6cc634c3b
-SHA1: a6520fecba5bbd5ec49052c9473f6c51cdc0ef28
-MD5sum: afc05e1d3367bd64db0575f09d832b0f
+Size: 7132
+SHA256: 33813a9033623972d98d4b8647497d4b5209326cc274841f9fe2db6cdab69d7c
+SHA1: 7a8f99a718cfe8569e74d493581618485d5d08f6
+MD5sum: be9f6fce51fb52a3fe9a2e4a690543ca
 Description: Windows 8 Cursor Theme for Lubuntu 18.04 LTS.
  This is an fork from David Farkas (SRZW).
 

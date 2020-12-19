@@ -329,18 +329,18 @@ Description: Windows 10 Theme for Lubuntu 18.04 LTS.
  This is an fork of B00merang Project with modifications to Lubuntu 18.04.
 
 Package: lubuntu-win8-cursor-theme
-Version: 0.0.1
+Version: 0.0.2
 Installed-Size: 210
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Architecture: all
 Homepage: https://www.pling.com/p/999870
 Priority: optional
 Section: utils
-Filename: pool/main/l/lubuntu-win8-cursor-theme/lubuntu-win8-cursor-theme_0.0.1_all.deb
-Size: 7148
-SHA256: 7bdf4cc06898b2a7cd6af65b137dba97237bf691b73ac54b3c64659c380fce2b
-SHA1: 6d5985728b6051383db387e28aa59ddf39ba59c5
-MD5sum: f4c26645c91970bb8833dba1a5160b61
+Filename: pool/main/l/lubuntu-win8-cursor-theme/lubuntu-win8-cursor-theme_0.0.2_all.deb
+Size: 7132
+SHA256: 33813a9033623972d98d4b8647497d4b5209326cc274841f9fe2db6cdab69d7c
+SHA1: 7a8f99a718cfe8569e74d493581618485d5d08f6
+MD5sum: be9f6fce51fb52a3fe9a2e4a690543ca
 Description: Windows 8 Cursor Theme for Lubuntu 18.04 LTS.
  This is an fork from David Farkas (SRZW).
 
