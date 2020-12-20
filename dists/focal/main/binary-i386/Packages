@@ -408,15 +408,15 @@ Version: 0.1.1
 Installed-Size: 49
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Architecture: all
-Depends: qt5-style-plugin-gtk2
+Depends: qt5-style-plugin-gtk2, lubuntu-win10-theme, lubuntu-win8-cursor-theme, lubuntu-win10-icon-theme
 Homepage: https://github.com/winunix/lubuntu-win-theme-apply
 Priority: optional
 Section: utils
 Filename: pool/main/l/lubuntu-win-theme-apply/lubuntu-win-theme-apply_0.1.1_all.deb
-Size: 21804
-SHA256: 96e020ae235f9688c0269c64ea6e45e0f8b22f2b5e7f3894ad49cb1065f54cdb
-SHA1: 55e32c9b2ff1ef91696d86c052b9d8ff8a33863a
-MD5sum: df16f44fdd0ee0f1b323d96e32a3334b
+Size: 21828
+SHA256: 2a80026b48d61916a4188e4f569de7ac4abbce3283b725c1576e26a1f685809f
+SHA1: f298efb96011aacc2132778f929993f1e7ecf3bb
+MD5sum: 0a0f4d0b4ba6a37952834021f6e1a04d
 Description: apply windows-like theme on lubuntu focal.
  Apply windows-like theme to Lubuntu Focal Fossa.
 
