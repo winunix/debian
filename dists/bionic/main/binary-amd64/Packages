@@ -386,24 +386,6 @@ MD5sum: 4c9f2eed2b49185f5191c961705b86ce
 Description: Windows 10 Icon Theme for Lubuntu 18.04 LTS.
  This is a fork of B00merang Project.
 
-Package: lubuntu-win10-taskbar
-Version: 0.0.1
-Installed-Size: 
-Maintainer: ailtonbsj <ailton.ifce@gmail.com>
-Architecture: all
-Depends: lubuntu-win10-theme, lubuntu-win10-icon-theme
-Homepage: https://ailtonbsj.github.io
-Priority: optional
-Section: utils
-Filename: pool/main/l/lubuntu-win10-taskbar/lubuntu-win10-taskbar_0.0.1_all.deb
-Size: 2428
-SHA256: 511b580ca4a1e90e269a9f86b5408e242d2171bbf19ab3734a310ec02fc38f48
-SHA1: 8a55e4d51a72253c2072225e2fd00dbdc8103cc5
-MD5sum: 39465e488d430eab56bc6d171f7a8107
-Description: A taskbar with style of windows ten.
- This is a taskbar with theme of win10 and function to
- restore using hotkey.
-
 Package: lubuntu-win10-theme
 Version: 1.0.3
 Installed-Size: 8533
@@ -435,6 +417,24 @@ SHA1: 7a8f99a718cfe8569e74d493581618485d5d08f6
 MD5sum: be9f6fce51fb52a3fe9a2e4a690543ca
 Description: Windows 8 Cursor Theme for Lubuntu 18.04 LTS.
  This is an fork from David Farkas (SRZW).
+
+Package: lxde-win-theme-apply
+Version: 0.0.2
+Installed-Size: 
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: lubuntu-win10-theme, lubuntu-win8-cursor-theme, lubuntu-win10-icon-theme, fonts-dejavu
+Homepage: https://ailtonbsj.github.io
+Priority: optional
+Section: utils
+Filename: pool/main/l/lxde-win-theme-apply/lxde-win-theme-apply_0.0.2_all.deb
+Size: 14144
+SHA256: 4218fcc747425eaccc9c096bb3905799decd36494bac4299bbe746afbcf36d41
+SHA1: 5a4c00a57c070fb47e73d102f68305e84908f5de
+MD5sum: a23afe47884c07d2501262bbabfe3499
+Description: Apply theme and taskbar with style of windows ten.
+ This is a taskbar with theme of win10 and function to
+ restore using hotkey.
 
 Package: optgeo-i18n
 Version: 2.29
