@@ -1842,7 +1842,7 @@ Description: Fix Screen Tearing on Intel GPU Machines.
 
 Package: sddm-theme-win10
 Source: sddm
-Version: 0.0.3
+Version: 0.0.4
 Architecture: all
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Installed-Size: 2525
@@ -1852,11 +1852,11 @@ Provides: sddm-theme
 Homepage: https://github.com/sddm/sddm
 Priority: optional
 Section: kde
-Filename: pool/main/s/sddm/sddm-theme-win10_0.0.3_all.deb
-Size: 2579260
-SHA256: a038f9640437b2bdd9a630aac565ddf27b81887a608c8d97b97c8b7820b51b6e
-SHA1: 18390de42bec62b9334d568c05ca23fbae1bebcc
-MD5sum: 58ea1b33564c73995d2922523c44214f
+Filename: pool/main/s/sddm/sddm-theme-win10_0.0.4_all.deb
+Size: 44032
+SHA256: be3dca64ef6e23b8353e88457f74ee0cf1003cd5c2bbc2fd16010cdaa5bedb2a
+SHA1: ab512849577bae49b7ad5623504c9260c2aec078
+MD5sum: 7c90ec8a47e6d8f01662ad92467a1082
 Description: 'Win10' theme for SDDM X11 display manager
  Win10 theme for SDDM
 
