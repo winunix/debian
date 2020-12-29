@@ -327,7 +327,7 @@ Description: Windows 8 Cursor Theme for Lubuntu 18.04 LTS.
  This is an fork from David Farkas (SRZW).
 
 Package: lxde-win-theme-apply
-Version: 0.0.2
+Version: 0.0.3
 Installed-Size: 
 Maintainer: ailtonbsj <ailton.ifce@gmail.com>
 Architecture: all
@@ -335,11 +335,11 @@ Depends: lubuntu-win10-theme, lubuntu-win8-cursor-theme, lubuntu-win10-icon-them
 Homepage: https://ailtonbsj.github.io
 Priority: optional
 Section: utils
-Filename: pool/main/l/lxde-win-theme-apply/lxde-win-theme-apply_0.0.2_all.deb
-Size: 14144
-SHA256: 4218fcc747425eaccc9c096bb3905799decd36494bac4299bbe746afbcf36d41
-SHA1: 5a4c00a57c070fb47e73d102f68305e84908f5de
-MD5sum: a23afe47884c07d2501262bbabfe3499
+Filename: pool/main/l/lxde-win-theme-apply/lxde-win-theme-apply_0.0.3_all.deb
+Size: 3214312
+SHA256: b90b3c2f4fd59a414d92c2a90006e8357986d2f6d45bab0e3baa6cf93666b99a
+SHA1: eb2ad0e25d44fbc8041286e6b7a6fccc8f8fb419
+MD5sum: cbab34993d40bfdcc9f2ff33fdec4547
 Description: Apply theme and taskbar with style of windows ten.
  This is a taskbar with theme of win10 and function to
  restore using hotkey.
