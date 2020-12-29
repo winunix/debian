@@ -387,18 +387,18 @@ Description: Windows 10 Icon Theme for Lubuntu 18.04 LTS.
  This is a fork of B00merang Project.
 
 Package: lubuntu-win10-theme
-Version: 1.0.4
+Version: 1.0.5
 Installed-Size: 8533
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Architecture: all
 Homepage: https://b00merang.weebly.com
 Priority: optional
 Section: utils
-Filename: pool/main/l/lubuntu-win10-theme/lubuntu-win10-theme_1.0.4_all.deb
-Size: 4909384
-SHA256: 73a59b5eae328b68474f793280c31dcb1ee2726b597e3e867927a8b1fee2765a
-SHA1: 28b89ac8b2ea5313d04223ce80e5b95830fa4de7
-MD5sum: c439f1d8840142c7f020165319754e0d
+Filename: pool/main/l/lubuntu-win10-theme/lubuntu-win10-theme_1.0.5_all.deb
+Size: 1709788
+SHA256: 3840ee967c2f1917676c2cac4ab63ae285291a6e82bc168de0253afe691df716
+SHA1: 0d5eb1e6a2f2dde369ad559d12abd363597f61d4
+MD5sum: 34fe162c41b7136b8ccbb6b25c854f4b
 Description: Windows 10 Theme for Lubuntu 18.04 LTS.
  This is an fork of B00merang Project with modifications to Lubuntu 18.04.
 

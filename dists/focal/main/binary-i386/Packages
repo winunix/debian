@@ -453,18 +453,18 @@ Description: Windows 10 LXQt Theme.
  This is an fork of Win10 LXQt Theme created by Hendra.
 
 Package: lubuntu-win10-theme
-Version: 1.0.4
+Version: 1.0.5
 Installed-Size: 8533
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Architecture: all
 Homepage: https://b00merang.weebly.com
 Priority: optional
 Section: utils
-Filename: pool/main/l/lubuntu-win10-theme/lubuntu-win10-theme_1.0.4_all.deb
-Size: 4909384
-SHA256: 73a59b5eae328b68474f793280c31dcb1ee2726b597e3e867927a8b1fee2765a
-SHA1: 28b89ac8b2ea5313d04223ce80e5b95830fa4de7
-MD5sum: c439f1d8840142c7f020165319754e0d
+Filename: pool/main/l/lubuntu-win10-theme/lubuntu-win10-theme_1.0.5_all.deb
+Size: 1709788
+SHA256: 3840ee967c2f1917676c2cac4ab63ae285291a6e82bc168de0253afe691df716
+SHA1: 0d5eb1e6a2f2dde369ad559d12abd363597f61d4
+MD5sum: 34fe162c41b7136b8ccbb6b25c854f4b
 Description: Windows 10 Theme for Lubuntu 18.04 LTS.
  This is an fork of B00merang Project with modifications to Lubuntu 18.04.
 
@@ -590,7 +590,7 @@ Description: Fix Screen Tearing on Intel GPU Machines.
 
 Package: sddm-theme-win10
 Source: sddm
-Version: 0.0.4
+Version: 0.0.5
 Architecture: all
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Installed-Size: 2525
@@ -600,11 +600,11 @@ Provides: sddm-theme
 Homepage: https://github.com/sddm/sddm
 Priority: optional
 Section: kde
-Filename: pool/main/s/sddm/sddm-theme-win10_0.0.4_all.deb
-Size: 44032
-SHA256: be3dca64ef6e23b8353e88457f74ee0cf1003cd5c2bbc2fd16010cdaa5bedb2a
-SHA1: ab512849577bae49b7ad5623504c9260c2aec078
-MD5sum: 7c90ec8a47e6d8f01662ad92467a1082
+Filename: pool/main/s/sddm/sddm-theme-win10_0.0.5_all.deb
+Size: 2591312
+SHA256: 3996faa5d7f8256e9b1583234ae3a76a38d0dac23cd4f5a1cfd664b2e3cf04b9
+SHA1: 5b3c3cbd269ecf6ff0a3ffafd505e00114cb3769
+MD5sum: 4a7da8e1e8f80a41fd8b9430f30612d4
 Description: 'Win10' theme for SDDM X11 display manager
  Win10 theme for SDDM
 
