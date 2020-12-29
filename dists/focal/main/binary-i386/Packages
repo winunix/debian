@@ -404,19 +404,19 @@ Description: Logisim is an educational tool for designing and simulating digital
  People from a group of swiss institutes (Haute École Spécialisée Bernoise, Haute École du paysage, d'ingénierie et d'architecture de Genève, and Haute École d'Ingénierie et de Gestion du Canton de Vaud) started developing a version of Logisim that fitted their courses, integrating several tools -- for instance a chronogram, the possibility to test the schematics directly on an electronic board, TCL/TK consoles.
 
 Package: lubuntu-win-theme-apply
-Version: 0.1.1
-Installed-Size: 49
+Version: 0.1.2
+Installed-Size: 3160
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Architecture: all
 Depends: qt5-style-plugin-gtk2, lubuntu-win10-theme, lubuntu-win8-cursor-theme, lubuntu-win10-icon-theme
 Homepage: https://github.com/winunix/lubuntu-win-theme-apply
 Priority: optional
 Section: utils
-Filename: pool/main/l/lubuntu-win-theme-apply/lubuntu-win-theme-apply_0.1.1_all.deb
-Size: 21828
-SHA256: 2a80026b48d61916a4188e4f569de7ac4abbce3283b725c1576e26a1f685809f
-SHA1: f298efb96011aacc2132778f929993f1e7ecf3bb
-MD5sum: 0a0f4d0b4ba6a37952834021f6e1a04d
+Filename: pool/main/l/lubuntu-win-theme-apply/lubuntu-win-theme-apply_0.1.2_all.deb
+Size: 3210456
+SHA256: 2db09a3d0fa90f720f1cff7e344a573f943d629ade67d053e29bb13eaee19a6e
+SHA1: a45de598755b12258ef3a8972528d9303c6c8bce
+MD5sum: 6c7a14d34696dbfe8144b1ca51e8a8fa
 Description: apply windows-like theme on lubuntu focal.
  Apply windows-like theme to Lubuntu Focal Fossa.
 

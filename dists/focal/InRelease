@@ -5,42 +5,42 @@ Origin: Orkidea System
 Label: Orkidea System (Winunix OS)
 Suite: stable
 Codename: focal
-Date: Tue, 29 Dec 2020 14:09:33 UTC
+Date: Tue, 29 Dec 2020 17:54:47 UTC
 Architectures: i386 amd64
 Components: main
 Description: Debian x86-64 packages hosted on ailtonbsj github repository
 MD5Sum:
- 03c89dbe62511107ddea580e7951678a 31364 main/binary-i386/Packages
- 3b064f4d5f3cd9a7e2f57def2945e321 11590 main/binary-i386/Packages.gz
+ 82e554ac2f5071e6065e528c3c150060 31368 main/binary-i386/Packages
+ 67c87e540c803b66f5770438a042cc55 11590 main/binary-i386/Packages.gz
  55f39bd3268e4d7fadf3006bb1de991e 183 main/binary-i386/Release
- b654b4a788237b889cdea2cf0e107280 93901 main/binary-amd64/Packages
- 6a68520eb71966d7e0af5b007b278d3e 28001 main/binary-amd64/Packages.gz
+ caa2cd7edecb7ea989ee1c18f5bd99c7 93905 main/binary-amd64/Packages
+ f7573d11db8b2ea9a9cfb9e76d3b6b8d 28000 main/binary-amd64/Packages.gz
  a08e334ec7f6c8165b8c9592b5e73f40 184 main/binary-amd64/Release
 SHA1:
- c7679caa7b5001901dc9ffa78d73825f23827788 31364 main/binary-i386/Packages
- 59d9898a8307d1b8054c95affbd1265f9b98ffd5 11590 main/binary-i386/Packages.gz
+ 11b2d9dfb588f92eae4b892ee829abfa484a1ce8 31368 main/binary-i386/Packages
+ 3d827ba1719b57e0560941c7a95a708c16ac542e 11590 main/binary-i386/Packages.gz
  7b8f6108728f0717bd43ead490573df83ed90908 183 main/binary-i386/Release
- 0802df7e5ddfbd2c1559337b4c9d0de30af85a30 93901 main/binary-amd64/Packages
- 520723c04c309bb74160cffe4966be2c0c5d0586 28001 main/binary-amd64/Packages.gz
+ 3a6c18bd39f5313594bdca789d2a21b50052c221 93905 main/binary-amd64/Packages
+ 30afbdd9ca792fe1d8a66887a0ba9c7f7d768255 28000 main/binary-amd64/Packages.gz
  7ddded4de6448cb7c3561c249acfb66a2b003ad4 184 main/binary-amd64/Release
 SHA256:
- 1faef125f98a609b741f58202218cc07f4807891f9b0429269d8eb0bfcc9a444 31364 main/binary-i386/Packages
- 3793e16372b0d897ca244fb376ed6579be0488a348cc92c4e5fe698562bacc12 11590 main/binary-i386/Packages.gz
+ d19dd5b7c94655544f270a9b932e9ef7674cd199c6f13fdeab4002fd589636f1 31368 main/binary-i386/Packages
+ 406c1543ff6c9102d7772dd0651bbb6244d559946c0139694d8841818e59856c 11590 main/binary-i386/Packages.gz
  030c1920aada2bb553857f1e0e35f42cf897f23edae0108d2becbca027172d8e 183 main/binary-i386/Release
- 3899d64b06d7a4ced2076d15b197186fcd0cc98a33210b525b1e93cc3dde6882 93901 main/binary-amd64/Packages
- 0c82b19750483b387e09100754f7826fdd3ae8414dcaac62af27a352a96ce5a1 28001 main/binary-amd64/Packages.gz
+ d6ebe7f1c35f8629aa27f02f022896236f769f9d30f8a4a6e106de1ac1af52aa 93905 main/binary-amd64/Packages
+ cfc95691ec2ac4e2b7367992ac721410d8819e4aef52388383a7416943c8692a 28000 main/binary-amd64/Packages.gz
  0404b1bae05944138f8e714273d96ed481b935fa19f8d8448a253eef403fe421 184 main/binary-amd64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEswHEp36DT/YbB+UiT4sUB1Nb2A0FAl/rOJ4ACgkQT4sUB1Nb
-2A1jcgwAzULZ3c+lBsNjA1fiftDVt01hdYKjl20pOVyGgLiaw5v/0mIroSkcU1aS
-e5imW5WfxjkgfNk+C5zl/tT6g2QsS2+3gTQrWGOGNS5YdPxXFzVqG0HFFh92gT+4
-UOLqfRKfEGyKxxUMdxtGNRKq/hsuRodkYRkuMWNLLoshpBdVqcKXF5Yci2GbEajQ
-Xt259is+mIskw3nM8cBFOdJaTnaAh1bitIvq4nckEaSOX9u9gDSDLwb9HZm/c9am
-9IQqQkuIxeW/Trglr5/boOEt3dsUTqqPNRsHmuJJEkkwdbZp3tlDBsw/wWW7Vm/f
-NYzgzcsL7B2bWBf3yhaqJ9c00flqqwY7173/7w7MGmM/jBrWBYMNfVc/FO03wukP
-s+W4fBy5ubrymu39k/ePfYhXO+C4/wAwLfJ6fKVEIKOgCCk3XPT9aDiXM2eqjx3Y
-J1QtEzM7N4ByFmDFu7x0NYOSaD9/PO3iT71VdblCOLCJSHP1YnDCseJmzRDQfRaZ
-z/UjMs39
-=mBmQ
+iQGzBAEBCgAdFiEEswHEp36DT/YbB+UiT4sUB1Nb2A0FAl/rbXIACgkQT4sUB1Nb
+2A3yHAv8DzaE76gBs8wZKG9n3RG1lx0AXNyMeNtWOnHzrk1YxBmGNFzQA3o+258n
+0bkAYKYC8ttlJeXks/UcQCZJtxcF8TZxHFxBNBPqWlzv3eh4IM3jIP2gW4IUkf7T
+LqwkD4pzNwauGLxVv9bf3FFGiO0oTwdQUOK86uUou1SV1LI62AicJukwbrrUELAs
+3s35vFX9Rx28hxTbTk+QPSfLAT/ZHamDY3Ekh0kz1rb1raUVT9kJLNAnhKiAPcTy
+FpfaQPY6lFADQMG8Sw1aQSEXxgiOSqRTsoDiLHdH36RCEaNIi0XinJbO6Gyd1uYz
+a0CusTDAY27tZP2MfIiS/+CVo2dhebOT+AlHoEG8rHC2rt8KHZ5BQnUlveohF8tL
+rsPe1apApL3m8Dn2mSP9YC+S+7Ftzi+ogmRUQJnVbnPkZ0y26JnJDntrq9mtHhPn
+XOwl2kSvhbbD7k+k0AC7qzaJJ2Gemc7XwP9bgEGxGi8X48v+B1lnJVFx4rF1RsUB
+sw/Ljcau
+=aIGo
 -----END PGP SIGNATURE-----
