@@ -1990,7 +1990,7 @@ Description: Anbox Installer maintained by WinuniX.
  This install Anbox using snap.
 
 Package: winunix-software-center
-Version: 0.0.4
+Version: 0.0.5
 Installed-Size: 7
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Architecture: all
@@ -1998,11 +1998,11 @@ Depends: python | python-is-python2, zenity
 Homepage: https://winunix.github.io
 Priority: optional
 Section: utils
-Filename: pool/main/w/winunix-software-center/winunix-software-center_0.0.4_all.deb
-Size: 4156
-SHA256: f920d2a56a306b18d32d981adc7b573dee6e2ac6b61a3f5fd96a509186d4b48a
-SHA1: c93f32416f8e068cb8e9ced8536cafa4ac7ee4a6
-MD5sum: 7e3800b328126f115a116df13486ea9d
+Filename: pool/main/w/winunix-software-center/winunix-software-center_0.0.5_all.deb
+Size: 4196
+SHA256: 18c6088f37e2b368bc65f8a3345d8ed44c65e8b45dd65711382aa010e877019d
+SHA1: 1b79a8b67730243a8c1a04ff294b4fade1be83b8
+MD5sum: 32f021670489408cfbb962658044d8a1
 Description: PosInstall for Lubuntu.
  A GUI script for install apps post installed system.
 
