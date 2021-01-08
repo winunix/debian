@@ -1898,7 +1898,7 @@ Description: Real Time Electronic Circuit Simulator.
  Features: Analog and Digital components. Microcontrollers. Editor / Debugger. Subcircuits. Oscilloscope. Signal Plotter. Serial Port Connection. Serial Monitor.
 
 Package: system-config-samba-wx
-Version: 1.2.63-0ubuntu6
+Version: 1.2.64
 Architecture: all
 Maintainer: Ubuntu MOTU Developers <ubuntu-motu@lists.ubuntu.com>
 Installed-Size: 7292
@@ -1908,11 +1908,11 @@ Conflicts: system-config-samba (= 1.2.63-0ubuntu6)
 Replaces: system-config-samba (= 1.2.63-0ubuntu6)
 Priority: optional
 Section: admin
-Filename: pool/main/s/system-config-samba-wx/system-config-samba-wx_1.2.63-0ubuntu6_all.deb
-Size: 259936
-SHA256: a2aea6beeb300e0eda5821f72fd157b483f5cf69c894b900cc4efc22bd24164e
-SHA1: fb413c29ad2a7c3dcb6dddd9b745a12f5cec1e14
-MD5sum: 03cc87324c6979136898afa2de9d8abb
+Filename: pool/main/s/system-config-samba-wx/system-config-samba-wx_1.2.64_all.deb
+Size: 259948
+SHA256: b58caf1f3813b946e9b06049216fbbb2460cf5ce84ef6b4e6b54add7b01b295c
+SHA1: 05eb6e4bb1c4bfa7cd60cf3df150eb1e7d529170
+MD5sum: 70f43e5b3a70ef2f2a8ec25cf156c11f
 Description: GUI for managing samba shares and users
  system-config-samba is a graphical user interface for creating,
  modifying, and deleting samba shares and users.
