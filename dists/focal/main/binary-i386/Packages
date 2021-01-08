@@ -608,22 +608,22 @@ MD5sum: 4a7da8e1e8f80a41fd8b9430f30612d4
 Description: 'Win10' theme for SDDM X11 display manager
  Win10 theme for SDDM
 
-Package: system-config-samba-focal
+Package: system-config-samba-wx
 Version: 1.2.63-0ubuntu6
 Architecture: all
 Maintainer: Ubuntu MOTU Developers <ubuntu-motu@lists.ubuntu.com>
 Installed-Size: 7292
-Depends: python, python:any (>= 2.7.5-5~), samba, python-libuser, python-glade2
+Depends: python | python-is-python2, samba, python-libuser, python-glade2
 Provides: system-config-samba (= 1.2.63-0ubuntu6)
 Conflicts: system-config-samba (= 1.2.63-0ubuntu6)
 Replaces: system-config-samba (= 1.2.63-0ubuntu6)
 Priority: optional
 Section: admin
-Filename: pool/main/s/system-config-samba-focal/system-config-samba-focal_1.2.63-0ubuntu6_all.deb
-Size: 261956
-SHA256: 23102a16a0cb2e7a11bd89470f4035eaa42ba7657c1e1a18ce8103b30a66cf44
-SHA1: 75754af1f34b95b1f8961356233b5ab5156f5b80
-MD5sum: 08ee0578a78eda6c5c31defcd7eada0a
+Filename: pool/main/s/system-config-samba-wx/system-config-samba-wx_1.2.63-0ubuntu6_all.deb
+Size: 259936
+SHA256: a2aea6beeb300e0eda5821f72fd157b483f5cf69c894b900cc4efc22bd24164e
+SHA1: fb413c29ad2a7c3dcb6dddd9b745a12f5cec1e14
+MD5sum: 03cc87324c6979136898afa2de9d8abb
 Description: GUI for managing samba shares and users
  system-config-samba is a graphical user interface for creating,
  modifying, and deleting samba shares and users.
