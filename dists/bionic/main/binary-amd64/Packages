@@ -490,19 +490,19 @@ Description: Simulador Physion 1.01 via Wine.
  Physion é um divertido aplicativo, não exatamente um jogo, que oferece a você uma forma divertida de aprender como funciona a física. Você tem mais de 25 cenários predefinidos e você pode interagir com eles em diferentes formas para ver o que acontece.
 
 Package: proxy-linux
-Version: 1.1.5
-Installed-Size: 20
+Version: 2.0.0
+Installed-Size: 23
 Maintainer: ailtonbsj <ailton.ifce@gmail.com>
 Architecture: all
 Depends: zenity
 Homepage: https://github.com/ailtonbsj/proxy-linux
 Priority: optional
 Section: utils
-Filename: pool/main/p/proxy-linux/proxy-linux_1.1.5_all.deb
-Size: 16504
-SHA256: d003498f2da3c3f33213d8dd799092cbf4c7e5dba530753db56758e0440eb7e2
-SHA1: b97704d3e344a5a4c6a2e6b592023a51f250569e
-MD5sum: b20684442438f16bb07ce93fb6efe95b
+Filename: pool/main/p/proxy-linux/proxy-linux_2.0.0_all.deb
+Size: 16668
+SHA256: d6cc4c40aa2d850ec91be61c2370514f7d96434c354af11553665b5ac592c698
+SHA1: 56129e67218c430bc97b63535e458892b1e1793e
+MD5sum: 84aa78deb645de6886b1ee6c1ae4a211
 Description: Easy proxy service switching for browsers and others.
  Essa ferramenta facilita o chaveamento rápido das configurações de proxy no ambiente linux. Modifica as configurações de proxy dos seguintes apps: Firefox, Chrome, Chromium, Apt, Wget e .profile.
 
