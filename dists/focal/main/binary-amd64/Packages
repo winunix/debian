@@ -424,6 +424,23 @@ Description: Epson Inkjet Printer Driver (ESC/P-R) for Linux
  .
  (Converted from a rpm package by alien version 8.95.)
 
+Package: epson-l3150
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lsb, epson-inkjet-printer-escpr, epson-printer-utility, epsonscan2, epsonscan2-non-free-plugin
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Priority: optional
+Section: utils
+Filename: pool/main/e/epson-l3150/epson-l3150_0.0.1_all.deb
+Size: 876
+SHA256: 3788b2e96f923c9aae33a4ae6dcdeda474089aa76b4e94dedc437b937f89afcf
+SHA1: d11a967d30aaa8812fb1c870430c362b8d920e9b
+MD5sum: 5edac08c24782cdf39275df098700d96
+Description: Drivers for Epson L3150 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from epson-3150
+
 Package: epson-printer-utility
 Version: 1.1.1-1lsb3.2
 Architecture: amd64
