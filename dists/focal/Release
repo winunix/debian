@@ -2,7 +2,7 @@ Origin: Orkidea System
 Label: Orkidea System (Winunix OS)
 Suite: stable
 Codename: focal
-Date: Tue, 12 Jan 2021 12:53:23 UTC
+Date: Wed, 27 Jan 2021 12:58:56 UTC
 Architectures: i386 amd64
 Components: main
 Description: Debian x86-64 packages hosted on ailtonbsj github repository
@@ -10,20 +10,20 @@ MD5Sum:
  c09f57a6110d05340b153fe01bb826cb 31931 main/binary-i386/Packages
  150a9305af5d789ca571b8faf9d356bf 11752 main/binary-i386/Packages.gz
  55f39bd3268e4d7fadf3006bb1de991e 183 main/binary-i386/Release
- 14d61f0be4078ad61be1ec6c7c7a9f2e 94468 main/binary-amd64/Packages
- cf9a13eb8c41c28cc848bae853a821bc 28178 main/binary-amd64/Packages.gz
+ 1c6276fd02a56f578d4fa654d064a63a 97280 main/binary-amd64/Packages
+ d77eef241a482e71950a9784840091a9 29198 main/binary-amd64/Packages.gz
  a08e334ec7f6c8165b8c9592b5e73f40 184 main/binary-amd64/Release
 SHA1:
  39fb9fdc2db83b85e1c94b58800cf084a6ba1021 31931 main/binary-i386/Packages
  7a09482816a3639c123660e7384d6cb2785a56c9 11752 main/binary-i386/Packages.gz
  7b8f6108728f0717bd43ead490573df83ed90908 183 main/binary-i386/Release
- d14a227fe324c4dea98f80b32416aa51783f0c63 94468 main/binary-amd64/Packages
- 74b8f558aa3c0928f9720f55f8361a2284d89e66 28178 main/binary-amd64/Packages.gz
+ 397501cf6e3cfe56ac0b746c3b08bb99c2813db8 97280 main/binary-amd64/Packages
+ e56291633087ed638ba93f1d1721e3e831015f84 29198 main/binary-amd64/Packages.gz
  7ddded4de6448cb7c3561c249acfb66a2b003ad4 184 main/binary-amd64/Release
 SHA256:
  1c5553b66197c4ff5084b7c0bffa323891434e603c31f422b4dd00ace1bb1bf8 31931 main/binary-i386/Packages
  fbcea99e7ba0afa807fd48ef59813f687cfbf7d19571bf9cfbf79a5b6efbd1f3 11752 main/binary-i386/Packages.gz
  030c1920aada2bb553857f1e0e35f42cf897f23edae0108d2becbca027172d8e 183 main/binary-i386/Release
- abd1aaabcfc3d644912c7b95186e882b8111f72967c508d70e0e84d8d9c6ef77 94468 main/binary-amd64/Packages
- 88b0d694ec48df2fbe7b7f60a047c4cb7ed710accba5c70bf2c1708fcc39ac56 28178 main/binary-amd64/Packages.gz
+ eef67c95e430d5719322525709dcdfc8c7777f4fe513550df06aede6202ef983 97280 main/binary-amd64/Packages
+ 031490aad3163afa5336f7402894b25ab2fd0c98da8c38d1c46ca9418675cf70 29198 main/binary-amd64/Packages.gz
  0404b1bae05944138f8e714273d96ed481b935fa19f8d8448a253eef403fe421 184 main/binary-amd64/Release

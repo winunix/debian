@@ -398,6 +398,79 @@ Description: Simulações interativas de transferência de calor
  .
  Energy2D is an interactive multiphysics simulation program that models all three modes of heat transfer—conduction, convection, and radiation, and their coupling with particle dynamics.
 
+Package: epson-inkjet-printer-escpr
+Version: 1.7.8-1lsb3.2
+Architecture: amd64
+Maintainer: Seiko Epson Corporation <linux-printer@epson.jp>
+Installed-Size: 5259
+Depends: lsb (>= 3.2)
+Priority: extra
+Section: alien
+Filename: pool/main/e/epson-inkjet-printer-escpr/epson-inkjet-printer-escpr_1.7.8-1lsb3.2_amd64.deb
+Size: 4666444
+SHA256: 948c3816d31783da5c31889c836fc1b882a7990262776491ceead2deb8976dd4
+SHA1: b7007b1a3dbc5199a57bb374900e62fe64a6de54
+MD5sum: e245a7fa2af8c4ae21f81017f6e984d9
+Description: Epson Inkjet Printer Driver (ESC/P-R) for Linux
+ This software is a filter program used with Common UNIX Printing
+ System (CUPS) from the Linux. This can supply the high quality print
+ with Seiko Epson Color Ink Jet Printers.
+ .
+ This product supports only EPSON ESC/P-R printers. This package can be
+ used for all EPSON ESC/P-R printers.
+ .
+ For detail list of supported printer, please refer to below site:
+ http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
+Package: epson-printer-utility
+Version: 1.1.1-1lsb3.2
+Architecture: amd64
+Maintainer: Seiko Epson Corporation <linux-printer@epson.jp>
+Installed-Size: 3800
+Depends: lsb (>= 3.2)
+Priority: extra
+Section: alien
+Filename: pool/main/e/epson-printer-utility/epson-printer-utility_1.1.1-1lsb3.2_amd64.deb
+Size: 1284606
+SHA256: 417b637173c0b866a94eb5d9785aecbcd10fc99fd1d7149eb49f02f450e6b61f
+SHA1: 1bf7d102a9fd0c11d95f15ffae66e72fb2fc00ab
+MD5sum: 940a2066e6f72c72e21ce235e5ed3fb3
+Description: Epson Printer Utility for Linux
+ This is a Printer Utility program for Epson Printer Driver.
+ Using this software, you can check ink levels, view error and other status... on EPSON Printers.
+ For detail list of supported printer, please refer to below site:
+ http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+ .
+ (Converted from a rpm package by alien version 8.86.)
+
+Package: epsonscan2
+Maintainer: Kenichi Shimoura <linux-printer@epson.jp>
+Architecture: amd64
+Version: 6.6.2.2-11
+Priority: optional
+Section: utils
+Filename: pool/main/e/epsonscan2/epsonscan2_6.6.2.2-11_amd64.deb
+Size: 2706052
+SHA256: 1fdea45f9c9dd96423b5ee9d78058be6630464dfcc1dd15081c2f4009283ca5e
+SHA1: 552f452611158f347b98950b5f5c8ad87ebc8b86
+MD5sum: 6385a2fb4a34d9a4edc4e22814b9fb80
+Description: This is scanner driver.
+
+Package: epsonscan2-non-free-plugin
+Maintainer: Kenichi Shimoura <linux-printer@epson.jp>
+Architecture: amd64
+Version: 1.0.0.3-11
+Priority: optional
+Section: utils
+Filename: pool/main/e/epsonscan2-non-free-plugin/epsonscan2-non-free-plugin_1.0.0.3-11_amd64.deb
+Size: 16221324
+SHA256: f49565ccaeba001d63635ade010207ddb01ed945c8f94b21ace18b9e3868c03b
+SHA1: 18ab98d5191b47d11b4e23d3823a9fbdc4ba128e
+MD5sum: 00bf091298da8bb6d7258c8dbb046fc2
+Description: This is scanner driver non free plugins.
+
 Package: flashplayer-sa-projector
 Version: 32.0.0.387
 Installed-Size: 17612
