@@ -17,6 +17,22 @@ Description: Gerenciador de arquivos do Android ADB
  .
  File manager of Android ADB
 
+Package: adobereader-ptb
+Version: 8.1.7
+Architecture: i386
+Source: adobereader-ptb
+Depends: libgtk2.0-0 (>= 2.4)
+Maintainer: Adobe Systems, Incorporated
+Priority: extra
+Section: publishing
+Filename: pool/main/a/adobereader-ptb/adobereader-ptb_8.1.7_i386.deb
+Size: 52282660
+SHA256: 2d61e1400fcc0e76687d50526377f84ca9946daa0d2862a77f6b5c091fe4cd5f
+SHA1: 307975d2777f0569f5c03e666be48a5cabc84938
+MD5sum: beabc7e5bd9a9d6a33dca6d8406da702
+Description: Adobe Reader allows you to view navigate and print PDF files. This version adds advanced forms support (save), better integration with Adobe Acrobat workflows, customizable toolbars and better overall performance.
+Installed-Size: 132264
+
 Package: algodoo-wine
 Version: 2.1.3
 Installed-Size: 42162
