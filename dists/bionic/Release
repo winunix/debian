@@ -2,27 +2,27 @@ Origin: Orkidea System
 Label: Orkidea System (Winunix OS)
 Suite: stable
 Codename: bionic
-Date: Thu, 04 Mar 2021 18:26:31 UTC
+Date: Fri, 05 Mar 2021 00:21:27 UTC
 Architectures: i386 amd64
 Components: main
 Description: Debian x86-64 packages hosted on ailtonbsj github repository
 MD5Sum:
- 974b279eaa47983f605583cd12e611aa 25622 main/binary-i386/Packages
- 05f0f5528121e315a70ccd15d06c269a 9672 main/binary-i386/Packages.gz
+ c8014199826ff5c2dc7cc064199c73d3 25675 main/binary-i386/Packages
+ e02d96afd2b3c64b14f5891c28307282 9694 main/binary-i386/Packages.gz
  55f39bd3268e4d7fadf3006bb1de991e 183 main/binary-i386/Release
  bdca4b4154ef740b1dfeb3df3c5c0579 37217 main/binary-amd64/Packages
  bb9101224e5a6ff109f8208ab01ef30e 14010 main/binary-amd64/Packages.gz
  a08e334ec7f6c8165b8c9592b5e73f40 184 main/binary-amd64/Release
 SHA1:
- e15615d25101b421618a556f4318d27e7ba52e0f 25622 main/binary-i386/Packages
- 2406c832ebb3278b6d7be4dba2e0a5bbde7d8642 9672 main/binary-i386/Packages.gz
+ 9096abb6736d720b8054980f50243d7a48c3e2a0 25675 main/binary-i386/Packages
+ 9b3529787daf33d98a8025e4655b5c91292f10b8 9694 main/binary-i386/Packages.gz
  7b8f6108728f0717bd43ead490573df83ed90908 183 main/binary-i386/Release
  0560acafc2d6ababfae45cdc2caa5d68cebd6253 37217 main/binary-amd64/Packages
  335efceb6cbe5c9f6d168db1918984f9000371ad 14010 main/binary-amd64/Packages.gz
  7ddded4de6448cb7c3561c249acfb66a2b003ad4 184 main/binary-amd64/Release
 SHA256:
- 21a12b7d2f4e086330d4479b93e095a8bdb1eb910e1bfc1c2c0415c647744bbc 25622 main/binary-i386/Packages
- ca20125426823f0daa9127c6785d0df3ba4ac2971770e95a01b079a2b879c934 9672 main/binary-i386/Packages.gz
+ cd5d8cc768d0f303496f60c4d229f040df1a2e26a3cccce8f8c1aed0fdeb7b44 25675 main/binary-i386/Packages
+ e4a5fe7378c7a635076c1b84a732ed932dff788dd5df241d439b3941ab2498d6 9694 main/binary-i386/Packages.gz
  030c1920aada2bb553857f1e0e35f42cf897f23edae0108d2becbca027172d8e 183 main/binary-i386/Release
  08bb8de1278b957b8753c1faa8074a1a33d366386550c67c5afea5814d35ec18 37217 main/binary-amd64/Packages
  01f1cdbc612a7401e41403a397804a3ac1eb8afb35df3c7544baad9d2553a0f3 14010 main/binary-amd64/Packages.gz

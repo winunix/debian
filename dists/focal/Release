@@ -2,27 +2,27 @@ Origin: Orkidea System
 Label: Orkidea System (Winunix OS)
 Suite: stable
 Codename: focal
-Date: Thu, 04 Mar 2021 18:26:13 UTC
+Date: Fri, 05 Mar 2021 00:20:42 UTC
 Architectures: i386 amd64
 Components: main
 Description: Debian x86-64 packages hosted on ailtonbsj github repository
 MD5Sum:
- 17df8626f35b6da0cc6edebd5088e06d 33306 main/binary-i386/Packages
- cc4cac764e747008256270f2e39b3cf7 12321 main/binary-i386/Packages.gz
+ 7516a8ceb5a8005b04feab3c38cf4eaa 33359 main/binary-i386/Packages
+ f3fab588e10516986147f796d228477d 12347 main/binary-i386/Packages.gz
  55f39bd3268e4d7fadf3006bb1de991e 183 main/binary-i386/Release
  ee0447cc26196981238d12787c06943e 97970 main/binary-amd64/Packages
  b6f8b59005ddae90fcef073513bd87be 29388 main/binary-amd64/Packages.gz
  a08e334ec7f6c8165b8c9592b5e73f40 184 main/binary-amd64/Release
 SHA1:
- 229c962c871fb346ce20750a3db1bfa56beaab97 33306 main/binary-i386/Packages
- 3bbc2305f5ae09e738176d2350e1fe0ac0ddb896 12321 main/binary-i386/Packages.gz
+ 017e15c2433417cd9ae4ac811064a40100da7654 33359 main/binary-i386/Packages
+ 4652a2f4a737940a6a9559917b86ef10c2c1a0f4 12347 main/binary-i386/Packages.gz
  7b8f6108728f0717bd43ead490573df83ed90908 183 main/binary-i386/Release
  ca70b9b125995b5a595c31c8f23b34fb6fa0ddd2 97970 main/binary-amd64/Packages
  1da0d8ddce872b8596fd860a979e816520a0d803 29388 main/binary-amd64/Packages.gz
  7ddded4de6448cb7c3561c249acfb66a2b003ad4 184 main/binary-amd64/Release
 SHA256:
- 4ccf1887572a47ad6cd141c29908f3d6da7cbdc33122c667dd5f3c4be117a9af 33306 main/binary-i386/Packages
- a6ac3c7047d8f0fb98f0b27926b886fe69e2065a25a3fa6c2cafcbc40703b53b 12321 main/binary-i386/Packages.gz
+ 62169614b40b6b5027ca5dd0bc0e2a60a75a849ece728e673b966662bfeedf95 33359 main/binary-i386/Packages
+ 23976d4904afa93b14d4490d08d333267475cb5f48a2f62f89e242309d70d3a8 12347 main/binary-i386/Packages.gz
  030c1920aada2bb553857f1e0e35f42cf897f23edae0108d2becbca027172d8e 183 main/binary-i386/Release
  960d6ae334c6530770348d8f7c1d7db2141e504098d764594b01f61d36f9818f 97970 main/binary-amd64/Packages
  24bee69a2dbab1a3222b295d8bc12172c7fb1d45bc97ffdc56db9cf0d2e4e7c6 29388 main/binary-amd64/Packages.gz
