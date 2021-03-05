@@ -398,6 +398,44 @@ Description: Simulações interativas de transferência de calor
  .
  Energy2D is an interactive multiphysics simulation program that models all three modes of heat transfer—conduction, convection, and radiation, and their coupling with particle dynamics.
 
+Package: epson-inkjet-printer-201601w
+Version: 1.0.0-1lsb3.2
+Architecture: amd64
+Maintainer: Seiko Epson Corporation <linux-printer@epson.jp>
+Installed-Size: 2673
+Depends: lsb (>= 3.2)
+Priority: extra
+Section: alien
+Filename: pool/main/e/epson-inkjet-printer-201601w/epson-inkjet-printer-201601w_1.0.0-1lsb3.2_amd64.deb
+Size: 1721266
+SHA256: 78dc4f7f3c8a14475c6274c9d750a4e7c7154abdeee9b7bf02a6b4f54d7aff32
+SHA1: 71ce91cfb8817a195f444ad0ceff03c35653b2ff
+MD5sum: afd911aa675e911f21d6864fbd854f6c
+Description: L380 L382 Series - Epson Inkjet Printer Driver
+ This software is a filter program used with Common UNIX Printing
+ System (CUPS) from the Linux. This can supply the high quality print
+ with Seiko Epson Color Ink Jet Printers.
+ .
+ This printer driver is supporting the following printers.
+ .
+ L456
+ L455
+ L366
+ L365
+ L362
+ L360
+ L312
+ L310
+ L222
+ L220
+ L132
+ L130
+ .
+ For detail list of supported printer, please refer to below site:
+ http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
 Package: epson-inkjet-printer-escpr
 Version: 1.7.8-1lsb3.2
 Architecture: amd64
