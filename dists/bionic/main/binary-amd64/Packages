@@ -293,7 +293,7 @@ Description: Epson Inkjet Printer Driver (ESC/P-R) for Linux
  (Converted from a rpm package by alien version 8.95.)
 
 Package: epson-l3150
-Version: 0.0.1
+Version: 0.0.2
 Installed-Size: 1
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Architecture: all
@@ -301,13 +301,30 @@ Depends: lsb, epson-inkjet-printer-escpr, epson-printer-utility, epsonscan2, eps
 Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
 Priority: optional
 Section: utils
-Filename: pool/main/e/epson-l3150/epson-l3150_0.0.1_all.deb
-Size: 876
-SHA256: 3788b2e96f923c9aae33a4ae6dcdeda474089aa76b4e94dedc437b937f89afcf
-SHA1: d11a967d30aaa8812fb1c870430c362b8d920e9b
-MD5sum: 5edac08c24782cdf39275df098700d96
+Filename: pool/main/e/epson-l3150/epson-l3150_0.0.2_all.deb
+Size: 908
+SHA256: 87e90e109f41bdea65a480c6e532aa0019fee00a2c418573b13d9c2f462619e7
+SHA1: e2bf72034c704a49305bdbd5fd2e7ab87b1d9e47
+MD5sum: 50ffaad21bc46eea4443b4527426f0b8
 Description: Drivers for Epson L3150 Printer and Scan.
- A metapackage for installing printer and scanner drivers from epson-3150
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L3150 Printer - Wi-Fi Multifunction InkTank.
+
+Package: epson-l380
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lsb, epson-inkjet-printer-201601w, epson-printer-utility, epsonscan2, epsonscan2-non-free-plugin
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Priority: optional
+Section: utils
+Filename: pool/main/e/epson-l380/epson-l380_0.0.1_all.deb
+Size: 908
+SHA256: cb08e3d59e83f5a34f27f670d5b9a9602f40da05f1b7b49017e78fdbb3323937
+SHA1: 91237b030201e8a8c4270678b13644300808cfcb
+MD5sum: 37b4b707c9ff3176d0a7f99111bd205b
+Description: Drivers for Epson L380 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L380 Printer - Multifunction InkTank.
 
 Package: epson-printer-utility
 Version: 1.1.1-1lsb3.2
