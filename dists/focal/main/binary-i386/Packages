@@ -436,6 +436,23 @@ Description: Virtual Chemistry Laboratory.
  An Virtual Chemistry Laboratory from The irYdium Project's.
  You need Java installed to run correctly.
 
+Package: lexmark-mx722
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lexmark-aew-ppd-files, lexmark-network-scan
+Homepage: https://www.lexmark.com/pt_br/printer/12436/Lexmark-MX722adhe
+Priority: optional
+Section: utils
+Filename: pool/main/l/lexmark-mx722/lexmark-mx722_0.0.1_all.deb
+Size: 856
+SHA256: 57cc9f7da55e947fbb6f3579e193cec1c45b94d49dea249d9a143baf23ea2ede
+SHA1: 3140707268b98bc183dc9327405917877fe88931
+MD5sum: aa3535c18b992ed53f03a4681c506f80
+Description: Drivers for Lexmark MX722adhe Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Lexmark MX722adhe.
+
 Package: logisim-evolution
 Version: 3.3.4
 Installed-Size: 22099

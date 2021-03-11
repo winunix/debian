@@ -775,6 +775,54 @@ Description: Virtual Chemistry Laboratory.
  An Virtual Chemistry Laboratory from The irYdium Project's.
  You need Java installed to run correctly.
 
+Package: lexmark-aew-ppd-files
+Version: 1.0-06132018
+Architecture: amd64
+Installed-Size: 6596
+Maintainer: chaos <chaos@linux>
+Priority: optional
+Section: non-free
+Filename: pool/main/l/lexmark-aew-ppd-files/lexmark-aew-ppd-files_1.0-06132018_amd64.deb
+Size: 409864
+SHA256: 6868ea3aa190a0eae00f9e00eb5230a8dfce048be1ca256115af55efbf552960
+SHA1: a9a4e1fcc085061f250262ad2504360b0a359dfe
+MD5sum: 1e9df2e47df0522a7a70c29a63822d73
+Description: This package contains the Lexmark-AEW-PPD-Files. 
+ This is a copyrighted package, please refer to the copyright 
+ notice for details about using this product.
+
+Package: lexmark-mx722
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lexmark-aew-ppd-files, lexmark-network-scan
+Homepage: https://www.lexmark.com/pt_br/printer/12436/Lexmark-MX722adhe
+Priority: optional
+Section: utils
+Filename: pool/main/l/lexmark-mx722/lexmark-mx722_0.0.1_all.deb
+Size: 856
+SHA256: 57cc9f7da55e947fbb6f3579e193cec1c45b94d49dea249d9a143baf23ea2ede
+SHA1: 3140707268b98bc183dc9327405917877fe88931
+MD5sum: aa3535c18b992ed53f03a4681c506f80
+Description: Drivers for Lexmark MX722adhe Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Lexmark MX722adhe.
+
+Package: lexmark-network-scan
+Version: 3.7.0.0-1
+Architecture: amd64
+Installed-Size: 
+Maintainer: build <build@linux>
+Priority: optional
+Section: non-free
+Filename: pool/main/l/lexmark-network-scan/lexmark-network-scan_3.7.0.0-1_amd64.deb
+Size: 71820550
+SHA256: 1c22b14f21d315bf1e5a69a994ebd2495349a5ab96472a00468c5572f98b8d47
+SHA1: 161f1d0f78a67203243b2ccf9adfa7528e715845
+MD5sum: 5f7493273e21bb6e28d13868f1c73d22
+Description:
+ Lexmark Network and USB Scan Drivers PackageThis package contains the Lexmark Network and USB Scan Drivers program.This is a copyrighted package, please refer to the copyrightnotice for details about using this product.
+
 Package: libboost-serialization1.65.1
 Source: boost1.65.1
 Version: 1.65.1+dfsg-0ubuntu5
