@@ -373,6 +373,50 @@ SHA1: 18ab98d5191b47d11b4e23d3823a9fbdc4ba128e
 MD5sum: 00bf091298da8bb6d7258c8dbb046fc2
 Description: This is scanner driver non free plugins.
 
+Package: firefox-esr
+Version: 78.10.0esr-1winunix
+Architecture: amd64
+Maintainer: Maintainers of Mozilla-related packages <team+pkg-mozilla@tracker.debian.org>
+Installed-Size: 
+Depends: flashplayer-mozilla
+Breaks: xul-ext-torbutton
+Priority: optional
+Section: web
+Filename: pool/main/f/firefox-esr/firefox-esr_78.10.0esr-1winunix_amd64.deb
+Size: 58040932
+SHA256: a3ba9ffd75f985d5555ac991367d4563396c114511bf4d4ac0cee5169d2e0cd6
+SHA1: 76a6f83cbcb9beecff6e2b13503c2deed3d6b163
+MD5sum: c368098c2743150539f846e73b298600
+Description: Mozilla Firefox web browser - Extended Support Release (ESR)
+ Firefox ESR is a powerful, extensible web browser with support for modern
+ web application technologies.
+
+Package: flashplayer-mozilla
+Source: flash-player
+Version: 3:32.0.0.465-1winunix
+Architecture: amd64
+Bugs: mailto:marillat@deb-multimedia.org
+Maintainer: Christian Marillat <marillat@deb-multimedia.org>
+Installed-Size: 16999
+Depends: libc6 (>= 2.4), libfontconfig1 (>= 2.11.94), libfreetype6 (>= 2.2.1), libgdk-pixbuf2.0-0 (>= 2.22.0), libgl1, libglib2.0-0 (>= 2.22.0), libgtk2.0-0 (>= 2.24.30), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.13.4-2~), libpango-1.0-0 (>= 1.14.0), libstdc++6 (>= 4.1.1), libx11-6, libxt6, libcurl3 | libcurl4, iceweasel | www-browser
+Recommends: gsfonts-x11
+Suggests: kde-config-flash-player
+Conflicts: flash-player-properties, flashplugin-nonfree
+Replaces: flash-player-properties
+Homepage: http://www.adobe.com/products/flashplayer/
+Priority: optional
+Section: non-free/web
+Filename: pool/main/f/flash-player/flashplayer-mozilla_32.0.0.465-1winunix_amd64.deb
+Size: 4765200
+SHA256: 0f189237dd124531f302ed679678497beea621b1481a42cead3cde2286cd7d27
+SHA1: 21c06c854ed441926f9333b51902af118e948db6
+MD5sum: 4bbc93ccd4e8388565c2b77db9c467ee
+Description: Adobe Flash Player
+ The Flash Player lets you experience animation and entertainment in your
+ web browser.
+ .
+ NPAPI flash for mozilla based browsers.
+
 Package: flashplayer-sa-projector
 Version: 32.0.0.387
 Installed-Size: 17612
