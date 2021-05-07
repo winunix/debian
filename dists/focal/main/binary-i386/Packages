@@ -324,6 +324,23 @@ MD5sum: 6f896969b2b6a62830a3215bdb853d3b
 Description: Some generics fonts.
  A list of fonts compatible with documents of office.
 
+Package: fonts-isidora
+Version: 0.1
+Architecture: all
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Installed-Size: 1579
+Multi-Arch: foreign
+Homepage: https://www.behance.net/gallery/42228985/Isidora
+Priority: optional
+Section: fonts
+Filename: pool/main/f/fonts-isidora/fonts-isidora_0.1_all.deb
+Size: 376016
+SHA256: 0d6e2601bf9dc015935af7076f68d377425a71e659c5225bc805c8126b6871e4
+SHA1: f683cf71aabac722996ce59668191f13f08d088f
+MD5sum: b6cbf996b7e0da418db30d87b1a7291d
+Description: Isidora free OpenType font
+ Isidora is a modern geometric font based on the classic typefaces of the early 21st Century yet with a contemporary and functional touch.
+
 Package: free-cnc-simulator-wine
 Version: 4.53
 Installed-Size: 5564
