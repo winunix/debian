@@ -450,20 +450,20 @@ Description: Some generics fonts.
  A list of fonts compatible with documents of office.
 
 Package: fonts-isidora
-Version: 0.2
+Version: 0.3
 Architecture: all
 Maintainer: crasheddie <crash.eddie123@gmail.com>
-Installed-Size: 1579
+Installed-Size: 1026
 Multi-Arch: foreign
 Homepage: https://www.behance.net/gallery/42228985/Isidora
 Priority: optional
 Section: fonts
-Filename: pool/main/f/fonts-isidora/fonts-isidora_0.2_all.deb
-Size: 416536
-SHA256: 831d76c115f4c4ae8ae9c5b5f776fd1a8133d66275a60d00c8774819b193cf73
-SHA1: cf129cb7af75d693ecc462ca24e93abb7cdcee37
-MD5sum: 228f65db2ea71c80523bc2ccd996fc37
-Description: Isidora free OpenType font
+Filename: pool/main/f/fonts-isidora/fonts-isidora_0.3_all.deb
+Size: 286876
+SHA256: 597ad8f568d428e533400167060c8c1b45f19fbbc96738b413b8aea5f2e0df48
+SHA1: 1b8e73d5a3eb4a2eaa6cb56bd6f6bb21271f1be4
+MD5sum: 0f552c92251b32ce131752ee93808d10
+Description: Isidora fonts
  Isidora is a modern geometric font based on the classic typefaces of the early 21st Century yet with a contemporary and functional touch.
 
 Package: geogebra-classic
