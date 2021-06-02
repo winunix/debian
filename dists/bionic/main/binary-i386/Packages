@@ -528,10 +528,10 @@ Homepage: https://www.ventoy.net
 Priority: optional
 Section: utils
 Filename: pool/main/v/ventoy/ventoy_1.0.45_all.deb
-Size: 14816220
-SHA256: 37a2e42c331965e940b1b84e1769db16c5b272297fdd17fe8600c1ec95bc6069
-SHA1: 6b2cdb82371bbce599fd3c7cb7ea611e3d4aab51
-MD5sum: 8ae3ed23a1590458b24c3a030d8b7adc
+Size: 14816196
+SHA256: 137481cc7373fc83c9a5d280d1eef49a8615cce4a9ffb2db0758eee7a45727f7
+SHA1: bda4211dbbc5f3854df31d086a548e3e0cfbc38f
+MD5sum: 9d8b67a27c7d5faf5ca7125a83c84b5f
 Description: Tool to create bootable USB drives
  Ventoy is an open source tool to create bootable USB drive for ISO/WIM/IMG/VHD(x)/EFI files.
 
