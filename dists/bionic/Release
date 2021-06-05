@@ -2,7 +2,7 @@ Origin: Orkidea System
 Label: Orkidea System (Winunix OS)
 Suite: stable
 Codename: bionic
-Date: Fri, 04 Jun 2021 05:41:03 UTC
+Date: Sat, 05 Jun 2021 23:50:44 UTC
 Architectures: i386 amd64
 Components: main
 Description: Debian x86-64 packages hosted on ailtonbsj github repository
@@ -10,20 +10,20 @@ MD5Sum:
  6391ec12f674942af1a0fe93b2fb92a9 28340 main/binary-i386/Packages
  7c3f53be1d4391db11170b45b712f18e 10503 main/binary-i386/Packages.gz
  55f39bd3268e4d7fadf3006bb1de991e 183 main/binary-i386/Release
- 20e1e29cd959c34bc782e81cf261b43d 44114 main/binary-amd64/Packages
- fa3f36b347e283291a208d9057afb24e 16137 main/binary-amd64/Packages.gz
+ b3438d629b37c1a42c19d179ff1dc47b 45650 main/binary-amd64/Packages
+ 121d43bf3fdb2200c875a236194e95a8 16713 main/binary-amd64/Packages.gz
  a08e334ec7f6c8165b8c9592b5e73f40 184 main/binary-amd64/Release
 SHA1:
  8176e40e79edc93effa67bc8e177fe71b225c5ab 28340 main/binary-i386/Packages
  b2a000186b0f21af84539cc8fbbbf8d6b1c6d439 10503 main/binary-i386/Packages.gz
  7b8f6108728f0717bd43ead490573df83ed90908 183 main/binary-i386/Release
- 7a698b3225b77ee628e710e11ef49561b7cd4410 44114 main/binary-amd64/Packages
- bb294d152819f7323bf596953c3c2a5d65314b34 16137 main/binary-amd64/Packages.gz
+ c4da0addd690d592769d16bb6899a8911ef85f7a 45650 main/binary-amd64/Packages
+ 4eded0b04cb8ab716b0554e4bf6b628ca59e82ec 16713 main/binary-amd64/Packages.gz
  7ddded4de6448cb7c3561c249acfb66a2b003ad4 184 main/binary-amd64/Release
 SHA256:
  7d537a0a0775970c5478bc967cf172eed4c5a5bd31143b944035798a20e2e6ef 28340 main/binary-i386/Packages
  44e1b10b0d7ffdd9ffe1d5bf0a0b03a517c8a80579238589a8541c738db1df5c 10503 main/binary-i386/Packages.gz
  030c1920aada2bb553857f1e0e35f42cf897f23edae0108d2becbca027172d8e 183 main/binary-i386/Release
- fdf31eedb5f6d362a899f6afbfa51913cad488425802b35739b55419fdaa85b0 44114 main/binary-amd64/Packages
- 105a115deb1d7c4e8baf8c5601e1e5a8fca9a24c5766025a5f1bdb9dac5f6be5 16137 main/binary-amd64/Packages.gz
+ c11f936bb9f22d0ff2750f9fbad887eea3619b530a7a0a8f6390d0159ccbd94e 45650 main/binary-amd64/Packages
+ 5718cdc5f5fea89ec80a4ca5465a106f0e83d95ea5aa2d559e30101830349e83 16713 main/binary-amd64/Packages.gz
  0404b1bae05944138f8e714273d96ed481b935fa19f8d8448a253eef403fe421 184 main/binary-amd64/Release
