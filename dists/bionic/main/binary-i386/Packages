@@ -186,6 +186,23 @@ MD5sum: b7ab34cc4f5dc98f69ac1c9005f6d03a
 Description: A digital logic designer and circuit simulator.
  Digital is a easy-to-use digital logic designer and circuit simulator designed for educational purposes.
 
+Package: epson-l3110
+Version: 0.0.2
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lsb, epson-inkjet-printer-escpr, epson-printer-utility, epsonscan2, epsonscan2-non-free-plugin
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Priority: optional
+Section: utils
+Filename: pool/main/e/epson-l3110/epson-l3110_0.0.2_all.deb
+Size: 908
+SHA256: 585ea792d9d94b14f9c8e6f2e2233a47894c33cd47bb62a803924c38f1f0298b
+SHA1: e65618d9848e386fe7b85ea63b53e09d7a0f3768
+MD5sum: 08bec9c6a7b5e19973703cb7def4b233
+Description: Drivers for Epson L3110 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L3110 Printer - Wi-Fi Multifunction InkTank.
+
 Package: epson-l3150
 Version: 0.0.2
 Installed-Size: 1
@@ -361,6 +378,23 @@ SHA1: 7510d75361310ea8d825f5a81d0bfdbc514af767
 MD5sum: a4327d073e247fe720148d2daf92c3be
 Description: Logisim is an educational tool for designing and simulating digital logic circuits.
  People from a group of swiss institutes (Haute École Spécialisée Bernoise, Haute École du paysage, d'ingénierie et d'architecture de Genève, and Haute École d'Ingénierie et de Gestion du Canton de Vaud) started developing a version of Logisim that fitted their courses, integrating several tools -- for instance a chronogram, the possibility to test the schematics directly on an electronic board, TCL/TK consoles.
+
+Package: lubuntu-openvpn
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: openvpn, network-manager-openvpn, network-manager-openvpn-gnome
+Homepage: https://openvpn.net
+Priority: optional
+Section: utils
+Filename: pool/main/l/lubuntu-openvpn/lubuntu-openvpn_0.0.1_all.deb
+Size: 816
+SHA256: 1cda055fd6ad132d20dcf7e125d657d9001fc144cf26c7e7485dcb0ab2d93b5d
+SHA1: 67616861ee80ed64e63c97012812e366036538a8
+MD5sum: e90c33564b8adf7086d7966b1ec86c9d
+Description: Packages for work openvpn in lubuntu.
+ A metapackage for installing all packages needed to run openvpn.
 
 Package: lubuntu-win10-icon-theme
 Version: 0.0.1

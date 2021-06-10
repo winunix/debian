@@ -267,18 +267,18 @@ Description: L380 L382 Series - Epson Inkjet Printer Driver
  (Converted from a rpm package by alien version 8.95.)
 
 Package: epson-inkjet-printer-escpr
-Version: 1.7.8-1lsb3.2
+Version: 1.7.10-1lsb3.2
 Architecture: amd64
 Maintainer: Seiko Epson Corporation <linux-printer@epson.jp>
-Installed-Size: 5259
+Installed-Size: 5284
 Depends: lsb (>= 3.2)
 Priority: extra
 Section: alien
-Filename: pool/main/e/epson-inkjet-printer-escpr/epson-inkjet-printer-escpr_1.7.8-1lsb3.2_amd64.deb
-Size: 4666444
-SHA256: 948c3816d31783da5c31889c836fc1b882a7990262776491ceead2deb8976dd4
-SHA1: b7007b1a3dbc5199a57bb374900e62fe64a6de54
-MD5sum: e245a7fa2af8c4ae21f81017f6e984d9
+Filename: pool/main/e/epson-inkjet-printer-escpr/epson-inkjet-printer-escpr_1.7.10-1lsb3.2_amd64.deb
+Size: 4684864
+SHA256: d8e4c506c631dad066106d72fa41d80387cb1f098c6169df01abaf069e70de8d
+SHA1: 08c61386cf028be6d8cd2dc99ef3cc9222d3eacc
+MD5sum: c045a93845a1972e0888da3410caa95a
 Description: Epson Inkjet Printer Driver (ESC/P-R) for Linux
  This software is a filter program used with Common UNIX Printing
  System (CUPS) from the Linux. This can supply the high quality print
@@ -291,6 +291,23 @@ Description: Epson Inkjet Printer Driver (ESC/P-R) for Linux
  http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
  .
  (Converted from a rpm package by alien version 8.95.)
+
+Package: epson-l3110
+Version: 0.0.2
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lsb, epson-inkjet-printer-escpr, epson-printer-utility, epsonscan2, epsonscan2-non-free-plugin
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Priority: optional
+Section: utils
+Filename: pool/main/e/epson-l3110/epson-l3110_0.0.2_all.deb
+Size: 908
+SHA256: 585ea792d9d94b14f9c8e6f2e2233a47894c33cd47bb62a803924c38f1f0298b
+SHA1: e65618d9848e386fe7b85ea63b53e09d7a0f3768
+MD5sum: 08bec9c6a7b5e19973703cb7def4b233
+Description: Drivers for Epson L3110 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L3110 Printer - Wi-Fi Multifunction InkTank.
 
 Package: epson-l3150
 Version: 0.0.2
@@ -669,6 +686,23 @@ SHA1: 7510d75361310ea8d825f5a81d0bfdbc514af767
 MD5sum: a4327d073e247fe720148d2daf92c3be
 Description: Logisim is an educational tool for designing and simulating digital logic circuits.
  People from a group of swiss institutes (Haute École Spécialisée Bernoise, Haute École du paysage, d'ingénierie et d'architecture de Genève, and Haute École d'Ingénierie et de Gestion du Canton de Vaud) started developing a version of Logisim that fitted their courses, integrating several tools -- for instance a chronogram, the possibility to test the schematics directly on an electronic board, TCL/TK consoles.
+
+Package: lubuntu-openvpn
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: openvpn, network-manager-openvpn, network-manager-openvpn-gnome
+Homepage: https://openvpn.net
+Priority: optional
+Section: utils
+Filename: pool/main/l/lubuntu-openvpn/lubuntu-openvpn_0.0.1_all.deb
+Size: 816
+SHA256: 1cda055fd6ad132d20dcf7e125d657d9001fc144cf26c7e7485dcb0ab2d93b5d
+SHA1: 67616861ee80ed64e63c97012812e366036538a8
+MD5sum: e90c33564b8adf7086d7966b1ec86c9d
+Description: Packages for work openvpn in lubuntu.
+ A metapackage for installing all packages needed to run openvpn.
 
 Package: lubuntu-win10-icon-theme
 Version: 0.0.1
