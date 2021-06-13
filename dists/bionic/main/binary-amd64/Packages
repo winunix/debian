@@ -931,6 +931,23 @@ MD5sum: 2f7af234cc64901a3729c248caa740be
 Description: The Virtual Microscope
  is a NASA-funded project that provides simulated scientific instrumentation for students and researchers worldwide as part of NASA's Virtual Laboratory initiative. This site serves as home base for the Imaging Technology Group's contributions to that project—namely virtual microscopes and the multi-dimensional, high-resolution image datasets they view. Currently we provide 90 samples totaling over 62 gigapixels of image data. The Virtual Microscope, which is available for free download supports functionality from electron, light, and scanning probe microscopes, datasets for these instruments, training materials to learn more about microscopy, and other related tools.
 
+Package: winunix-language-pt-br
+Version: 0.0.1
+Installed-Size: 5
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: python3, language-pack-pt-base, language-pack-gnome-pt-base, language-pack-kde-pt, hyphen-pt-pt, hyphen-pt-br, hunspell-pt-pt, hunspell-pt-br, myspell-pt-pt, myspell-pt-br, myspell-pt, mythes-pt-pt, wportuguese, wbrazilian, locales
+Homepage: https://winunix.github.io
+Priority: optional
+Section: utils
+Filename: pool/main/w/winunix-language-pt-br/winunix-language-pt-br_0.0.1_all.deb
+Size: 2696
+SHA256: 0f52506ddf32e4b03ac0452070fbd3ead1bbb23da96cc2538e2a8170aca5b26f
+SHA1: 20bcc81a756a15fecc84557cbc7d5fced3a04fb6
+MD5sum: b90d5fd68c8c96401332b5db4088255d
+Description: Translation Lubuntu 20.04 LTS to pt_BR.
+ This tool install all dependencies of language pt_BR and modify the launchers adding properties to translate.
+
 Package: winunix-randr
 Version: 0.0.1
 Installed-Size: 
