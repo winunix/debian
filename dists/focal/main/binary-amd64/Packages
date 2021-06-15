@@ -2350,10 +2350,10 @@ Homepage: https://winunix.github.io
 Priority: optional
 Section: utils
 Filename: pool/main/w/winunix-language-pt-br/winunix-language-pt-br_0.0.1_all.deb
-Size: 2696
-SHA256: 0f52506ddf32e4b03ac0452070fbd3ead1bbb23da96cc2538e2a8170aca5b26f
-SHA1: 20bcc81a756a15fecc84557cbc7d5fced3a04fb6
-MD5sum: b90d5fd68c8c96401332b5db4088255d
+Size: 3088
+SHA256: 78178cf5895a21af619ff3b8b4ec722d6213f5349618c6e11de1048ce49cbd2d
+SHA1: fe855ab12e6fd4f73170295a9a4c84fbc2c739f3
+MD5sum: 1a5a88defa7a3074c0a8e85846b625a8
 Description: Translation Lubuntu 20.04 LTS to pt_BR.
  This tool install all dependencies of language pt_BR and modify the launchers adding properties to translate.
 
