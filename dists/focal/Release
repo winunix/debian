@@ -2,28 +2,28 @@ Origin: Orkidea System
 Label: Orkidea System (Winunix OS)
 Suite: stable
 Codename: focal
-Date: Sat, 26 Jun 2021 23:22:16 UTC
+Date: Mon, 02 Aug 2021 20:11:27 UTC
 Architectures: i386 amd64
 Components: main
 Description: Debian x86-64 packages hosted on ailtonbsj github repository
 MD5Sum:
- 2c8e77aaed8a9c1cd58f950c1559d45e 38269 main/binary-i386/Packages
- 177a88f94cd4a93c31f24272fe34c4b7 13748 main/binary-i386/Packages.gz
+ 8c46b5eac3f3b50adce752a17f83940f 38806 main/binary-i386/Packages
+ 071af92df7147247fbadfb39ebcc9e45 13922 main/binary-i386/Packages.gz
  55f39bd3268e4d7fadf3006bb1de991e 183 main/binary-i386/Release
- 1549deda409640d8ea5ef5e5e276ee0a 108650 main/binary-amd64/Packages
- 1c4aa9400c29405299dc31dead0118d7 32626 main/binary-amd64/Packages.gz
+ f20e68bb6ecd4a509358b2e71c83f9b5 109187 main/binary-amd64/Packages
+ b11a27b33e678789c32cd19142fd08f7 32821 main/binary-amd64/Packages.gz
  a08e334ec7f6c8165b8c9592b5e73f40 184 main/binary-amd64/Release
 SHA1:
- 6711fc55dd4e948441e2b50297ba9e0aedb55948 38269 main/binary-i386/Packages
- 500bb482e00fae7369b6d25f03ba66ff4d81583f 13748 main/binary-i386/Packages.gz
+ df8008ecba0987a3f956cabce2709d7edd650d64 38806 main/binary-i386/Packages
+ e2ec03850d3b1727e43dc7486be769b5696b3739 13922 main/binary-i386/Packages.gz
  7b8f6108728f0717bd43ead490573df83ed90908 183 main/binary-i386/Release
- 138e4b0d1c35330e9233bd10acf3751786a711bd 108650 main/binary-amd64/Packages
- e1f7e7f9f5ab098b15107e8d6861ca26d4da16da 32626 main/binary-amd64/Packages.gz
+ 90a1fc306113d9a919da1e9a15226da88357b41d 109187 main/binary-amd64/Packages
+ 50ec59ec6a2b7608b1ac6ddfec95006982e40c7f 32821 main/binary-amd64/Packages.gz
  7ddded4de6448cb7c3561c249acfb66a2b003ad4 184 main/binary-amd64/Release
 SHA256:
- 6656e6fd8aaf3dcca0cf7d61d49bdedead0dc05e953789d7b1a444a59c8e8419 38269 main/binary-i386/Packages
- 2f4086f17dff53bd48388a7e1f3d075a01b839e9569fee72f494a85743a2a072 13748 main/binary-i386/Packages.gz
+ 7f074c3739a07f07c22baaec24b082816fab59884d9db5696cd99b2b0451c4a4 38806 main/binary-i386/Packages
+ 7b04a79b7c8703082d5d8c80af24103d7a6ea08c4e684259fe616fc161fd3e27 13922 main/binary-i386/Packages.gz
  030c1920aada2bb553857f1e0e35f42cf897f23edae0108d2becbca027172d8e 183 main/binary-i386/Release
- e8a2e9f2dff52f41db9986ca5bec7ab82495de9d105155db1a45e23d50e1755a 108650 main/binary-amd64/Packages
- 169481771964183ad1167cf52e3aa97eb69676170c3f48d8cc0aa6489cdeb3b9 32626 main/binary-amd64/Packages.gz
+ 91e065622b40d656238718c554f05f85de64c9bf3d7199c963926b19dd8979cd 109187 main/binary-amd64/Packages
+ c4a4e2d605969ea3b699b1e9a5c73687d3b88858ce631745d85efd87a2efa9ca 32821 main/binary-amd64/Packages.gz
  0404b1bae05944138f8e714273d96ed481b935fa19f8d8448a253eef403fe421 184 main/binary-amd64/Release

@@ -1436,6 +1436,23 @@ MD5sum: be9f6fce51fb52a3fe9a2e4a690543ca
 Description: Windows 8 Cursor Theme for Lubuntu 18.04 LTS.
  This is an fork from David Farkas (SRZW).
 
+Package: lxpanel-reset
+Version: 0.0.1
+Installed-Size: 2
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: lxqt-panel
+Homepage: https://ailtonbsj.github.io
+Priority: optional
+Section: utils
+Filename: pool/main/l/lxpanel-reset/lxpanel-reset_0.0.1_all.deb
+Size: 1364
+SHA256: 1eec4af1332f148c5710cd060ef2829004f106deee0db0b8ff306a9d0652decc
+SHA1: 4dc9294ae92fd6fb47c7252b618f9b8fb3b95868
+MD5sum: f774b8e16c282427c94efdb68b459dec
+Description: Reset taskbar and panel of LXQt.
+ This tool reset the files of LXQt Panel.
+
 Package: mgba-qt
 Architecture: amd64
 Depends: libmgba,libc6,libsdl2-2.0-0,libqt5widgets5,libqt5opengl5,libqt5multimedia5
