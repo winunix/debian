@@ -743,6 +743,23 @@ MD5sum: 4a7da8e1e8f80a41fd8b9430f30612d4
 Description: 'Win10' theme for SDDM X11 display manager
  Win10 theme for SDDM
 
+Package: seduc-lxqt
+Version: 0.0.1
+Installed-Size: 325
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: lxqt-core
+Homepage: https://seduc.ce.gov.br
+Priority: optional
+Section: utils
+Filename: pool/main/s/seduc-lxqt/seduc-lxqt_0.0.1_all.deb
+Size: 329912
+SHA256: dbb612022dbc0d8674a7936f38e1592cb4ff2dbc123f63b9725f9520b54953e2
+SHA1: 4dad946f05aa9c0a719d11d1f42741106cbc7871
+MD5sum: 8d62cedcf2e7112c693c873a9413ec69
+Description: Wallpaper and Orb from SEDUC-CE.
+ Aplica plano de fundo e icone no menu Iniciar com temas da SEDUC-CE padrão 2021.
+
 Package: system-config-samba-wx
 Version: 1.2.64
 Architecture: all
