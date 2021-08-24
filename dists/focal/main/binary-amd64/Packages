@@ -1272,6 +1272,23 @@ Recommends: libavcodec-extra|libavcodec-ffmpeg-extra58
 Version: 0.8.3
 Installed-Size: 3800
 
+Package: libreoffice-loader
+Version: 0.0.1
+Installed-Size: 710
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: libreoffice
+Homepage: https://github.com/winunix/libreoffice-loader
+Priority: optional
+Section: utils
+Filename: pool/main/libr/libreoffice-loader/libreoffice-loader_0.0.1_all.deb
+Size: 491000
+SHA256: 0ad53c78e108d1ede4fdb5537d403c2f9d90cceabc07cec162c97bf70a3020ad
+SHA1: 84b3df6e8c98a6f2f60ee9cb5b17e9639ddb26f9
+MD5sum: 087eea97145bae94bac72d849e7cfd1d
+Description: Run libreoffice on LXQt Start.
+ Auto initialize the libreoffice on LXQt for improve performance.
+
 Package: libv8-3.14.5
 Source: libv8-3.14
 Version: 3.14.5.8-11
