@@ -532,6 +532,25 @@ MD5sum: 84aa78deb645de6886b1ee6c1ae4a211
 Description: Easy proxy service switching for browsers and others.
  Essa ferramenta facilita o chaveamento rápido das configurações de proxy no ambiente linux. Modifica as configurações de proxy dos seguintes apps: Firefox, Chrome, Chromium, Apt, Wget e .profile.
 
+Package: seduc-lxtheme
+Version: 0.0.2
+Installed-Size: 325
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: lxqt-panel | lxpanel
+Conflicts: seduc-lxqt
+Replaces: seduc-lxqt
+Homepage: https://seduc.ce.gov.br
+Priority: optional
+Section: utils
+Filename: pool/main/s/seduc-lxtheme/seduc-lxtheme_0.0.2_all.deb
+Size: 330900
+SHA256: b222f64913f0cf0b27092b5ed32611a9873f199aa21d071880f0361929b874dd
+SHA1: e6136158dcb7c9071ea64c13980c6f23a2f21f58
+MD5sum: 916c6a718264db8e3dc3c96d09e1d5fa
+Description: Wallpaper and Orb from SEDUC-CE.
+ Aplica plano de fundo e icone no menu Iniciar com temas da SEDUC-CE padrão 2021.
+
 Package: system-config-samba-wx
 Version: 1.2.64
 Architecture: all

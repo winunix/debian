@@ -1470,6 +1470,25 @@ MD5sum: f774b8e16c282427c94efdb68b459dec
 Description: Reset taskbar and panel of LXQt.
  This tool reset the files of LXQt Panel.
 
+Package: lxreset
+Version: 0.0.3
+Installed-Size: 3
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: lxqt-panel | lxpanel
+Conflicts: lxpanel-reset
+Replaces: lxpanel-reset
+Homepage: https://ailtonbsj.github.io
+Priority: optional
+Section: utils
+Filename: pool/main/l/lxreset/lxreset_0.0.3_all.deb
+Size: 1420
+SHA256: 658300acfe7e3dac08107814666d5d6b1a5c6b6946031a87eefab939522dfff8
+SHA1: 32d60380cb99728077ee1611bc8e418cfab6b0db
+MD5sum: 0fd5e1b3c531f207be003c1f66358e3f
+Description: Some tools to reset LXQt configs.
+ This tool reset the files of LXQt.
+
 Package: mgba-qt
 Architecture: amd64
 Depends: libmgba,libc6,libsdl2-2.0-0,libqt5widgets5,libqt5opengl5,libqt5multimedia5
@@ -2242,6 +2261,25 @@ Size: 329912
 SHA256: dbb612022dbc0d8674a7936f38e1592cb4ff2dbc123f63b9725f9520b54953e2
 SHA1: 4dad946f05aa9c0a719d11d1f42741106cbc7871
 MD5sum: 8d62cedcf2e7112c693c873a9413ec69
+Description: Wallpaper and Orb from SEDUC-CE.
+ Aplica plano de fundo e icone no menu Iniciar com temas da SEDUC-CE padrão 2021.
+
+Package: seduc-lxtheme
+Version: 0.0.2
+Installed-Size: 325
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: lxqt-panel | lxpanel
+Conflicts: seduc-lxqt
+Replaces: seduc-lxqt
+Homepage: https://seduc.ce.gov.br
+Priority: optional
+Section: utils
+Filename: pool/main/s/seduc-lxtheme/seduc-lxtheme_0.0.2_all.deb
+Size: 330900
+SHA256: b222f64913f0cf0b27092b5ed32611a9873f199aa21d071880f0361929b874dd
+SHA1: e6136158dcb7c9071ea64c13980c6f23a2f21f58
+MD5sum: 916c6a718264db8e3dc3c96d09e1d5fa
 Description: Wallpaper and Orb from SEDUC-CE.
  Aplica plano de fundo e icone no menu Iniciar com temas da SEDUC-CE padrão 2021.
 
