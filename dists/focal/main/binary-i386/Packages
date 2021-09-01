@@ -325,6 +325,23 @@ MD5sum: 37b4b707c9ff3176d0a7f99111bd205b
 Description: Drivers for Epson L380 Printer and Scan.
  A metapackage for installing printer and scanner drivers from Epson EcoTank L380 Printer - Multifunction InkTank.
 
+Package: epson-l396
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lsb, epson-printer-utility, epson-inkjet-printer-escpr, imagescan, imagescan-plugin-gt-s650, imagescan-plugin-networkscan, imagescan-plugin-ocr-engine
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Priority: optional
+Section: utils
+Filename: pool/main/e/epson-l396/epson-l396_0.0.1_all.deb
+Size: 920
+SHA256: 4ab630509efbed1c08f42722827a473484736c8f6e8a400755db51f3bbb5287d
+SHA1: 31ee4eb5df6b23b218fa11f93cd13e0900c00c6a
+MD5sum: 7464052af16b9e5699ed39b0fcc74b35
+Description: Drivers for Epson L396 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L396 Printer - Multifunction InkTank.
+
 Package: fonts-3rd-party
 Version: 0.0.2
 Installed-Size: 42398

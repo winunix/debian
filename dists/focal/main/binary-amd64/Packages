@@ -437,18 +437,18 @@ Description: L380 L382 Series - Epson Inkjet Printer Driver
  (Converted from a rpm package by alien version 8.95.)
 
 Package: epson-inkjet-printer-escpr
-Version: 1.7.10-1lsb3.2
+Version: 1.7.17-1lsb3.2
 Architecture: amd64
 Maintainer: Seiko Epson Corporation <linux-printer@epson.jp>
-Installed-Size: 5284
+Installed-Size: 5601
 Depends: lsb (>= 3.2)
 Priority: extra
 Section: alien
-Filename: pool/main/e/epson-inkjet-printer-escpr/epson-inkjet-printer-escpr_1.7.10-1lsb3.2_amd64.deb
-Size: 4684864
-SHA256: d8e4c506c631dad066106d72fa41d80387cb1f098c6169df01abaf069e70de8d
-SHA1: 08c61386cf028be6d8cd2dc99ef3cc9222d3eacc
-MD5sum: c045a93845a1972e0888da3410caa95a
+Filename: pool/main/e/epson-inkjet-printer-escpr/epson-inkjet-printer-escpr_1.7.17-1lsb3.2_amd64.deb
+Size: 4957746
+SHA256: 405821f90f999f7a08ddbf343ffa19950f14b260dcd903617c69d0e9957d6e79
+SHA1: 25a57fc6b53deaee94c3b8bf692eb747e5b8ed70
+MD5sum: 2ff2bd8169a8432b99eb4e013c0833f4
 Description: Epson Inkjet Printer Driver (ESC/P-R) for Linux
  This software is a filter program used with Common UNIX Printing
  System (CUPS) from the Linux. This can supply the high quality print
@@ -512,6 +512,23 @@ SHA1: 91237b030201e8a8c4270678b13644300808cfcb
 MD5sum: 37b4b707c9ff3176d0a7f99111bd205b
 Description: Drivers for Epson L380 Printer and Scan.
  A metapackage for installing printer and scanner drivers from Epson EcoTank L380 Printer - Multifunction InkTank.
+
+Package: epson-l396
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lsb, epson-printer-utility, epson-inkjet-printer-escpr, imagescan, imagescan-plugin-gt-s650, imagescan-plugin-networkscan, imagescan-plugin-ocr-engine
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Priority: optional
+Section: utils
+Filename: pool/main/e/epson-l396/epson-l396_0.0.1_all.deb
+Size: 920
+SHA256: 4ab630509efbed1c08f42722827a473484736c8f6e8a400755db51f3bbb5287d
+SHA1: 31ee4eb5df6b23b218fa11f93cd13e0900c00c6a
+MD5sum: 7464052af16b9e5699ed39b0fcc74b35
+Description: Drivers for Epson L396 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L396 Printer - Multifunction InkTank.
 
 Package: epson-printer-utility
 Version: 1.1.1-1lsb3.2
@@ -855,6 +872,94 @@ Description: This is a free simulation environment for fluid and mechatronic sys
  for other domains such as electric power, flight dynamics and vehicle
  dynamics. It uses bi-directional delay lines (or transmission line elements,
  TLM) to connect different components.
+
+Package: imagescan
+Version: 3.65.0-1epson4ubuntu20.04
+Architecture: amd64
+Maintainer: SEIKO EPSON CORPORATION <linux-printer@epson.jp>
+Installed-Size: 9109
+Depends: libatkmm-1.6-1v5 (>= 2.24.0), libboost-filesystem1.71.0, libboost-program-options1.71.0, libc6 (>= 2.15), libgcc-s1 (>= 3.0), libglib2.0-0 (>= 2.12.0), libglibmm-2.4-1v5 (>= 2.54.0), libgraphicsmagick++-q16-12 (>= 1.3.26-5~), libgraphicsmagick-q16-3 (>= 1.3.11), libgtkmm-2.4-1v5 (>= 1:2.24.0), libjpeg8 (>= 8c), libltdl7 (>= 2.4.6), libpangomm-1.4-1v5 (>= 2.42.0), libsigc++-2.0-0v5 (>= 2.8.0), libstdc++6 (>= 9), libtiff5 (>= 4.0.3), libudev1 (>= 183), libusb-1.0-0 (>= 2:1.0.22), graphicsmagick
+Recommends: sane-utils
+Suggests: tesseract (>= 3.03)
+Priority: optional
+Section: graphics
+Filename: pool/main/i/imagescan/imagescan_3.65.0-1epson4ubuntu20.04_amd64.deb
+Size: 1647520
+SHA256: ab4710c59157772d06c1626ef4d3e93ff676c5353454860a64904e0602f80324
+SHA1: d032bfd55bfede5b798507de8201256f24fc5cb6
+MD5sum: 7ba57be0569b4cdb07f29a7b0f314b44
+Description: next generation image acquisition utilities
+ This software provides applications to easily turn hard-copy
+ documents and imagery into formats that are more amenable to
+ computer processing.
+ .
+ Included are a native driver for a number of EPSON scanners
+ and a compatibility driver to interface with software built
+ around the SANE standard.
+
+Package: imagescan-plugin-gt-s650
+Source: gt-s650
+Version: 1.0.3-1epson4ubuntu20.04
+Architecture: amd64
+Maintainer: SEIKO EPSON CORPORATION <linux-printer@epson.jp>
+Installed-Size: 263
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2), imagescan (>= 3.28.0)
+Priority: extra
+Section: non-free/graphics
+Filename: pool/main/g/gt-s650/imagescan-plugin-gt-s650_1.0.3-1epson4ubuntu20.04_amd64.deb
+Size: 93860
+SHA256: 7324ff7e2190fb88587c8031328ee90664eb73f8298f3d3d0c6b97c5ce2a09c8
+SHA1: 84cfcaf25573340ffdca1fe85e1b05fb6ec453c5
+MD5sum: 3dd8226be44ccbd40cc41d88ed437fc4
+Description: Image Scan v3 GT-S650 Interpreter Plugin
+ This plugin converts between the native protocol of the supported
+ devices and the ESC/I protocol.
+ .
+ You only need this plugin if you want to use one of the following
+ devices:
+  - GT-S650
+  - Epson Perfection V19
+  - Epson Perfection V39
+
+Package: imagescan-plugin-networkscan
+Source: networkscan
+Version: 1.1.4-1epson4ubuntu20.04
+Architecture: amd64
+Maintainer: SEIKO EPSON Corporation <linux-printer@epson.jp>
+Installed-Size: 100
+Depends: libc6 (>= 2.14), libgcc-s1 (>= 3.0), libstdc++6 (>= 5.2), imagescan (>= 3.9.0)
+Priority: extra
+Section: non-free/graphics
+Filename: pool/main/n/networkscan/imagescan-plugin-networkscan_1.1.4-1epson4ubuntu20.04_amd64.deb
+Size: 47304
+SHA256: 32cf0138912bbda1ed460a05c98d68d675dcace847481eba871beea825679403
+SHA1: ef0dfd4e9f2e5de94cc99505690bb99df1cd476a
+MD5sum: c52bfd9d90e67546db9c759d679c47e1
+Description: Network scan plugin
+ This plugin enables scanning with Epson scanners via a network connection.
+ .
+ All network capable Epson devices supported by 'imagescan' are expected to
+ work with this plugin.
+
+Package: imagescan-plugin-ocr-engine
+Source: ocr-engine
+Version: 1.0.3-1epson4ubuntu20.04
+Architecture: amd64
+Maintainer: SEIKO EPSON CORPORATION <linux-printer@epson.jp>
+Installed-Size: 13224
+Depends: libc6 (>= 2.29), libgcc-s1 (>= 3.0), libltdl7 (>= 2.4.6), libstdc++6 (>= 5.2), imagescan (>= 3.14.0)
+Priority: extra
+Section: non-free/graphics
+Filename: pool/main/o/ocr-engine/imagescan-plugin-ocr-engine_1.0.3-1epson4ubuntu20.04_amd64.deb
+Size: 8590744
+SHA256: 58551c4102475c3b6aeb1b9aef96f51c382ed34083bfdf317a905aa6a3980b2d
+SHA1: 634b744e8258dea4153380e3eb61b70b01319937
+MD5sum: 343b8ca4f42fa2cf01f615686658eacc
+Description: Image Scan v3 OCR Engine Plugin
+ This plugin provides an optical character recognition (OCR) engine
+ for use with Image Scan v3.
+ .
+ Currently, it only supports document orientation detection.
 
 Package: irydium-chemistry-lab
 Version: 2.1.2
