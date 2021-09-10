@@ -462,7 +462,7 @@ Description: Windows 8 Cursor Theme for Lubuntu 18.04 LTS.
  This is an fork from David Farkas (SRZW).
 
 Package: lxde-win-theme-apply
-Version: 0.0.4
+Version: 0.0.5
 Installed-Size: 3182
 Maintainer: ailtonbsj <ailton.ifce@gmail.com>
 Architecture: all
@@ -470,14 +470,33 @@ Depends: lubuntu-win10-theme, lubuntu-win8-cursor-theme, lubuntu-win10-icon-them
 Homepage: https://ailtonbsj.github.io
 Priority: optional
 Section: utils
-Filename: pool/main/l/lxde-win-theme-apply/lxde-win-theme-apply_0.0.4_all.deb
-Size: 3214304
-SHA256: 1979bbd98425ab5aa3090a251288aca7f54e2654673d1da67c1119b10d894c71
-SHA1: 1af343645d358a2afbc8d76f43586604c97f57b1
-MD5sum: e2b8fa12843ea1a78c2916495836a128
+Filename: pool/main/l/lxde-win-theme-apply/lxde-win-theme-apply_0.0.5_all.deb
+Size: 3214292
+SHA256: 568271ec6053fde7a6608e2a84ee157d0887c5bb360ecde40800138c8941f4f7
+SHA1: 5a83fdb8052db98a43d9aef6731e920e51d29efc
+MD5sum: 98c1437fb1595804f40baa1d9607e0f0
 Description: Apply theme and taskbar with style of windows ten.
  This is a taskbar with theme of win10 and function to
  restore using hotkey.
+
+Package: lxreset
+Version: 0.0.3
+Installed-Size: 3
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: lxqt-panel | lxpanel
+Conflicts: lxpanel-reset
+Replaces: lxpanel-reset
+Homepage: https://ailtonbsj.github.io
+Priority: optional
+Section: utils
+Filename: pool/main/l/lxreset/lxreset_0.0.3_all.deb
+Size: 1420
+SHA256: 658300acfe7e3dac08107814666d5d6b1a5c6b6946031a87eefab939522dfff8
+SHA1: 32d60380cb99728077ee1611bc8e418cfab6b0db
+MD5sum: 0fd5e1b3c531f207be003c1f66358e3f
+Description: Some tools to reset LXQt configs.
+ This tool reset the files of LXQt.
 
 Package: optgeo-i18n
 Version: 2.29
