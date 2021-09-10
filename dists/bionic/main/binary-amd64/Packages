@@ -876,7 +876,7 @@ Description: Apply theme and taskbar with style of windows ten.
  restore using hotkey.
 
 Package: lxreset
-Version: 0.0.3
+Version: 0.0.4
 Installed-Size: 3
 Maintainer: ailtonbsj <ailton.ifce@gmail.com>
 Architecture: all
@@ -886,11 +886,11 @@ Replaces: lxpanel-reset
 Homepage: https://ailtonbsj.github.io
 Priority: optional
 Section: utils
-Filename: pool/main/l/lxreset/lxreset_0.0.3_all.deb
-Size: 1420
-SHA256: 658300acfe7e3dac08107814666d5d6b1a5c6b6946031a87eefab939522dfff8
-SHA1: 32d60380cb99728077ee1611bc8e418cfab6b0db
-MD5sum: 0fd5e1b3c531f207be003c1f66358e3f
+Filename: pool/main/l/lxreset/lxreset_0.0.4_all.deb
+Size: 1376
+SHA256: c403817f70c7c5b097fd5b93bbf294077d2057700df76c5f980efeb62347ad94
+SHA1: ef05981e9c221912707dcb2b013a0237a0f458c8
+MD5sum: 948f1022fadd3028661db330433836d6
 Description: Some tools to reset LXQt configs.
  This tool reset the files of LXQt.
 
