@@ -887,10 +887,10 @@ Homepage: https://ailtonbsj.github.io
 Priority: optional
 Section: utils
 Filename: pool/main/l/lxreset/lxreset_0.0.4_all.deb
-Size: 1376
-SHA256: c403817f70c7c5b097fd5b93bbf294077d2057700df76c5f980efeb62347ad94
-SHA1: ef05981e9c221912707dcb2b013a0237a0f458c8
-MD5sum: 948f1022fadd3028661db330433836d6
+Size: 1400
+SHA256: d8a9c9759a99046975924d2adbd24e280cc090e210e1bfe9e74c48e5b976f34e
+SHA1: e19a5c72dcd8c24afa475effa2f3ebd1adf0e3fa
+MD5sum: d106b778e2852bfd87727e4b9af97ba1
 Description: Some tools to reset LXQt configs.
  This tool reset the files of LXQt.
 

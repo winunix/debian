@@ -1576,7 +1576,7 @@ Description: Transitional package.
  Transitional package will be removed on next build October 21.
 
 Package: lxreset
-Version: 0.0.3
+Version: 0.0.4
 Installed-Size: 3
 Maintainer: ailtonbsj <ailton.ifce@gmail.com>
 Architecture: all
@@ -1586,11 +1586,11 @@ Replaces: lxpanel-reset
 Homepage: https://ailtonbsj.github.io
 Priority: optional
 Section: utils
-Filename: pool/main/l/lxreset/lxreset_0.0.3_all.deb
-Size: 1420
-SHA256: 658300acfe7e3dac08107814666d5d6b1a5c6b6946031a87eefab939522dfff8
-SHA1: 32d60380cb99728077ee1611bc8e418cfab6b0db
-MD5sum: 0fd5e1b3c531f207be003c1f66358e3f
+Filename: pool/main/l/lxreset/lxreset_0.0.4_all.deb
+Size: 1400
+SHA256: d8a9c9759a99046975924d2adbd24e280cc090e210e1bfe9e74c48e5b976f34e
+SHA1: e19a5c72dcd8c24afa475effa2f3ebd1adf0e3fa
+MD5sum: d106b778e2852bfd87727e4b9af97ba1
 Description: Some tools to reset LXQt configs.
  This tool reset the files of LXQt.
 
