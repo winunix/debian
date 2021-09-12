@@ -936,7 +936,7 @@ Description: Translation Lubuntu 20.04 LTS to pt_BR.
  This tool install all dependencies of language pt_BR and modify the launchers adding properties to translate.
 
 Package: winunix-software-center
-Version: 0.0.8
+Version: 0.0.9
 Installed-Size: 7
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Architecture: all
@@ -944,11 +944,11 @@ Depends: python | python-is-python2, zenity
 Homepage: https://winunix.github.io
 Priority: optional
 Section: utils
-Filename: pool/main/w/winunix-software-center/winunix-software-center_0.0.8_all.deb
-Size: 5380
-SHA256: 43643169a32c5adb99346b5eb7144febb7b25c81e61518844e0f9995ff56fbc7
-SHA1: f112a772298f3acd70d0e9deb63f76d6992d129e
-MD5sum: a22728b6bd32e54912734ee33590b83d
+Filename: pool/main/w/winunix-software-center/winunix-software-center_0.0.9_all.deb
+Size: 5400
+SHA256: d924ca514ef5ed3c0f803ea68fa05f65ff734d0be91467dda32346daf15944e5
+SHA1: 0f67c1dec301614dbe51bcaac55a27209b740145
+MD5sum: b48338e9ce1b0e42a439dec31e59a967
 Description: PosInstall for Lubuntu.
  A GUI script for install apps post installed system.
 
