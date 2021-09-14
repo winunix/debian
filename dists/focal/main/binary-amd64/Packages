@@ -34,23 +34,23 @@ Description: Versão do Algodoo via Wine.
  Algodoo gives you the opportunity to play with physics. Use your own hands and simple drawing tools to design, construct and explore the world of physics.
 
 Package: appsedu
-Version: 0.5.7
+Version: 0.5.8
 Installed-Size: 220
 Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
 Architecture: all
 Depends: xdotool, mesa-utils, celestia, google-earth-pro-stable, kstars, openuniverse, planets, stellarium, virtual-lab-microscope, freecad, librecad, solvespace, sweethome3d, logisim-evolution, digital-simulator, gresistor-extras-pt, arduino-ide, circuit-simulator, simulide, algodoo-wine, optgeo-i18n, physion-wine, step, kgeography, marble-qt, marble-maps, ktouch, klavaro, scratch, anki, goldendict-extras-pt, gconjugue, parley, geogebra-classic, wxmaxima, kbruch, jfractionlab, kalgebra, chemsketch-acd-wine, avogadro, gcu-bin, gchempaint, irydium-chemistry-lab, gelemental, kalzium, code, xampp
 Priority: optional
 Section: science
-Filename: pool/main/a/appsedu/appsedu_0.5.7_all.deb
-Size: 196668
-SHA256: db2a4df6914569ea99278318b4b07a738eafc923c466a1c3cef56aed6f096cd5
-SHA1: 5ec2d0409aaf0f125771ab729e123f83e82cbf77
-MD5sum: 475ed48d08d3b8f6d568181cb189280e
+Filename: pool/main/a/appsedu/appsedu_0.5.8_all.deb
+Size: 196400
+SHA256: d6896d940a972fc5811a2ef0e430d3508a8e9487b6c2b886333f1115bf527362
+SHA1: 53ef71c58a1df0ff2221e19f890c99afc036fff2
+MD5sum: c4170fdf27304def67938257ba83b76c
 Description: Submenus para Aplicativos educationais.
  Os aplicativos educacionais ficaram divididos em submenus na categoria Educacional.
 
 Package: appsedu-menus
-Version: 0.5.7
+Version: 0.5.8
 Installed-Size: 220
 Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
 Architecture: all
@@ -58,11 +58,11 @@ Depends: xdotool, mesa-utils
 Recommends: celestia, google-earth-pro-stable, kstars, openuniverse, planets, stellarium, gpredict, virtual-lab-microscope, freecad, librecad, solvespace, sweethome3d, gcad3d, arduino-ide, circuit-simulator, logisim, simulide, gresistor-extras-pt, digital-simulator, logisim-evolution, oregano, qelectrotech, algodoo-wine, optgeo-i18n, physion-wine, step, opticalraytracer, energy2d, openmeca, kgeography, marble-qt, marble-maps, ktouch, klavaro, scratch, kturtle, anki, gconjugue, goldendict-extras-pt, parley, kwordquiz, osdlyrics, geogebra-classic, wxmaxima, kbruch, jfractionlab, kalgebra, graphmonkey, qalculate-gtk, kig, kmplot, carmetal, chemsketch-acd-wine, avogadro, gcu-bin, gchempaint, irydium-chemistry-lab, gelemental, kalzium, gperiodic, chemtool, easychem, gdis, code, codeblocks, xampp, coppelia-sim-edu, gazebo11, hopsan, webots, free-cnc-simulator-wine, camotics, gcompris, khangman, klettres, sugarizer, tuxmath, tuxpaint, minetest, minetest-mod-basic-materials, pysycache, tuxtype, omnitux, eduactiv8
 Priority: optional
 Section: science
-Filename: pool/main/a/appsedu-menus/appsedu-menus_0.5.7_all.deb
-Size: 196916
-SHA256: bde31baeccd3df2fdc1dec4891e0f0be1aedf5d3ea5a9b7f31eac57a0df81f02
-SHA1: 9b7fec9232f58d48bc51dda8116cf9a33802e2e6
-MD5sum: 141f9639261264220faf0feb7135ce6f
+Filename: pool/main/a/appsedu-menus/appsedu-menus_0.5.8_all.deb
+Size: 196652
+SHA256: faa1a89e95fa9b858028b8b80a32b83e9e67e25cd61d68fcd511b78d80a0f5ad
+SHA1: 58c9eec50c7e63bbb21d8045d967a37a9a281f43
+MD5sum: 13f08994970e9d04ee4ed485d38e8286
 Description: Submenus para Aplicativos educationais.
  Os aplicativos educacionais ficaram divididos em submenus na categoria Educacional.
 

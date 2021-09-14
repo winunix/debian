@@ -23,10 +23,10 @@ Depends: xdotool, mesa-utils, celestia, google-earth-pro-stable, kstars, openuni
 Priority: optional
 Section: science
 Filename: pool/main/a/appsedu/appsedu_0.5.8_all.deb
-Size: 196404
-SHA256: d3e4551bcf41d5e377a0754b73dff406f607fc7826ccf51d7fd27e7b1c0d0afd
-SHA1: ba1ba8d110c84981dc81e170e06bc9ad7ff82ddd
-MD5sum: d226e63e7f32829b14073179e8b52646
+Size: 196400
+SHA256: d6896d940a972fc5811a2ef0e430d3508a8e9487b6c2b886333f1115bf527362
+SHA1: 53ef71c58a1df0ff2221e19f890c99afc036fff2
+MD5sum: c4170fdf27304def67938257ba83b76c
 Description: Submenus para Aplicativos educationais.
  Os aplicativos educacionais ficaram divididos em submenus na categoria Educacional.
 
@@ -40,10 +40,10 @@ Recommends: celestia, google-earth-pro-stable, kstars, openuniverse, planets, st
 Priority: optional
 Section: science
 Filename: pool/main/a/appsedu-menus/appsedu-menus_0.5.8_all.deb
-Size: 196648
-SHA256: 53467c9d64d3e07453046657703b0a4dacae9ddff47de915bf4ab9e526c62d4a
-SHA1: 726f16cb1f9c3a5ffc0bdaa0bcc874da15f5cf62
-MD5sum: f3287bf4b925aa9c62479cde65a4ad03
+Size: 196652
+SHA256: faa1a89e95fa9b858028b8b80a32b83e9e67e25cd61d68fcd511b78d80a0f5ad
+SHA1: 58c9eec50c7e63bbb21d8045d967a37a9a281f43
+MD5sum: 13f08994970e9d04ee4ed485d38e8286
 Description: Submenus para Aplicativos educationais.
  Os aplicativos educacionais ficaram divididos em submenus na categoria Educacional.
 
