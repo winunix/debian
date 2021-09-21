@@ -398,6 +398,47 @@ Description: Simulações interativas de transferência de calor
  .
  Energy2D is an interactive multiphysics simulation program that models all three modes of heat transfer—conduction, convection, and radiation, and their coupling with particle dynamics.
 
+Package: epson-inkjet-printer-201207w
+Version: 1.0.0-1lsb3.2
+Architecture: amd64
+Maintainer: Seiko Epson Corporation <linux-printer@epson.jp>
+Installed-Size: 2977
+Depends: lsb (>= 3.2)
+Priority: extra
+Section: alien
+Filename: pool/main/e/epson-inkjet-printer-201207w/epson-inkjet-printer-201207w_1.0.0-1lsb3.2_amd64.deb
+Size: 1871242
+SHA256: 846b3b5882260c5fc7c4c0c10adc3f7ac2a8f6f1b30231b11825709bb6b53945
+SHA1: 5c0306bf97da8da53c92fce7851db8e942e72b00
+MD5sum: a6296026fe7456985581b96594bd326d
+Description: EPSON L110/210/300/350/355/550/555 Series - Epson Inkjet Printer Driver
+ This software is a filter program used with Common UNIX Printing
+ System (CUPS) from the Linux. This can supply the high quality print
+ with Seiko Epson Color Ink Jet Printers.
+ .
+ This printer driver is supporting the following printers.
+ .
+ L110
+ L111
+ L210
+ L211
+ L300
+ L301
+ L303
+ L350
+ L351
+ L353
+ L355
+ L356
+ L550
+ L551
+ L555
+ .
+ For detail list of supported printer, please refer to below site:
+ http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+ .
+ (Converted from a rpm package by alien version 8.95.)
+
 Package: epson-inkjet-printer-201601w
 Version: 1.0.0-1lsb3.2
 Architecture: amd64
@@ -461,6 +502,23 @@ Description: Epson Inkjet Printer Driver (ESC/P-R) for Linux
  http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
  .
  (Converted from a rpm package by alien version 8.95.)
+
+Package: epson-l210
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lsb, epson-inkjet-printer-201207w, epson-printer-utility, iscan, iscan-data, iscan-network-nt
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Priority: optional
+Section: utils
+Filename: pool/main/e/epson-l210/epson-l210_0.0.1_all.deb
+Size: 900
+SHA256: 68f7911f1992be5d0376be14d49692a4043a343f12b66be6e3ca340c234cb8bd
+SHA1: ce4ee229fdedcafaef831b7e01158f940ebbb90f
+MD5sum: 3df1f3867fb37a6f438f98e580ec1d35
+Description: Drivers for Epson L210 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L210 Printer - Multifunction InkTank.
 
 Package: epson-l3110
 Version: 0.0.2
@@ -529,6 +587,49 @@ SHA1: 31ee4eb5df6b23b218fa11f93cd13e0900c00c6a
 MD5sum: 7464052af16b9e5699ed39b0fcc74b35
 Description: Drivers for Epson L396 Printer and Scan.
  A metapackage for installing printer and scanner drivers from Epson EcoTank L396 Printer - Multifunction InkTank.
+
+Package: epson-l555
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lsb, epson-inkjet-printer-201207w, epson-pc-fax, epson-printer-utility, iscan, iscan-data, iscan-network-nt
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Priority: optional
+Section: utils
+Filename: pool/main/e/epson-l555/epson-l555_0.0.1_all.deb
+Size: 916
+SHA256: bc7593c65c46572924235db79a448af58fbe61db3f5b9ad169ebfd879d7df927
+SHA1: 07499f1dd42c2a0d33eb7a7e872ae55d77270df5
+MD5sum: 42eed1166d498fb93196bfdf439249b6
+Description: Drivers for Epson L555 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L555 Printer - Wi-Fi Multifunction InkTank.
+
+Package: epson-pc-fax
+Version: 1.0.0-1lsb3.2
+Architecture: amd64
+Maintainer: Seiko Epson Corporation <linux-printer@epson.jp>
+Installed-Size: 55648
+Depends: lsb (>= 3.2)
+Priority: extra
+Section: alien
+Filename: pool/main/e/epson-pc-fax/epson-pc-fax_1.0.0-1lsb3.2_amd64.deb
+Size: 20472890
+SHA256: b2bb97077c2f7103acd61df5ec46772d9973b585c90a5744c77a45a3df45de6e
+SHA1: fc779d0d75e60ba5e1ed4343910f932bfad9513a
+MD5sum: 072d80886b73832875c538ece9565d04
+Description: Epson Laser Printer Driver (ESC/Page) for Linux
+ This software is a filter program used with Common UNIX Printing
+ System (CUPS) from the Linux. This can supply the fax
+ with Seiko Epson Fax.
+ .
+ This fax driver is supporting for EPSON Fax or EPSON All-in-one printers.
+ .
+ .
+ For detail list of supported printer, please refer to below site:
+ http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+ .
+ (Converted from a rpm package by alien version 8.79ubuntu0.1.)
 
 Package: epson-printer-utility
 Version: 1.1.1-1lsb3.2
@@ -977,6 +1078,77 @@ MD5sum: 12b14063768e841d57f81d4881dff526
 Description: Virtual Chemistry Laboratory.
  An Virtual Chemistry Laboratory from The irYdium Project's.
  You need Java installed to run correctly.
+
+Package: iscan
+Version: 2.30.4-2
+Architecture: amd64
+Maintainer: SEIKO EPSON Corporation <linux-printer@epson.jp>
+Installed-Size: 1628
+Depends: iscan-data, libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libglib2.0-0 (>= 2.12.0), libgtk2.0-0 (>= 2.12.0), libltdl7 (>= 2.2.6b), libsane (>= 1.0.11-3), libstdc++6 (>= 4.4.0), libusb-1.0-0 (>= 2:1.0.6), libxml2 (>= 2.7.4)
+Recommends: gimp
+Conflicts: iscan-network-nt (<< 1.1), iscan-plugin-cx4400 (<< 2.1), iscan-plugin-gt-7200 (<< 2.1), iscan-plugin-gt-7300 (<< 2.1), iscan-plugin-gt-9400 (<< 2.1), iscan-plugin-gt-f500 (<< 2.1), iscan-plugin-gt-f520 (<< 2.1), iscan-plugin-gt-f600 (<< 2.1), iscan-plugin-gt-f670 (<< 2.1), iscan-plugin-gt-f700 (<< 2.1), iscan-plugin-gt-s600 (<< 2.1), iscan-plugin-gt-x750 (<< 2.1)
+Replaces: libsane-extras
+Priority: extra
+Section: non-free/graphics
+Filename: pool/main/i/iscan/iscan_2.30.4-2_amd64.deb
+Size: 424560
+SHA256: 1035d77974a277fb073ef5f259941d3069a72693076f67490c1cb8359c117a2e
+SHA1: fd3f1907356495d236b6cc7135454bdf5e0c4cb6
+MD5sum: 5d2bd50e35e1b5872c6f31acc6d36e26
+Description: simple, easy to use scanner utility for EPSON scanners
+ Image Scan! is a graphical scanner utility for people that do not need
+ all the bells and whistles provided by several of the other utilities
+ out there (xsane, QuiteInsane, Kooka).
+ .
+ At the moment it only supports SEIKO EPSON scanners and all-in-ones.
+ However, the scanner driver it provides can be used by any other SANE
+ standard compliant scanner utility.
+ .
+ Note that several scanners require a non-free plugin before they can
+ be used with this software.
+
+Package: iscan-data
+Version: 1.39.2-1
+Architecture: all
+Maintainer: SEIKO EPSON CORPORATION <linux-printer@epson.jp>
+Installed-Size: 616
+Depends: udev (>= 0.105-4), xsltproc
+Conflicts: iscan (<< 2.30.0)
+Priority: extra
+Section: non-free/graphics
+Filename: pool/main/i/iscan-data/iscan-data_1.39.2-1_all.deb
+Size: 42090
+SHA256: 599dae9e020d197a5c71f9efc4c0087fdff05cce5ec6fcbe461239ce27f77756
+SHA1: db3449d7ffbf4afcd8cf839a1d7d0355e4a9d9a5
+MD5sum: c3486f9523cad1fa093e0cab80a5d834
+Description: Image Scan! for Linux data files
+ Provides the necessary support files for Image Scan! for Linux,
+ including device information and policy file generation logic.
+ .
+ Image Scan! for Linux will not function without this package.
+
+Package: iscan-network-nt
+Version: 1.1.2-1
+Architecture: amd64
+Maintainer: SEIKO EPSON Corporation <linux-printer@epson.jp>
+Installed-Size: 128
+Depends: libc6 (>= 2.4), libgcc1 (>= 1:4.1.1), libstdc++6 (>= 4.4.0), iscan (>= 2.29.3)
+Priority: extra
+Section: non-free/graphics
+Filename: pool/main/i/iscan-network-nt/iscan-network-nt_1.1.2-1_amd64.deb
+Size: 49302
+SHA256: 00e4e0f45a07fb650a5ab11070bac7be78048a5db486677b83d75d70ed061e14
+SHA1: e660429d6318aab9ae2d6d5926d8715cab237956
+MD5sum: 73cd75eb554ee15eab9eaabc244957e2
+Description: Image Scan! Network Plugin
+ This plugin converts between the network protocol of the supported
+ devices and the ESC/I protocol.  The latter protocol is supported
+ by the SANE 'epkowa' backend, part of Image Scan!, and some other
+ SANE backends.  However, only the 'epkowa' backend provides the
+ hooks needed to use this plugin.
+ .
+ All network capable Epson devices supported by Image Scan! are
+ expected to work with this plugin.
 
 Package: lexmark-aew-ppd-files
 Version: 1.0-06132018

@@ -186,6 +186,23 @@ MD5sum: b7ab34cc4f5dc98f69ac1c9005f6d03a
 Description: A digital logic designer and circuit simulator.
  Digital is a easy-to-use digital logic designer and circuit simulator designed for educational purposes.
 
+Package: epson-l210
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lsb, epson-inkjet-printer-201207w, epson-printer-utility, iscan, iscan-data, iscan-network-nt
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Priority: optional
+Section: utils
+Filename: pool/main/e/epson-l210/epson-l210_0.0.1_all.deb
+Size: 900
+SHA256: 68f7911f1992be5d0376be14d49692a4043a343f12b66be6e3ca340c234cb8bd
+SHA1: ce4ee229fdedcafaef831b7e01158f940ebbb90f
+MD5sum: 3df1f3867fb37a6f438f98e580ec1d35
+Description: Drivers for Epson L210 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L210 Printer - Multifunction InkTank.
+
 Package: epson-l3110
 Version: 0.0.2
 Installed-Size: 1
@@ -253,6 +270,23 @@ SHA1: 31ee4eb5df6b23b218fa11f93cd13e0900c00c6a
 MD5sum: 7464052af16b9e5699ed39b0fcc74b35
 Description: Drivers for Epson L396 Printer and Scan.
  A metapackage for installing printer and scanner drivers from Epson EcoTank L396 Printer - Multifunction InkTank.
+
+Package: epson-l555
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lsb, epson-inkjet-printer-201207w, epson-pc-fax, epson-printer-utility, iscan, iscan-data, iscan-network-nt
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Priority: optional
+Section: utils
+Filename: pool/main/e/epson-l555/epson-l555_0.0.1_all.deb
+Size: 916
+SHA256: bc7593c65c46572924235db79a448af58fbe61db3f5b9ad169ebfd879d7df927
+SHA1: 07499f1dd42c2a0d33eb7a7e872ae55d77270df5
+MD5sum: 42eed1166d498fb93196bfdf439249b6
+Description: Drivers for Epson L555 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L555 Printer - Wi-Fi Multifunction InkTank.
 
 Package: fonts-3rd-party
 Version: 0.0.2
@@ -335,6 +369,26 @@ MD5sum: 12b14063768e841d57f81d4881dff526
 Description: Virtual Chemistry Laboratory.
  An Virtual Chemistry Laboratory from The irYdium Project's.
  You need Java installed to run correctly.
+
+Package: iscan-data
+Version: 1.39.2-1
+Architecture: all
+Maintainer: SEIKO EPSON CORPORATION <linux-printer@epson.jp>
+Installed-Size: 616
+Depends: udev (>= 0.105-4), xsltproc
+Conflicts: iscan (<< 2.30.0)
+Priority: extra
+Section: non-free/graphics
+Filename: pool/main/i/iscan-data/iscan-data_1.39.2-1_all.deb
+Size: 42090
+SHA256: 599dae9e020d197a5c71f9efc4c0087fdff05cce5ec6fcbe461239ce27f77756
+SHA1: db3449d7ffbf4afcd8cf839a1d7d0355e4a9d9a5
+MD5sum: c3486f9523cad1fa093e0cab80a5d834
+Description: Image Scan! for Linux data files
+ Provides the necessary support files for Image Scan! for Linux,
+ including device information and policy file generation logic.
+ .
+ Image Scan! for Linux will not function without this package.
 
 Package: lexmark-mx722
 Version: 0.0.1
