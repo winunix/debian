@@ -1650,7 +1650,7 @@ Description: Packages for work openvpn in lubuntu.
  A metapackage for installing all packages needed to run openvpn.
 
 Package: lubuntu-win-theme-apply
-Version: 0.1.4
+Version: 0.1.5
 Installed-Size: 3160
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Architecture: all
@@ -1658,11 +1658,11 @@ Depends: qt5-style-plugin-gtk2, lubuntu-win10-qt-theme, lubuntu-win10-theme, lub
 Homepage: https://github.com/winunix/lubuntu-win-theme-apply
 Priority: optional
 Section: utils
-Filename: pool/main/l/lubuntu-win-theme-apply/lubuntu-win-theme-apply_0.1.4_all.deb
-Size: 3210704
-SHA256: b17864df5571a3e18196c6fe2a787da1d15be45763ebb1c132cabe362bbc47e6
-SHA1: e9eed10217167445105dea637354bfc7c7a70f7c
-MD5sum: f266b5065d600cb9d2821dbfeb76c9de
+Filename: pool/main/l/lubuntu-win-theme-apply/lubuntu-win-theme-apply_0.1.5_all.deb
+Size: 3210792
+SHA256: b7064e2a78b18bff709934d551156ef930cbf4e7c9d08a724f7af0c13455187d
+SHA1: 2630d55914212a79aca5bb51a4c56e24290326bd
+MD5sum: 94cf94ba9e0451dd37871177c34444b3
 Description: apply windows-like theme on lubuntu focal.
  Apply windows-like theme to Lubuntu Focal Fossa.
 
