@@ -830,3 +830,38 @@ Description: Modelos para WPS Office.
  Este pacote é um fork do projeto de HenriqueAD:
  Apoie seu projeto, SISTEMATICAMENTE!, em "www.youtube.com/OSistematico".
 
+Package: youtube-dl-full
+Version: 0.0.1
+Installed-Size: 1798
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: youtube-dlg
+Homepage: https://youtube-dl.org/
+Priority: optional
+Section: utils
+Filename: pool/main/y/youtube-dl-full/youtube-dl-full_0.0.1_all.deb
+Size: 1728388
+SHA256: fe4a0b6f8fe685fb15dff853e464af397055a28360a8084a08d26d06ac87d434
+SHA1: 5474bbbc84e12e579c871438e886fef12c30faf5
+MD5sum: 17722f641b8e67f33d1003154112ad73
+Description: Youtube-dl and a frontend.
+ This package install youtube-dl and a frontend youtube-dlg.
+
+Package: youtube-dlg
+Version: 0.4-1~webupd8~bionic9
+Architecture: all
+Maintainer: Alin Andrei <webupd8@gmail.com>
+Installed-Size: 344
+Depends: python:any (<< 2.8), python:any (>= 2.7.5-5~), python (>= 2.7.3), python-wxgtk3.0, python-twodict (>= 1.2)
+Recommends: libav-tools | ffmpeg
+Homepage: https://github.com/MrS0m30n3/youtube-dl-gui
+Priority: extra
+Section: gnome
+Filename: pool/main/y/youtube-dlg/youtube-dlg_0.4-1~webupd8~bionic9_all.deb
+Size: 84996
+SHA256: 4100453671db7b635db1e1c24b5a4cdf8ebcd2999d663ffd5e145c906aa4050c
+SHA1: f1b22c546d10d8a9819ceec4e7aeb0bccd4cde70
+MD5sum: e577b01fe17fa4727040cd7567a84a24
+Description: youtube-dl gui
+ A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+

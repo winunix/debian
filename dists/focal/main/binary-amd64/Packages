@@ -2487,6 +2487,30 @@ Description: user and group account administration library - Python 2.7 bindings
  This package contains the Python 2.7 bindings for the library.
 Original-Maintainer: Ghe Rivero <ghe@debian.org>
 
+Package: python-twodict
+Source: twodict
+Version: 1.2-1
+Architecture: all
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Original-Maintainer: Debian Python Modules Team <python-modules-team@lists.alioth.debian.org>
+Installed-Size: 24
+Depends: python:any (<< 2.8), python:any (>= 2.7.5-5~)
+Homepage: https://github.com/MrS0m30n3/twodict
+Priority: optional
+Section: python
+Filename: pool/main/t/twodict/python-twodict_1.2-1_all.deb
+Size: 5432
+SHA256: d7693b8ff8b6e434a104d730fcf4b2e64d72fc1af476523895785e9e5f632b98
+SHA1: 7aec6304c3b6097d47648b4aa867dcf69f26a6f9
+MD5sum: c074dc2fe918caa7a68bc4e504e76201
+Description: Simple two way ordered dictionary for Python 2
+ TwoWayOrderedDict is a custom dictionary in which you can get the key:value
+ relationship but you can also get the value:key relationship. It also
+ remembers the order in which the items were inserted and supports almost all
+ the features of the build-in dict.
+ .
+ This package installs the library for Python 2.
+
 Package: qt-at-spi
 Version: 0.4.0-8
 Architecture: amd64
@@ -2941,6 +2965,41 @@ SHA1: 9831a16bd876fdc2e4d5a49deb17e6dce2512168
 MD5sum: bba2d99a65fa28e2ef23ea7c47e15add
 Description: XAMPP is the most popular PHP development environment
  XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use
+
+Package: youtube-dl-full
+Version: 0.0.1
+Installed-Size: 1798
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: youtube-dlg
+Homepage: https://youtube-dl.org/
+Priority: optional
+Section: utils
+Filename: pool/main/y/youtube-dl-full/youtube-dl-full_0.0.1_all.deb
+Size: 1728388
+SHA256: fe4a0b6f8fe685fb15dff853e464af397055a28360a8084a08d26d06ac87d434
+SHA1: 5474bbbc84e12e579c871438e886fef12c30faf5
+MD5sum: 17722f641b8e67f33d1003154112ad73
+Description: Youtube-dl and a frontend.
+ This package install youtube-dl and a frontend youtube-dlg.
+
+Package: youtube-dlg
+Version: 0.4-1~webupd8~bionic9
+Architecture: all
+Maintainer: Alin Andrei <webupd8@gmail.com>
+Installed-Size: 344
+Depends: python:any (<< 2.8), python:any (>= 2.7.5-5~), python (>= 2.7.3), python-wxgtk3.0, python-twodict (>= 1.2)
+Recommends: libav-tools | ffmpeg
+Homepage: https://github.com/MrS0m30n3/youtube-dl-gui
+Priority: extra
+Section: gnome
+Filename: pool/main/y/youtube-dlg/youtube-dlg_0.4-1~webupd8~bionic9_all.deb
+Size: 84996
+SHA256: 4100453671db7b635db1e1c24b5a4cdf8ebcd2999d663ffd5e145c906aa4050c
+SHA1: f1b22c546d10d8a9819ceec4e7aeb0bccd4cde70
+MD5sum: e577b01fe17fa4727040cd7567a84a24
+Description: youtube-dl gui
+ A cross platform front-end GUI of the popular youtube-dl written in wxPython.
 
 Package: zotero
 Architecture: amd64
