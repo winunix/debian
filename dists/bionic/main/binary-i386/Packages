@@ -237,6 +237,23 @@ MD5sum: 50ffaad21bc46eea4443b4527426f0b8
 Description: Drivers for Epson L3150 Printer and Scan.
  A metapackage for installing printer and scanner drivers from Epson EcoTank L3150 Printer - Wi-Fi Multifunction InkTank.
 
+Package: epson-l3250
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Architecture: all
+Depends: lsb, epson-inkjet-printer-escpr, epson-printer-utility, epsonscan2, epsonscan2-non-free-plugin
+Homepage: http://download.ebz.epson.net/dsc/search/01/search/?OSC=LX
+Priority: optional
+Section: utils
+Filename: pool/main/e/epson-l3250/epson-l3250_0.0.1_all.deb
+Size: 912
+SHA256: 7a869a4e52e5b7ba2cc8f7c466812c43c1bf1307fb6815b69400185ed1e473db
+SHA1: 648b10b57743752ad24ad838bc83348ad1a86ab4
+MD5sum: cfa734aee54a4ea10cf3233e3dcef455
+Description: Drivers for Epson L3250 Printer and Scan.
+ A metapackage for installing printer and scanner drivers from Epson EcoTank L3250 Printer - Wi-Fi Multifunction InkTank.
+
 Package: epson-l375
 Version: 0.0.1
 Installed-Size: 1
