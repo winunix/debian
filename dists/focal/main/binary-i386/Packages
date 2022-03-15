@@ -1149,7 +1149,7 @@ Description: Modelos para WPS Office.
  Apoie seu projeto, SISTEMATICAMENTE!, em "www.youtube.com/OSistematico".
 
 Package: youtube-dl-full
-Version: 0.0.1
+Version: 0.0.2
 Installed-Size: 1798
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Architecture: all
@@ -1157,11 +1157,11 @@ Depends: youtube-dlg
 Homepage: https://youtube-dl.org/
 Priority: optional
 Section: utils
-Filename: pool/main/y/youtube-dl-full/youtube-dl-full_0.0.1_all.deb
-Size: 1728388
-SHA256: fe4a0b6f8fe685fb15dff853e464af397055a28360a8084a08d26d06ac87d434
-SHA1: 5474bbbc84e12e579c871438e886fef12c30faf5
-MD5sum: 17722f641b8e67f33d1003154112ad73
+Filename: pool/main/y/youtube-dl-full/youtube-dl-full_0.0.2_all.deb
+Size: 1725936
+SHA256: 5fa12c308728c324399e07590bbf38bd53f2d673ba335fdb365e6f82471443fb
+SHA1: ef928cae2ad4de6aa55836ac708ffd5abea47bab
+MD5sum: 5235c7ca2ca5458f7c3bc9a00edde8c5
 Description: Youtube-dl and a frontend.
  This package install youtube-dl and a frontend youtube-dlg.
 
