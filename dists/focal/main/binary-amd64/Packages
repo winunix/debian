@@ -3001,39 +3001,39 @@ Description: XAMPP is the most popular PHP development environment
  XAMPP is a completely free, easy to install Apache distribution containing MariaDB, PHP, and Perl. The XAMPP open source package has been set up to be incredibly easy to install and to use
 
 Package: youtube-dl-full
-Version: 0.0.2
-Installed-Size: 1798
+Version: 0.0.3
+Installed-Size: 1
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Architecture: all
 Depends: youtube-dlg
-Homepage: https://youtube-dl.org/
+Homepage: https://github.com/oleksis/youtube-dl-gui
 Priority: optional
 Section: utils
-Filename: pool/main/y/youtube-dl-full/youtube-dl-full_0.0.2_all.deb
-Size: 1725936
-SHA256: 5fa12c308728c324399e07590bbf38bd53f2d673ba335fdb365e6f82471443fb
-SHA1: ef928cae2ad4de6aa55836ac708ffd5abea47bab
-MD5sum: 5235c7ca2ca5458f7c3bc9a00edde8c5
-Description: Youtube-dl and a frontend.
- This package install youtube-dl and a frontend youtube-dlg.
+Filename: pool/main/y/youtube-dl-full/youtube-dl-full_0.0.3_all.deb
+Size: 800
+SHA256: 26926da4134749d3d3616d37795ca8ecb3bb1cb326c30e12d8fb94b7d4425662
+SHA1: 1954900874e647ad94528054a5c5954e22d85deb
+MD5sum: 4a54c4efd5446b03fef53d149c9c163a
+Description: Youtube-dlp and a frontend.
+ This package install youtube-dlp and a frontend youtube-dlg fork.
 
 Package: youtube-dlg
-Version: 0.4-1~webupd8~bionic9
+Version: 0.4-2
 Architecture: all
-Maintainer: Alin Andrei <webupd8@gmail.com>
-Installed-Size: 344
-Depends: python:any (<< 2.8), python:any (>= 2.7.5-5~), python (>= 2.7.3), python-wxgtk3.0, python-twodict (>= 1.2)
+Maintainer: crasheddie <crash.eddie123@gmail.com>
+Installed-Size: 2395
+Depends: python3
 Recommends: libav-tools | ffmpeg
-Homepage: https://github.com/MrS0m30n3/youtube-dl-gui
+Homepage: https://github.com/oleksis/youtube-dl-gui
 Priority: extra
 Section: gnome
-Filename: pool/main/y/youtube-dlg/youtube-dlg_0.4-1~webupd8~bionic9_all.deb
-Size: 84996
-SHA256: 4100453671db7b635db1e1c24b5a4cdf8ebcd2999d663ffd5e145c906aa4050c
-SHA1: f1b22c546d10d8a9819ceec4e7aeb0bccd4cde70
-MD5sum: e577b01fe17fa4727040cd7567a84a24
-Description: youtube-dl gui
- A cross platform front-end GUI of the popular youtube-dl written in wxPython.
+Filename: pool/main/y/youtube-dlg/youtube-dlg_0.4-2_all.deb
+Size: 2325228
+SHA256: 4ea0279ac98213f1709304e9bd2b21fdb9238073044b6e2eecfe94552593d4d6
+SHA1: 269886dca8e931479bc98936c59140dacb3ffe21
+MD5sum: 4e68ca08004f0725e5a09be12766056c
+Description: youtube-dl gui for yt-dlp
+ A cross platform front-end GUI of the popular youtube-dlp written in wxPython.
 
 Package: zotero
 Architecture: amd64
