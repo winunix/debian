@@ -2565,7 +2565,7 @@ Description: at-spi accessibility plugin for Qt
  to be read by accessibility tools such as the Orca screen reader.
 
 Package: safesignidentityclient
-Version: 3.7.0.0-AET.000~focal
+Version: 3.7.0.0-AET.001
 Architecture: amd64
 Maintainer: A.E.T. Europe B.V. <safesignsupport@aeteurope.com>
 Installed-Size: 7988
@@ -2573,11 +2573,11 @@ Depends: pcscd, libc6 (>= 2.17), libgcc-s1 (>= 3.0), libgdbm-compat4 (>= 1.16), 
 Homepage: https://www.aeteurope.com/
 Priority: optional
 Section: non-free/libs
-Filename: pool/main/s/safesignidentityclient/safesignidentityclient_3.7.0.0-AET.000~focal_amd64.deb
-Size: 1785468
-SHA256: b3109cfc04c2cd559b4690e8c601096527d794e7cefe1e2b96de47b07f4c52c2
-SHA1: 4d05b0ab6e81877c72b9d845d543aefcacc25e0e
-MD5sum: 13b57db82bba643d9c9e212954e8a20e
+Filename: pool/main/s/safesignidentityclient/safesignidentityclient_3.7.0.0-AET.001_amd64.deb
+Size: 1781896
+SHA256: 9c7847554531d2f1713ba0a6f94c4e0d9c476c6c402f5649ddb0712fe6cebac8
+SHA1: 76ad97f2922291fb2f72edf72735058b900c020b
+MD5sum: 5b61f746e5ca7f5d09826eaa00a752d7
 Description: SafeSign Identity Client
  SafeSign Identity Client for Linux
 
