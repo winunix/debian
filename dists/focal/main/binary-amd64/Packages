@@ -730,7 +730,7 @@ MD5sum: 86b36489aed4005e5bbcdf2c8dd3464a
 Description: This is scanner driver non free plugins.
 
 Package: firefox-esr
-Version: 78.10.0esr-1winunix
+Version: 78.10.0esr-2winunix
 Architecture: amd64
 Maintainer: Maintainers of Mozilla-related packages <team+pkg-mozilla@tracker.debian.org>
 Installed-Size: 
@@ -738,11 +738,11 @@ Depends: flashplayer-mozilla
 Breaks: xul-ext-torbutton
 Priority: optional
 Section: web
-Filename: pool/main/f/firefox-esr/firefox-esr_78.10.0esr-1winunix_amd64.deb
-Size: 58040932
-SHA256: a3ba9ffd75f985d5555ac991367d4563396c114511bf4d4ac0cee5169d2e0cd6
-SHA1: 76a6f83cbcb9beecff6e2b13503c2deed3d6b163
-MD5sum: c368098c2743150539f846e73b298600
+Filename: pool/main/f/firefox-esr/firefox-esr_78.10.0esr-2winunix_amd64.deb
+Size: 58038420
+SHA256: cc1146b1f16891ccccc1a52e10a50c89f7377432f353523604b09397937b84ff
+SHA1: 87a5b44e86a960770faa24d6b4a21a8a7d1f7e4c
+MD5sum: 736d97df8f9c2fd3e5930a0ffb4ce765
 Description: Mozilla Firefox web browser - Extended Support Release (ESR)
  Firefox ESR is a powerful, extensible web browser with support for modern
  web application technologies.
