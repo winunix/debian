@@ -1339,6 +1339,30 @@ Description: GCC support library
  special needs for some languages.
 Important: yes
 
+Package: libgdbm3
+Source: gdbm
+Version: 1.8.3-14
+Architecture: amd64
+Maintainer: Debian QA Group <packages@qa.debian.org>
+Installed-Size: 68
+Depends: libc6 (>= 2.14), dpkg (>= 1.15.4) | install-info
+Multi-Arch: same
+Homepage: http://directory.fsf.org/project/gdbm/
+Priority: important
+Section: libs
+Filename: pool/main/g/gdbm/libgdbm3_1.8.3-14_amd64.deb
+Size: 30042
+SHA256: fbce0e2500aa970ed03665d15822265ff8d31c81927b987ae34e206b9b5ab0b6
+SHA1: ed5409649e814d133499b0b2cb5a136b1a0cdf0f
+MD5sum: 4bd924fc8be5471a12d1e0204c74d6c3
+Description: GNU dbm database routines (runtime version)
+ GNU dbm ('gdbm') is a library of database functions that use extendible
+ hashing and works similarly to the standard UNIX 'dbm' functions.
+ .
+ The basic use of 'gdbm' is to store key/data pairs in a data file, thus
+ providing a persistent version of the 'dictionary' Abstract Data Type
+ ('hash' to perl programmers).
+
 Package: libmgba
 Architecture: amd64
 Depends: libc6,libedit2,libavcodec58|libavcodec-extra-58|libavcodec-ffmpeg58|libavcodec-ffmpeg-extra58,libavfilter7|libavfilter-ffmpeg7,libavformat58|libavformat-ffmpeg58,libswresample3|libswresample-ffmpeg3,libavutil56|libavutil-ffmpeg56,libswscale5|libswscale-ffmpeg5,zlib1g,libpng16-16,libzip4|libzip5,libgl1|libgles2,libsqlite3-0,libelf1
@@ -2564,20 +2588,37 @@ Description: at-spi accessibility plugin for Qt
  A plugin to export Qt widgets over AT-SPI2.  This allows them
  to be read by accessibility tools such as the Orca screen reader.
 
+Package: safenetauthenticationclient
+Version: 9.1.7-0
+Architecture: amd64
+Maintainer: SafeNet Authentication Client Group <support@safenet-inc.com>
+Provides: safenetauthenticationclient
+Depends: pcscd,openssl ,libpcsclite1 
+Priority: extra
+Section: admin
+Filename: pool/main/s/safenetauthenticationclient/safenetauthenticationclient_9.1.7-0_amd64.deb
+Size: 4269198
+SHA256: 55523666636a163fc6f53f9456d94ecc3c29c5fa92481c6cbc1743c5b452bd53
+SHA1: 0a3622cc11b0d4a5b1b09e1adc14ed586029d7e0
+MD5sum: 95a886e463445cf23a938470afd35e8f
+Description: SafeNet Authentication Client Installation package.              
+ Install this package if you want eToken middleware running on your system.
+Installed-Size: 20000
+
 Package: safesignidentityclient
-Version: 3.7.0.0-AET.001
+Version: 3.5.0.0-AET.000
 Architecture: amd64
 Maintainer: A.E.T. Europe B.V. <safesignsupport@aeteurope.com>
-Installed-Size: 7988
-Depends: pcscd, libc6 (>= 2.17), libgcc-s1 (>= 3.0), libgdbm-compat4 (>= 1.16), libglib2.0-0 (>= 2.12.0), libpcsclite1 (>= 1.3.0), libssl1.1 (>= 1.1.1), libstdc++6 (>= 5.2), libwxbase3.0-0v5 (>= 3.0.4+dfsg), libwxgtk3.0-gtk3-0v5 (>= 3.0.4+dfsg-10~)
+Installed-Size: 6199
+Depends: pcscd, libc6 (>= 2.7), libgcc1 (>= 1:3.0), libgdbm3 (>= 1.8.3), libpcsclite1 (>= 1.3.0), libssl1.0.0 (>= 1.0.0), libstdc++6 (>= 5.2), libwxbase3.0-0v5 (>= 3.0.2+dfsg), libwxgtk3.0-0v5 (>= 3.0.2+dfsg)
 Homepage: https://www.aeteurope.com/
 Priority: optional
 Section: non-free/libs
-Filename: pool/main/s/safesignidentityclient/safesignidentityclient_3.7.0.0-AET.001_amd64.deb
-Size: 1781896
-SHA256: 9c7847554531d2f1713ba0a6f94c4e0d9c476c6c402f5649ddb0712fe6cebac8
-SHA1: 76ad97f2922291fb2f72edf72735058b900c020b
-MD5sum: 5b61f746e5ca7f5d09826eaa00a752d7
+Filename: pool/main/s/safesignidentityclient/safesignidentityclient_3.5.0.0-AET.000_amd64.deb
+Size: 1363618
+SHA256: 867258dc37360d7a97926feb86789f0c4f1f8f4235641482b3e6b3d729da2d8d
+SHA1: 19682d3ce6dfa1308895b7fcfda875ebd9b79fb4
+MD5sum: b72501be4b5eea8f5090228bde738b53
 Description: SafeSign Identity Client
  SafeSign Identity Client for Linux
 
