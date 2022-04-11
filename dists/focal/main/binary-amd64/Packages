@@ -122,6 +122,21 @@ MD5sum: 6f4cc81b779b24a6e0f563364c2b9be3
 Description: A tool for database modelling.
  This tool is used for learning in database modelling based on book Carlos A Heuser.
 
+Package: brynativemodule
+Version: 1.7.4
+Architecture: amd64
+Depends: libusb-0.1-4, libc6 (>= 2.17), libgcc1 (>= 1:3.0), libglib2.0-0 (>= 2.12.0), libgtk-3-0 (>= 3.1.4), libnspr4 (>= 2:4.9-2~), libnss3 (>= 2:3.13.4-2~), libstdc++6 (>= 7), libuuid1 (>= 2.16)
+Installed-Size: 4280
+Maintainer: BRy Tecnologia S.A. <atendimento@bry.com.br>
+Priority: optional
+Section: Utilities
+Filename: pool/main/b/brynativemodule/brynativemodule_1.7.4_amd64.deb
+Size: 1698450
+SHA256: 3a32fb6d79dd164b6d6abb7d79af14e5e7b260333c47146f33b02a6ec67262cd
+SHA1: 563fe14986499851c74824cccc40ee1c7a02516d
+MD5sum: 2b906decca4c0568d10bbc5605e29f9f
+Description: BRyNativeModule é o módulo nativo para a Extensão de Assinatura Digital BRy.
+
 Package: bsnes-nightly
 Version: 115.0.1
 Installed-Size: 16434
@@ -1201,6 +1216,22 @@ Description: Image Scan! Network Plugin
  All network capable Epson devices supported by Image Scan! are
  expected to work with this plugin.
 
+Package: lacuna-webpki
+Version: 2.11.8-1
+Architecture: amd64
+Maintainer: Lacuna Software <support@lacunasoftware.com>
+Depends: libc6 (>= 2.11), xdg-utils
+Homepage:  https://lacunasoftware.com/
+Priority: optional
+Section: web
+Filename: pool/main/l/lacuna-webpki/lacuna-webpki_2.11.8-1_amd64.deb
+Size: 31550504
+SHA256: b57667878071d4de34b6f9db0d3179cb8526f8b740d426217f3d3f70e242dede
+SHA1: 0426a69557cf052b3af86447650922e419b5fc1a
+MD5sum: 5f3b2b789fc9fa8c2b9d9fc9543ef53c
+Description: Lacuna WebPKI native
+ The Lacuna WebPKI native application.. An easy solution for using digital certificates in Web applications.
+
 Package: lexmark-aew-ppd-files
 Version: 1.0-06132018
 Architecture: amd64
@@ -1640,6 +1671,30 @@ SHA1: 84b3df6e8c98a6f2f60ee9cb5b17e9639ddb26f9
 MD5sum: 087eea97145bae94bac72d849e7cfd1d
 Description: Run libreoffice on LXQt Start.
  Auto initialize the libreoffice on LXQt for improve performance.
+
+Package: libssl1.0.0
+Source: openssl1.0
+Version: 1.0.2n-1ubuntu5.8
+Architecture: amd64
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Installed-Size: 3418
+Depends: libc6 (>= 2.14), debconf (>= 0.5) | debconf-2.0
+Multi-Arch: same
+Homepage: https://www.openssl.org
+Priority: important
+Section: libs
+Filename: pool/main/o/openssl1.0/libssl1.0.0_1.0.2n-1ubuntu5.8_amd64.deb
+Size: 1088116
+SHA256: 45862bea66452c1826f9348000661fc0ecf1f8aa2b3b4ae31a97313bb1c0189f
+SHA1: 9f4cb141b9ea5ff1f92ecdfe384259ece512d04b
+MD5sum: 9a7f6e95e6d15c0ad4de4858173ed137
+Description: Secure Sockets Layer toolkit - shared libraries
+ This package is part of the OpenSSL project's implementation of the SSL
+ and TLS cryptographic protocols for secure communication over the
+ Internet.
+ .
+ It provides the libssl and libcrypto shared libraries.
+Original-Maintainer: Debian OpenSSL Team <pkg-openssl-devel@lists.alioth.debian.org>
 
 Package: libv8-3.14.5
 Source: libv8-3.14
