@@ -2828,6 +2828,23 @@ Description: installer of Linux/BSD distributions to a partition or USB drive
  doesn't need a CD. It can create a dual-boot install, or replace the existing
  OS entirely.
 
+Package: usb-token-drivers
+Version: 0.0.1
+Installed-Size: 
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: openssl, opensc, pkcs11-data, libcrypto++6 | libcrypto++8, libssl-dev, libnss3-tools, safenetauthenticationclient, safesignidentityclient, brynativemodule
+Homepage: https://ailtonbsj.github.io
+Priority: optional
+Section: utils
+Filename: pool/main/u/usb-token-drivers/usb-token-drivers_0.0.1_all.deb
+Size: 904
+SHA256: 11191a711e87c32ea9d8b1a8570ef0ab758f7c5f7e7060597f09d6269e8fdfa0
+SHA1: 78e63320593a722e8b62e4ee84a02939d5968417
+MD5sum: a43eeb6cd453ceb0a6631e9b9cf62b90
+Description: Support of some USB Token
+ The USB Tokens supported are GD StarSign Crypto e Aladdin eToken PRO USB 72k.
+
 Package: ventoy
 Version: 1.0.45
 Installed-Size: 14102
