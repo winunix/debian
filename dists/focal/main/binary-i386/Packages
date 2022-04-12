@@ -986,15 +986,15 @@ Version: 0.0.1
 Installed-Size: 
 Maintainer: ailtonbsj <ailton.ifce@gmail.com>
 Architecture: all
-Depends: openssl, opensc, pkcs11-data, libcrypto++6 | libcrypto++8, libssl-dev, libnss3-tools, safenetauthenticationclient, safesignidentityclient, brynativemodule
+Depends: openssl, opensc, pkcs11-data, libcrypto++6 | libcrypto++8, libssl-dev, libnss3-tools, safenetauthenticationclient, safesignidentityclient, brynativemodule, lacuna-webpki
 Homepage: https://ailtonbsj.github.io
 Priority: optional
 Section: utils
 Filename: pool/main/u/usb-token-drivers/usb-token-drivers_0.0.1_all.deb
-Size: 904
-SHA256: 11191a711e87c32ea9d8b1a8570ef0ab758f7c5f7e7060597f09d6269e8fdfa0
-SHA1: 78e63320593a722e8b62e4ee84a02939d5968417
-MD5sum: a43eeb6cd453ceb0a6631e9b9cf62b90
+Size: 912
+SHA256: 1e53641db22f9fc62b02442769e4ec4f0389a81090bd25c47b28b7974c153856
+SHA1: 293c6aae6bbbc81f1a0b824fd7192e671f3e0aa2
+MD5sum: 25187fe09cb4f23110316ec009bf190a
 Description: Support of some USB Token
  The USB Tokens supported are GD StarSign Crypto e Aladdin eToken PRO USB 72k.
 
