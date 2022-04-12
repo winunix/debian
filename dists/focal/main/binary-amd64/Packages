@@ -2829,7 +2829,7 @@ Description: installer of Linux/BSD distributions to a partition or USB drive
  OS entirely.
 
 Package: usb-token-drivers
-Version: 0.0.1
+Version: 0.0.2
 Installed-Size: 
 Maintainer: ailtonbsj <ailton.ifce@gmail.com>
 Architecture: all
@@ -2837,11 +2837,11 @@ Depends: openssl, opensc, pkcs11-data, libcrypto++6 | libcrypto++8, libssl-dev, 
 Homepage: https://ailtonbsj.github.io
 Priority: optional
 Section: utils
-Filename: pool/main/u/usb-token-drivers/usb-token-drivers_0.0.1_all.deb
-Size: 912
-SHA256: 1e53641db22f9fc62b02442769e4ec4f0389a81090bd25c47b28b7974c153856
-SHA1: 293c6aae6bbbc81f1a0b824fd7192e671f3e0aa2
-MD5sum: 25187fe09cb4f23110316ec009bf190a
+Filename: pool/main/u/usb-token-drivers/usb-token-drivers_0.0.2_all.deb
+Size: 916
+SHA256: c7373f4501f2cb207e09a164f40715ab0455ec29a94489a4058d24e072b53af4
+SHA1: 8ed0e6ca04bacd9eacc7d4638e83c37abee0cf9c
+MD5sum: aac4707c8271534271fea1016908868c
 Description: Support of some USB Token
  The USB Tokens supported are GD StarSign Crypto e Aladdin eToken PRO USB 72k.
 
