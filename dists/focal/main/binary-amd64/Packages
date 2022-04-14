@@ -3148,20 +3148,20 @@ Description: Youtube-dlp and a frontend.
  This package install youtube-dlp and a frontend youtube-dlg fork.
 
 Package: youtube-dlg
-Version: 0.4-2
+Version: 0.4-3
 Architecture: all
 Maintainer: crasheddie <crash.eddie123@gmail.com>
 Installed-Size: 2395
-Depends: python3
+Depends: python3, zenity
 Recommends: libav-tools | ffmpeg
 Homepage: https://github.com/oleksis/youtube-dl-gui
 Priority: extra
 Section: gnome
-Filename: pool/main/y/youtube-dlg/youtube-dlg_0.4-2_all.deb
-Size: 2325228
-SHA256: 4ea0279ac98213f1709304e9bd2b21fdb9238073044b6e2eecfe94552593d4d6
-SHA1: 269886dca8e931479bc98936c59140dacb3ffe21
-MD5sum: 4e68ca08004f0725e5a09be12766056c
+Filename: pool/main/y/youtube-dlg/youtube-dlg_0.4-3_all.deb
+Size: 2325460
+SHA256: ac7d1f73d91e2e37dcff0f741924626db987039947f42eb94d14e52957a42832
+SHA1: 8351e249a2c00d7b935afa6119425966b9a70278
+MD5sum: 9b17efc1520b7e66a37bc5a5468eba03
 Description: youtube-dl gui for yt-dlp
  A cross platform front-end GUI of the popular youtube-dlp written in wxPython.
 
