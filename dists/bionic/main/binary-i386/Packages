@@ -151,7 +151,7 @@ Description: Atalho para o sistemas de reservas da CREDE17.
  Um lançador utilizando o browser para abrir o sistema de reservas da CREDE17.
 
 Package: crede17-printers
-Version: 0.0.3
+Version: 0.0.4
 Installed-Size: 3200
 Maintainer: ailtonbsj <ailton.ifce@gmail.com>
 Architecture: all
@@ -159,11 +159,11 @@ Depends: lexmark-mx722, epson-l3250, epson-l210
 Homepage: https://ailtonbsj.github.io
 Priority: optional
 Section: utils
-Filename: pool/main/c/crede17-printers/crede17-printers_0.0.3_all.deb
-Size: 1756
-SHA256: de89e70a2e9e932da3f631e23388bdb778ac517fb732162c6cfe0ce3944c4b66
-SHA1: 95b51995b0accec9dfb20b2c21bc171b3d8dc14f
-MD5sum: db9bd3f140bacdea640e04f5fe439c65
+Filename: pool/main/c/crede17-printers/crede17-printers_0.0.4_all.deb
+Size: 1792
+SHA256: 549d0b8de61d1c039280d5675349377cbf087f3ae9c1bf38db2e3844ae4ee2c5
+SHA1: 2f12fbb9ff9ce20710b8ca03af9a1e8a98c54e87
+MD5sum: e5f2ed4c2773291afbead7829f6dcbba
 Description: impressoras da CREDE17.
  Instala drivers e adiciona todas as impressoras da CREDE17.
 
