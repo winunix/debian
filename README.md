@@ -6,7 +6,7 @@ Apps para Linux Focal Fossa.
 
 Adicione a chave:
 ```bash
-wget -qO - "https://winunix.github.io/debian/public.key" | sudo apt-key add -
+wget -qO - "https://winunix.github.io/debian/public.key" | sudo tee /etc/apt/trusted.gpg.d/winunix.asc
 ```
 
 Adicione o repositório:
