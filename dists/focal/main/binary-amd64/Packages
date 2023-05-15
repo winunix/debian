@@ -2785,6 +2785,23 @@ Description: Real Time Electronic Circuit Simulator.
  .
  Features: Analog and Digital components. Microcontrollers. Editor / Debugger. Subcircuits. Oscilloscope. Signal Plotter. Serial Port Connection. Serial Monitor.
 
+Package: superlock
+Version: 0.0.1
+Installed-Size: 1
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Architecture: all
+Depends: xfce4-screensaver
+Homepage: https://github.com/winunix/superlock
+Priority: optional
+Section: utils
+Filename: pool/main/s/superlock/superlock_0.0.1_all.deb
+Size: 862
+SHA256: 487c1668c53872a26ed900f5cd8165e58d9e8d6cfc898bd39d8a1492f79da4fc
+SHA1: bcb795f2df8b2194aa26dcbe958a5d934d7a4384
+MD5sum: 3f5cfed31469f92a36721ed29b4583c4
+Description: superlock for XFCE4.
+ Lock screen for xfce4. You can use with Veyon to control access on computers.
+
 Package: system-config-samba-wx
 Version: 1.2.64
 Architecture: all
